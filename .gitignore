@@ -1,0 +1,35 @@
+# Gradle / Kotlin / Android
+.gradle/
+build/
+.kotlin/
+local.properties
+*.apk
+*.aab
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+out/
+
+# Node / React Native / Expo
+node_modules/
+.expo/
+dist/
+
+# Python / notebooks
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# Secrets & env
+.env
+*.keystore
+*.jks
+google-services.json
+service-account*.json
+
+# macOS
+.DS_Store
