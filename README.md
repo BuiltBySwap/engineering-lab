@@ -1,39 +1,14 @@
-# Project name
+# Engineering Lab
 
-> One line: what this does and who it's for.
+Deep dives into **Android internals, system design, backend and AI** — written while I learn, with diagrams, traces and numbers.
 
-<!-- Badges: CI · release · live link -->
+🌐 **Site:** https://builtbyswap.github.io/engineering-lab/
 
-## Problem — why this exists
-What hurt before this project? What did people do instead, and why wasn't that good enough?
+Every page follows the same *Origin Story* shape: the problem → the old way → why it broke → the invention → how it works inside → where I used it → trade-offs.
 
-## Demo
-<!-- GIF / screenshot / video link -->
-
-## Architecture
-```mermaid
-flowchart LR
-  UI --> ViewModel --> Repository --> API[(API / DB)]
-```
-
-## Tech stack
--
-
-## Key decisions & trade-offs
-| Decision | Why | What I gave up |
-|---|---|---|
-| | | |
-
-## Numbers
-<!-- startup ms, build time, eval score, latency… measured, never guessed -->
-
-## How to run
 ```bash
-# steps
+# run locally
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+mkdocs serve
 ```
-
-## What I learned
--
-
-## Roadmap
-- [ ]

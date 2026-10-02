@@ -1,0 +1,51 @@
+site_name: Engineering Lab
+site_description: Deep dives into Android internals, system design, backend and AI — learning in public.
+site_url: https://builtbyswap.github.io/engineering-lab/
+repo_url: https://github.com/BuiltBySwap/engineering-lab
+repo_name: BuiltBySwap/engineering-lab
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - Home: index.md
+  - Android:
+      - Overview: android/index.md
+      - Production app architecture: android/architecture.md
+  - System design:
+      - Overview: system-design/index.md
+  - AI:
+      - Overview: ai/index.md
+  - Backend:
+      - Overview: backend/index.md
+  - React Native:
+      - Overview: rn/index.md
+  - Templates:
+      - Origin-story note: note-templates/origin-story.md
