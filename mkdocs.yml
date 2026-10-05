@@ -39,6 +39,7 @@ nav:
   - Android:
       - Overview: android/index.md
       - Production app architecture: android/architecture.md
+      - Coroutines under the hood: android/coroutines-cps.md
   - System design:
       - Overview: system-design/index.md
   - AI:
