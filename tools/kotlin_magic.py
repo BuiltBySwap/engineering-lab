@@ -111,9 +111,11 @@ def _kotlin_cell(line: str, cell: str) -> None:
 
 
 try:
+    from IPython import get_ipython
     from IPython.core.magic import register_cell_magic
+except ImportError:  # plain Python (for example tools/check_notebooks.py): run_kotlin(code) still works
+    get_ipython = None
 
+if get_ipython is not None and get_ipython() is not None:  # only inside a notebook / IPython session
     register_cell_magic("kotlin")(_kotlin_cell)
     print(f"%%kotlin is ready (Kotlin {KOTLIN_VERSION}). The first Kotlin cell downloads the compiler.")
-except ImportError:
-    print("IPython not found: call run_kotlin(code) directly.")

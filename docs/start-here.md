@@ -30,5 +30,6 @@ Every day has one page: [Status](status.md) shows today and what is still open.
 
 - Source data lives in `data/days/<date>.yaml` and `docs/topics/<ID>.ipynb`. The pages you read are generated from them.
 - Use the search box on the [home page](index.md) to find anything, including code.
+- Every code cell is meant to run: see [How to run the code](run-the-code.md).
 - The code lives in separate repos: see [Code repositories](repos.md).
 - No private information belongs in this repo: it is public.

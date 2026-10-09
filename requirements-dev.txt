@@ -1,0 +1,6 @@
+# Needed to RUN the notebook code locally (VS Code / Jupyter) and to check it
+numpy
+matplotlib
+ipykernel
+nbformat
+pyyaml

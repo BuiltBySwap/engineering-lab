@@ -87,7 +87,7 @@ def main() -> None:
             "        * [Thinking models](role-lens/models.md)"]
     out += ["* Projects", "    * [Code repositories](repos.md)"]
     out += [f"    * [{label(s)}]({s['page']})" for s in by_topic.get("projects", [])]
-    out += ["* Tools and setup"]
+    out += ["* Tools and setup", "    * [How to run the code](run-the-code.md)"]
     out += [f"    * [{label(s)}]({s['page']})" for s in by_topic.get("tools", [])]
     out += ["    * [Origin-story note template](note-templates/origin-story.md)"]
     out += ["* Index", "    * [All sessions (Progress)](progress.md)", "    * [Tags](tags.md)"]
