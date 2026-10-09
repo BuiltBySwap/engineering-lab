@@ -1,0 +1,33 @@
+date: '2026-12-25'
+day: Fri
+week: 12
+session: AI-13
+session_title: 'AI tools tour 1 (holiday-light): research & coding tools'
+track: AI Tools
+hours: 1.17
+mq:
+- id: MQ440
+  category: On-device AI
+  question: How does thermal throttling limit long AI sessions?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Decision making
+  words:
+  - word: decisive
+    meaning: makes decisions quickly
+  - word: hindsight
+    meaning: understanding after the event
+  grammar: Reported speech ("She said the build was failing")
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "AI tools tour 1 (holiday-light): research & coding tools" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

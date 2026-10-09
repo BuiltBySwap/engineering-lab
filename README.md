@@ -12,3 +12,25 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 mkdocs serve
 ```
+
+## How this repo works (a book, built from data)
+
+| Source (edit these) | Becomes |
+|---|---|
+| `docs/topics/<ID>.ipynb` | One notebook per session: notes, examples, runnable code, bug diary. First cell = status card |
+| `data/days/<date>.yaml` | One file per day: session, Mobile Exploration Q&A, English, Role lens |
+| `data/mobile-exploration/bank.yaml` | The 443-question bank (static) |
+
+Generated on every build (not committed): Progress, Tags, Status (`status.json`), day pages, the Mobile Exploration, English and Role lens tabs.
+
+- `python tools/build_index.py && python tools/build_book.py && mkdocs serve` builds and previews locally.
+- `python tools/new_topic.py AI-03 "Title" ai` creates a session notebook.
+- Python runs in Colab. Kotlin runs in the same notebooks with `%%kotlin` (see `LAB-01`).
+- `docs/llms.txt` tells an AI where to start: read `status.json` first, then only the day or session needed.
+- The site rebuilds every day at 00:00 IST, so "today" updates by itself.
+
+## Code repos and pushing
+
+- Code lives in separate repos (see the site's **Code repositories** page): `kaizen`, `kotlin-dsa-kata`, `repo-template`.
+- `bash tools/repo_status.sh` shows what is uncommitted or unpushed in every repo.
+- `bash tools/link_repos.sh` adds a "Learning notes" section to each repo's README, linking back to this book (run once, then commit).

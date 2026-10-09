@@ -1,0 +1,33 @@
+date: '2026-12-23'
+day: Wed
+week: 12
+session: SD-12
+session_title: Notification system (FCM/APNs, fan-out, retries, preferences)
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ153
+  category: Notifications
+  question: How does Android decide whether to wake the screen?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Decision making
+  words:
+  - word: reversible
+    meaning: can be undone
+  - word: consequential
+    meaning: important in effect
+  grammar: Reported speech ("She said the build was failing")
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "Notification system (FCM/APNs, fan-out, retries, preferences)" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

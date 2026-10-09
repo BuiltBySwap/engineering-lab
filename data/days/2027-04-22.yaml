@@ -1,0 +1,33 @@
+date: '2027-04-22'
+day: Thu
+week: 29
+session: RN-17
+session_title: 'Testing RN: Jest, React Native Testing Library, Maestro'
+track: React Native
+hours: 1.17
+mq:
+- id: MQ405
+  category: Cross-platform (RN / KMP / Flutter)
+  question: How does Compose Multiplatform draw UI on iOS?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Reflection
+  words:
+  - word: milestone (personal)
+    meaning: personal achievement
+  - word: recalibrate
+    meaning: adjust again
+  grammar: Emphasis & stress in spoken English
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Testing RN: Jest, React Native Testing Library, Maestro" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

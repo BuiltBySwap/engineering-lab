@@ -1,0 +1,33 @@
+date: '2026-10-12'
+day: Mon
+week: 2
+session: DSA-02
+session_title: Binary Search on the Answer (monotonic predicate)
+track: DSA
+hours: 1.17
+mq:
+- id: MQ6
+  category: Boot Process
+  question: How does Zygote start?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Architecture talk
+  words:
+  - word: scalable
+    meaning: grows without breaking
+  - word: robust
+    meaning: strong under stress
+  grammar: Past simple vs present perfect ("I built" vs "I have built")
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Binary Search on the Answer (monotonic predicate)" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2026-10-07'
+day: Wed
+week: 1
+session: SD-01
+session_title: Android System Design interview framework
+track: Android System Design
+hours: 1.17
+mq:
+- id: MQ317
+  category: Production Questions
+  question: How does WhatsApp retry sending messages after reconnecting?
+  status: done
+  guess: Queue unsent messages in Room with a timestamp; a network listener tells the app the internet is back; a message ID plus a server copy prevents duplicates; clock = not sent, one tick = server, two ticks = read.
+  answer: 'Write EVERY message to Room first (outbox) with a client-generated UUID and status PENDING. A sender drains it over the socket, or WorkManager with a network constraint if the app was killed, retrying with backoff + jitter. The server dedupes by message ID and assigns a per-chat sequence number. Ticks are acknowledgements: server ACK = one tick, delivery receipt = grey double tick, read receipt = blue.'
+english:
+  kind: words
+  theme: Problem solving
+  words:
+  - word: feasible
+    meaning: possible to do
+  - word: constraint
+    meaning: a limit you must respect
+  grammar: Present simple vs present continuous
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "Android System Design interview framework" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,47 @@
+date: '2027-01-16'
+day: Sat
+week: 15
+session: DD-16
+session_title: 'DI internals: Dagger codegen, components, scopes, Hilt, multibinding vs Koin'
+track: DI Internals
+hours: 4.33
+mq:
+- id: MQ20
+  category: Boot Process
+  question: How does Android recover after a failed OTA?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ23
+  category: App Installation
+  question: How does Android install an APK?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Writing documents
+  words: []
+  grammar: 'Punctuation: commas, run-on sentences, full stops'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - draft
+  - outline
+  - proofread
+  - concise (writing)
+  - revise
+  - appendix
+  - summary
+  - audience
+  - tone
+  - structure
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelDelegation levels
+  question: 'Model of the week: Delegation levels. Tell → sell → consult → agree → advise → inquire → delegate. Match the level to the person and risk. Drill: Which level fits each task you could delegate?'
+  model: Delegation levels
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2027-01-06'
+day: Wed
+week: 14
+session: SD-14
+session_title: Design an Analytics SDK (client)
+track: Android System Design
+hours: 1.17
+mq:
+- id: MQ178
+  category: Background Execution
+  question: How does Android allow background execution?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Data & metrics
+  words:
+  - word: outlier
+    meaning: value far from others
+  - word: benchmark
+    meaning: standard for comparison
+  grammar: 'Linking words: however, therefore, although, whereas'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "Design an Analytics SDK (client)" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

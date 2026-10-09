@@ -1,0 +1,47 @@
+date: '2026-11-21'
+day: Sat
+week: 7
+session: DD-08
+session_title: 'Rendering 2: SurfaceFlinger, BufferQueue, HWC, Skia/HWUI, FrameTimeline'
+track: Rendering Pipeline
+hours: 4.33
+mq:
+- id: MQ73
+  category: UI Rendering
+  question: How does Android know which View received the touch?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ74
+  category: UI Rendering
+  question: How does gesture detection work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Ownership & impact
+  words: []
+  grammar: 'Modal verbs for suggestions: should / could / would / might'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - spearhead
+  - initiative
+  - streamline
+  - quantify
+  - accountable
+  - instrumental
+  - overhaul
+  - proactive
+  - outcome
+  - leverage (n.)
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelOne-way vs two-way doors
+  question: 'Model of the week: One-way vs two-way doors. Irreversible decisions deserve slow care; reversible ones should be fast. Drill: Classify 5 decisions this week as one-way or two-way.'
+  model: One-way vs two-way doors
+  status: todo
+  my_answer: ''
+  model_answer: ''

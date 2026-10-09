@@ -1,0 +1,27 @@
+date: '2026-09-29'
+day: Tue
+week: 0
+session: W0-4
+session_title: 'Week 0 · GitHub portfolio foundation: profile, conventions, templates'
+track: Setup
+hours: 1.17
+mq: []
+english:
+  kind: words
+  theme: Explaining clearly
+  words:
+  - word: elaborate
+    meaning: add more detail
+  - word: clarify
+    meaning: make easier to understand
+  grammar: 'Articles: a / an / the (and when to use none)'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: skipped
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: how would you make today's setup repeatable for every new engineer on your team?
+  status: skipped
+  my_answer: ''
+  model_answer: ''

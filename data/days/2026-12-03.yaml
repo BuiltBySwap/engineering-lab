@@ -1,0 +1,33 @@
+date: '2026-12-03'
+day: Thu
+week: 9
+session: BE-11
+session_title: WebSockets in Ktor (real-time)
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ430
+  category: Mobile Backend & Sync
+  question: How does a CDN serve images faster to users in Mumbai vs New York?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Change & migration
+  words:
+  - word: adopt
+    meaning: start using
+  - word: phase out
+    meaning: gradually stop
+  grammar: Conditionals 2 & 3 (if we had…, we would have…)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "WebSockets in Ktor (real-time)" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

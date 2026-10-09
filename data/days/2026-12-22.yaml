@@ -1,0 +1,33 @@
+date: '2026-12-22'
+day: Tue
+week: 12
+session: AND-12
+session_title: 'Architecture: MVVM vs MVI vs UDF (deep comparison)'
+track: Android Architecture
+hours: 1.17
+mq:
+- id: MQ253
+  category: Sync Engine
+  question: How does Android determine what changed?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Decision making
+  words:
+  - word: criteria
+    meaning: standards for judging
+  - word: weigh (options)
+    meaning: compare carefully
+  grammar: Reported speech ("She said the build was failing")
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Architecture: MVVM vs MVI vs UDF (deep comparison)"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

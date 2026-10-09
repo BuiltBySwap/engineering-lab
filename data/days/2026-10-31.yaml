@@ -1,0 +1,47 @@
+date: '2026-10-31'
+day: Sat
+week: 4
+session: DD-05
+session_title: 'System services: AMS/ATMS, PMS, WMS — how startActivity travels'
+track: Android Internals
+hours: 4.33
+mq:
+- id: MQ56
+  category: Activity & Navigation
+  question: How does Activity launching work?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ57
+  category: Activity & Navigation
+  question: How does Activity switching work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Feedback
+  words: []
+  grammar: Subject–verb agreement (the team is / the data are)
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - constructive
+  - candid
+  - acknowledge
+  - commend
+  - actionable
+  - tactful
+  - recurring
+  - perspective
+  - appreciate
+  - address
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking model5 Whys
+  question: 'Model of the week: 5 Whys. Keep asking why until you hit a process cause, not a person. Drill: Run 5 Whys on a bug you once shipped.'
+  model: 5 Whys
+  status: todo
+  my_answer: ''
+  model_answer: ''

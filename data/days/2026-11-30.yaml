@@ -1,0 +1,33 @@
+date: '2026-11-30'
+day: Mon
+week: 9
+session: DSA-09
+session_title: 'Graphs 1: DFS/BFS on grids (flood fill, islands)'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ13
+  category: Boot Process
+  question: How does Android restore apps after reboot?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Change & migration
+  words:
+  - word: deprecate
+    meaning: mark as outdated
+  - word: legacy
+    meaning: old but still used
+  grammar: Conditionals 2 & 3 (if we had…, we would have…)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Graphs 1: DFS/BFS on grids (flood fill, islands)" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

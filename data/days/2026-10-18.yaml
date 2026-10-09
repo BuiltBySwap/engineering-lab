@@ -1,0 +1,47 @@
+date: '2026-10-18'
+day: Sun
+week: 2
+session: PRJ-03
+session_title: 'Kaizen: Postgres + Exposed + Flyway + docker-compose'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ424
+  category: Mobile Backend & Sync
+  question: How does cursor pagination avoid duplicates while new items arrive?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ425
+  category: Mobile Backend & Sync
+  question: How does an idempotency key stop double payments when the app retries?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Architecture talk
+  words: []
+  grammar: Past simple vs present perfect ("I built" vs "I have built")
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - scalable
+  - robust
+  - decouple
+  - cohesive
+  - extensible
+  - resilient
+  - latency
+  - throughput
+  - overhead
+  - redundant
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'Review this week''s build as a CTO: what would you approve, question, or cut — and why? Apply "Trade-off matrix".'
+  model: Trade-off matrix
+  status: todo
+  my_answer: ''
+  model_answer: ''

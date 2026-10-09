@@ -1,0 +1,47 @@
+date: '2027-01-09'
+day: Sat
+week: 14
+session: DD-15
+session_title: 'Build 2: AGP pipeline (AAPT2, D8/R8, AAB) + convention plugins & version catalogs'
+track: Build Systems
+hours: 4.33
+mq:
+- id: MQ392
+  category: Build & Release
+  question: How does Play's staged rollout pick which users get the update?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ393
+  category: Build & Release
+  question: How does a crash reporter capture a native crash?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Data & metrics
+  words: []
+  grammar: 'Linking words: however, therefore, although, whereas'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - metric
+  - trend
+  - correlation
+  - causation
+  - outlier
+  - benchmark
+  - granular
+  - aggregate
+  - insight
+  - attribute (v.)
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelStakeholder mapping
+  question: 'Model of the week: Stakeholder mapping. Power × interest grid — manage closely, keep satisfied, keep informed, monitor. Drill: Map stakeholders of your Amaha app''s last big release.'
+  model: Stakeholder mapping
+  status: todo
+  my_answer: ''
+  model_answer: ''

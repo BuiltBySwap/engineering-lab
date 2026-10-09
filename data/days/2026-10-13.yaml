@@ -1,0 +1,33 @@
+date: '2026-10-13'
+day: Tue
+week: 2
+session: AND-02
+session_title: 'Structured concurrency: Job tree, cancellation, exceptions'
+track: Kotlin Deep
+hours: 1.17
+mq:
+- id: MQ338
+  category: Kotlin & Coroutines Runtime
+  question: How does viewModelScope cancel work when a screen closes?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Architecture talk
+  words:
+  - word: decouple
+    meaning: reduce dependency
+  - word: cohesive
+    meaning: parts belong together
+  grammar: Past simple vs present perfect ("I built" vs "I have built")
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Structured concurrency: Job tree, cancellation, exceptions"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

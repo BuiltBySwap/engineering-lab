@@ -1,0 +1,33 @@
+date: '2026-10-16'
+day: Fri
+week: 2
+session: AI-03
+session_title: Backpropagation & autograd (build a mini autograd engine)
+track: AI Foundations (from scratch)
+hours: 1.17
+mq:
+- id: MQ386
+  category: Build & Release
+  question: How does Gradle decide a task is UP-TO-DATE?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Architecture talk
+  words:
+  - word: overhead
+    meaning: extra cost
+  - word: redundant
+    meaning: extra, for safety or unnecessary
+  grammar: Past simple vs present perfect ("I built" vs "I have built")
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "Backpropagation & autograd (build a mini autograd engine)" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

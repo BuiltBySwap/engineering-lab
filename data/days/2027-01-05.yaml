@@ -1,0 +1,33 @@
+date: '2027-01-05'
+day: Tue
+week: 14
+session: AND-14
+session_title: 'Modularization at scale: feature/core, api/impl, dynamic delivery'
+track: Android Architecture
+hours: 1.17
+mq:
+- id: MQ255
+  category: Sync Engine
+  question: How does incremental synchronization work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Data & metrics
+  words:
+  - word: correlation
+    meaning: things change together
+  - word: causation
+    meaning: one causes the other
+  grammar: 'Linking words: however, therefore, although, whereas'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Modularization at scale: feature/core, api/impl, dynamic delivery"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

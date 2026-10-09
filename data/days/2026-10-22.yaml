@@ -1,0 +1,33 @@
+date: '2026-10-22'
+day: Thu
+week: 3
+session: BE-05
+session_title: PostgreSQL + SQL refresher + Docker Compose
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ426
+  category: Mobile Backend & Sync
+  question: How does a signed URL let a phone upload directly to storage?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Meetings
+  words:
+  - word: defer
+    meaning: postpone
+  - word: recap
+    meaning: short summary
+  grammar: 'Prepositions of time & place: in / on / at'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "PostgreSQL + SQL refresher + Docker Compose" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

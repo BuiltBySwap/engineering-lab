@@ -7,10 +7,13 @@ repo_name: BuiltBySwap/engineering-lab
 theme:
   name: material
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - content.code.copy
     - search.suggest
+    - search.highlight
   palette:
     - scheme: default
       toggle:
@@ -20,6 +23,17 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Light mode
+
+plugins:
+  - search
+  - mkdocs-jupyter:
+      include_source: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/home-search.js
 
 markdown_extensions:
   - admonition
@@ -34,19 +48,32 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
+hooks:
+  - hooks/kotlin_cells.py
+
 nav:
   - Home: index.md
-  - Android:
-      - Overview: android/index.md
+  - Start here: start-here.md
+  - Status: status.md
+  - Sessions:
+      - Progress: progress.md
+      - Tags: tags.md
+  - Mobile Exploration:
+      - Overview: mobile-exploration/index.md
+  - English:
+      - Word of the day: english/index.md
+      - Vocabulary: english/vocabulary.md
+      - Error log: english/error-log.md
+  - Role lens:
+      - Overview: role-lens/index.md
+      - Thinking models: role-lens/models.md
+  - Reference:
+      - Code repositories: repos.md
+      - Android: android/index.md
       - Production app architecture: android/architecture.md
-      - Coroutines under the hood: android/coroutines-cps.md
-  - System design:
-      - Overview: system-design/index.md
-  - AI:
-      - Overview: ai/index.md
-  - Backend:
-      - Overview: backend/index.md
-  - React Native:
-      - Overview: rn/index.md
-  - Templates:
+      - System design: system-design/index.md
+      - AI: ai/index.md
+      - Backend: backend/index.md
+      - DSA: dsa/index.md
+      - React Native: rn/index.md
       - Origin-story note: note-templates/origin-story.md

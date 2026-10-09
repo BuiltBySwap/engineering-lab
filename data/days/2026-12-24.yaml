@@ -1,0 +1,33 @@
+date: '2026-12-24'
+day: Thu
+week: 12
+session: BE-16
+session_title: 'Docker fundamentals: images, layers, containers'
+track: Backend (DevOps)
+hours: 1.17
+mq:
+- id: MQ288
+  category: Caching
+  question: How does image caching work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Decision making
+  words:
+  - word: arbitrary
+    meaning: without good reason
+  - word: informed
+    meaning: based on knowledge
+  grammar: Reported speech ("She said the build was failing")
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Docker fundamentals: images, layers, containers" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

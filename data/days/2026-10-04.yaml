@@ -1,0 +1,47 @@
+date: '2026-10-04'
+day: Sun
+week: 0
+session: PRJ-01
+session_title: 'Kaizen kickoff: monorepo, ADR-001, Android skeleton showing today''s plan'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ116
+  category: Notifications
+  question: How does Android receive push notifications?
+  status: done
+  guess: Android uses FCM to register each device with an FCM token.
+  answer: Google Play services keeps ONE shared, long-lived connection to Google. The server calls FCM with the token, FCM pushes the message down that connection, and Play services hands it to the app, waking it if needed. The app only registers and gets a token.
+- id: MQ117
+  category: Notifications
+  question: Why do notifications arrive instantly?
+  status: done
+  guess: Even if the app is closed, FCM registers the device and the notification is sent to the device.
+  answer: It is instant because the connection is already open (no polling) and owned by Play services, a separate process that stays alive and starts the app only when a message arrives. One shared connection costs far less battery than one socket per app.
+english:
+  kind: practice
+  theme: Explaining clearly
+  words: []
+  grammar: 'Articles: a / an / the (and when to use none)'
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - articulate
+  - concise
+  - elaborate
+  - clarify
+  - convey
+  - nuance
+  - coherent
+  - succinct
+  - illustrate
+  - gist
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'Review this week''s build as a Mobile Lead: what would you approve, question, or cut — and why? Apply "The four hats".'
+  model: The four hats
+  status: todo
+  my_answer: ''
+  model_answer: ''

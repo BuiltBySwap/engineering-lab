@@ -1,0 +1,33 @@
+date: '2026-11-11'
+day: Wed
+week: 6
+session: SD-06
+session_title: 'News feed backend: fan-out on write vs fan-out on read'
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ287
+  category: Caching
+  question: How does Android cache network responses?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Persuasion
+  words:
+  - word: concede
+    meaning: admit a point
+  - word: counterpoint
+    meaning: opposing argument
+  grammar: Comparatives & superlatives (faster, more reliable, the most scalable)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "News feed backend: fan-out on write vs fan-out on read" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

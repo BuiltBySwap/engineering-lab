@@ -1,0 +1,33 @@
+date: '2027-02-22'
+day: Mon
+week: 21
+session: DSA-21
+session_title: 'Mock #3 (Google-style: 1 medium + 1 hard)'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ36
+  category: App Launch
+  question: How does Application.onCreate() get called?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Hiring & growth
+  words:
+  - word: competency
+    meaning: skill or ability
+  - word: calibrate
+    meaning: align standards
+  grammar: 'Conciseness: cutting filler words ("basically", "actually", "like")'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Mock #3 (Google-style: 1 medium + 1 hard)" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

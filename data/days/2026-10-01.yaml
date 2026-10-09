@@ -1,0 +1,39 @@
+date: '2026-10-01'
+day: Thu
+week: 0
+session: BE-01
+session_title: 'How a backend really works: from socket to response'
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ420
+  category: Mobile Backend & Sync
+  question: How does a backend know which devices belong to a user for push?
+  status: done
+  guess: Each device has its own FCM token; after login the app sends it to the backend, mapped to the user ID; when the token changes the server updates it; the server pushes using that token.
+  answer: 'Keep a `devices` table (many devices per user): upsert on onNewToken, delete on logout, delete when FCM reports the token UNREGISTERED, send to every token of the user; use topics for broadcasts.'
+english:
+  kind: words
+  theme: Explaining clearly
+  words:
+  - word: coherent
+    meaning: logical and consistent
+  - word: succinct
+    meaning: briefly expressed
+  grammar: 'Articles: a / an / the (and when to use none)'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: done
+  sentences:
+  - The Ktor doc is coherent for the backend development.
+  - Be succinct when writing an email.
+  - A server handles the backend task, which runs continuously.
+  feedback:
+  - '''coherent'' describes the thing itself: ''The Ktor docs give a coherent explanation of backend development.'' No article before ''backend development''.'
+  - 'Perfect: ''an email'' uses the right article.'
+  - '''which'' points to the nearest noun: ''A server is a process that runs continuously and handles backend tasks.'''
+lens:
+  role: CTO
+  question: 'What is the business impact of "How a backend really works: from socket to response" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: done
+  my_answer: ''
+  model_answer: Completed in chat (answer not recorded).

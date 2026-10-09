@@ -1,0 +1,33 @@
+date: '2026-11-05'
+day: Thu
+week: 5
+session: BE-08
+session_title: 'Authentication: password hashing, JWT access/refresh tokens'
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ429
+  category: Mobile Backend & Sync
+  question: How does an offline edit get merged when two devices changed the same note?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Planning & estimation
+  words:
+  - word: slippage
+    meaning: delay versus plan
+  - word: baseline
+    meaning: starting measurement
+  grammar: 'Uncountable nouns: information, feedback, advice, equipment (no "s")'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Authentication: password hashing, JWT access/refresh tokens" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

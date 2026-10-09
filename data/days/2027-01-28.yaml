@@ -1,0 +1,33 @@
+date: '2027-01-28'
+day: Thu
+week: 17
+session: BE-18
+session_title: 'API design practices: versioning, pagination, idempotency, SSE streaming, OpenAPI'
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ109
+  category: Network
+  question: How does Android know Airplane Mode changed?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Conflict
+  words:
+  - word: reconcile
+    meaning: bring together
+  - word: assertive
+    meaning: confident, not aggressive
+  grammar: Question forms & polite questions in meetings
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "API design practices: versioning, pagination, idempotency, SSE streami" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

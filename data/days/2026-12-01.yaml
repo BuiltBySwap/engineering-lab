@@ -1,0 +1,33 @@
+date: '2026-12-01'
+day: Tue
+week: 9
+session: AND-09
+session_title: 'Compose compiler: stability inference, strong skipping, groups, metrics'
+track: Compose Internals
+hours: 1.17
+mq:
+- id: MQ349
+  category: Compose & UI Toolkit
+  question: How does rememberSaveable survive process death?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Change & migration
+  words:
+  - word: incremental
+    meaning: small steps
+  - word: backward-compatible
+    meaning: works with old versions
+  grammar: Conditionals 2 & 3 (if we had…, we would have…)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Compose compiler: stability inference, strong skipping, groups, metric"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

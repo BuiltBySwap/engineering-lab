@@ -1,0 +1,33 @@
+date: '2026-11-10'
+day: Tue
+week: 6
+session: AND-06
+session_title: 'Concurrency on Android: JMM, volatile, atomics, Mutex + race/deadlock/ANR patterns'
+track: Concurrency
+hours: 1.17
+mq:
+- id: MQ342
+  category: Kotlin & Coroutines Runtime
+  question: How does StateFlow avoid re-emitting equal values?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Persuasion
+  words:
+  - word: justify
+    meaning: give good reasons
+  - word: advocate
+    meaning: publicly support
+  grammar: Comparatives & superlatives (faster, more reliable, the most scalable)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Concurrency on Android: JMM, volatile, atomics, Mutex + race/deadlock/"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

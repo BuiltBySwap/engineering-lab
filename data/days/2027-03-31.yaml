@@ -1,0 +1,33 @@
+date: '2027-03-31'
+day: Wed
+week: 26
+session: SD-26
+session_title: Microservices vs modular monolith + cloud fundamentals (CTO decision)
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ173
+  category: Notifications
+  question: How do badge counts update?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: AI discussions
+  words:
+  - word: fine-tune
+    meaning: train further
+  - word: benchmark (AI)
+    meaning: standard test
+  grammar: Apostrophes & its / it's, your / you're
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "Microservices vs modular monolith + cloud fundamentals (CTO decision)" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

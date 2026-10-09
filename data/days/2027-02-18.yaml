@@ -1,0 +1,33 @@
+date: '2027-02-18'
+day: Thu
+week: 20
+session: BE-14
+session_title: 'File storage: object storage, signed URLs, uploads'
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ309
+  category: Device Restore
+  question: How does automatic backup work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Leadership
+  words:
+  - word: recognise
+    meaning: give credit
+  - word: empathy
+    meaning: understanding others
+  grammar: since / for / ago / already / yet
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "File storage: object storage, signed URLs, uploads" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

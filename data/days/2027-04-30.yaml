@@ -1,0 +1,33 @@
+date: '2027-04-30'
+day: Fri
+week: 30
+session: AI-31
+session_title: AI strategy for a CTO + responsible AI (DPDP Act, EU AI Act)
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ84
+  category: UI Rendering
+  question: Why does jank happen?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Review month
+  words:
+  - word: polished
+    meaning: refined
+  - word: impactful
+    meaning: having strong effect
+  grammar: 'Review: your personal error log (top 10 mistakes)'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "AI strategy for a CTO + responsible AI (DPDP Act, EU AI Act)" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

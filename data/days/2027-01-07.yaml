@@ -1,0 +1,33 @@
+date: '2027-01-07'
+day: Thu
+week: 14
+session: BE-09
+session_title: Ktor internals (pipelines & phases) + error handling, logging, request IDs
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ107
+  category: Network
+  question: How does Android know Wi-Fi disconnected?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Data & metrics
+  words:
+  - word: granular
+    meaning: very detailed
+  - word: aggregate
+    meaning: combined total
+  grammar: 'Linking words: however, therefore, although, whereas'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "Ktor internals (pipelines & phases) + error handling, logging, request" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

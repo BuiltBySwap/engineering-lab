@@ -1,0 +1,33 @@
+date: '2027-03-03'
+day: Wed
+week: 22
+session: SD-22
+session_title: 'Video backend: upload, transcoding, CDN, HLS packaging'
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ166
+  category: Notifications
+  question: How does notification privacy work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Finance basics
+  words:
+  - word: burn rate
+    meaning: money spent per month
+  - word: runway
+    meaning: months until money runs out
+  grammar: Formal vs informal register (Slack vs email vs RFC)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Video backend: upload, transcoding, CDN, HLS packaging" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

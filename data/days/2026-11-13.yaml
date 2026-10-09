@@ -1,0 +1,33 @@
+date: '2026-11-13'
+day: Fri
+week: 6
+session: AI-07
+session_title: 'Build a tiny GPT (character-level): tokenizer → bigram → one transformer block → sampling'
+track: AI Foundations (from scratch)
+hours: 1.17
+mq:
+- id: MQ387
+  category: Build & Release
+  question: How does the configuration cache skip the configuration phase?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Persuasion
+  words:
+  - word: premise
+    meaning: starting assumption
+  - word: persuasive
+    meaning: able to convince
+  grammar: Comparatives & superlatives (faster, more reliable, the most scalable)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "Build a tiny GPT (character-level): tokenizer → bigram → one transform" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

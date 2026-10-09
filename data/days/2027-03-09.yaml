@@ -1,0 +1,33 @@
+date: '2027-03-09'
+day: Tue
+week: 23
+session: AND-23
+session_title: 'Security 1: Keystore, encryption, biometrics, passkeys'
+track: Security
+hours: 1.17
+mq:
+- id: MQ377
+  category: Mobile Security
+  question: How do passkeys sign in without sending a password?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Incidents
+  words:
+  - word: postmortem
+    meaning: review after an incident
+  - word: blameless
+    meaning: without blaming people
+  grammar: Hedging & diplomatic language (it seems, I would suggest)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Security 1: Keystore, encryption, biometrics, passkeys"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

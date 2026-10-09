@@ -1,0 +1,33 @@
+date: '2027-01-14'
+day: Thu
+week: 15
+session: BE-12
+session_title: Caching with Redis (cache-aside, TTL, invalidation)
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ108
+  category: Network
+  question: How does Android switch from Wi-Fi to mobile data?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Writing documents
+  words:
+  - word: summary
+    meaning: short version
+  - word: audience
+    meaning: people you write for
+  grammar: 'Punctuation: commas, run-on sentences, full stops'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "Caching with Redis (cache-aside, TTL, invalidation)" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

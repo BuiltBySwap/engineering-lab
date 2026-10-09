@@ -1,0 +1,47 @@
+date: '2027-04-04'
+day: Sun
+week: 26
+session: PRJ-21
+session_title: mcp-android-devtools v1 + Kaizen MCP tools (today_plan, search_notes, mark_done)
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ174
+  category: Notifications
+  question: How do launcher badges stay synchronized?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ175
+  category: Notifications
+  question: How does Wear OS receive phone notifications?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: AI discussions
+  words: []
+  grammar: Apostrophes & its / it's, your / you're
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - inference
+  - hallucination
+  - grounded
+  - latency (AI)
+  - fine-tune
+  - benchmark (AI)
+  - guardrail
+  - emergent
+  - augment
+  - deterministic
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'Review this week''s build as a CTO: what would you approve, question, or cut — and why? Apply "Hiring bar".'
+  model: Hiring bar
+  status: todo
+  my_answer: ''
+  model_answer: ''

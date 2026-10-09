@@ -1,0 +1,33 @@
+date: '2027-03-30'
+day: Tue
+week: 26
+session: AND-26
+session_title: Accessibility & internationalisation at scale
+track: Android Framework
+hours: 1.17
+mq:
+- id: MQ233
+  category: App Lifecycle
+  question: How does Android know an app entered the foreground?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: AI discussions
+  words:
+  - word: grounded
+    meaning: based on sources
+  - word: latency (AI)
+    meaning: time to respond
+  grammar: Apostrophes & its / it's, your / you're
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: What one guideline or code-review rule would you give your team about "Accessibility & internationalisation at scale"?
+  status: todo
+  my_answer: ''
+  model_answer: ''

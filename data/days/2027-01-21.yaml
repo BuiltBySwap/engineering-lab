@@ -1,0 +1,33 @@
+date: '2027-01-21'
+day: Thu
+week: 16
+session: RN-10
+session_title: 'RN architecture: the old Bridge → New Architecture (JSI, Fabric, TurboModules, Codegen)'
+track: React Native
+hours: 1.17
+mq:
+- id: MQ399
+  category: Cross-platform (RN / KMP / Flutter)
+  question: How does JSI let JavaScript call Kotlin synchronously?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Negotiation
+  words:
+  - word: flexible
+    meaning: willing to change
+  - word: non-negotiable
+    meaning: cannot be changed
+  grammar: 'Common Indian-English errors: "do the needful", "revert back", "discuss about", "prepone", "kindly"'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "RN architecture: the old Bridge → New Architecture (JSI, Fabric, Turbo" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

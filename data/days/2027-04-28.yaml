@@ -1,0 +1,33 @@
+date: '2027-04-28'
+day: Wed
+week: 30
+session: SD-30
+session_title: Write your Architecture Principles (as a future CTO)
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ83
+  category: UI Rendering
+  question: How does Android detect frame drops?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Review month
+  words:
+  - word: confident
+    meaning: sure of yourself
+  - word: composed
+    meaning: calm
+  grammar: 'Review: your personal error log (top 10 mistakes)'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "Write your Architecture Principles (as a future CTO)" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

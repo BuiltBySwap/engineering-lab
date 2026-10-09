@@ -1,0 +1,33 @@
+date: '2027-04-12'
+day: Mon
+week: 28
+session: DSA-28
+session_title: Weak-pattern repair week
+track: DSA
+hours: 1.17
+mq:
+- id: MQ66
+  category: Activity & Navigation
+  question: How does multi-window work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Career
+  words:
+  - word: aspire
+    meaning: strongly want to achieve
+  - word: milestone (career)
+    meaning: important achievement
+  grammar: Signposting in presentations (first, next, to sum up)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Weak-pattern repair week" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

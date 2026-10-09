@@ -1,0 +1,47 @@
+date: '2026-12-27'
+day: Sun
+week: 12
+session: CHK-03
+session_title: Month 3 checkpoint
+track: Checkpoint
+hours: 4.33
+mq:
+- id: MQ326
+  category: Production Questions
+  question: How does Blinkit update delivery progress even when the app is closed?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ327
+  category: Production Questions
+  question: How does Uber continue location tracking after the screen turns off?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Decision making
+  words: []
+  grammar: Reported speech ("She said the build was failing")
+  task: 'Record a 5-minute talk ''What I learned this month'' and compare with last month: pace, filler words, vocabulary.'
+  week_words:
+  - deliberate
+  - trade-off
+  - criteria
+  - weigh (options)
+  - reversible
+  - consequential
+  - arbitrary
+  - informed
+  - decisive
+  - hindsight
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'Role ladder self-check (Personality tab): score yourself 1–5 as Mobile Dev / Mobile Lead / Team Lead / CTO and pick one habit to practise next month.'
+  model: Writing to think (1-pager / RFC)
+  status: todo
+  my_answer: ''
+  model_answer: ''

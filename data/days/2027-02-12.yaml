@@ -1,0 +1,33 @@
+date: '2027-02-12'
+day: Fri
+week: 19
+session: AI-20
+session_title: 'Agent frameworks: LangChain, LangGraph and Koog (Kotlin)'
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ29
+  category: App Installation
+  question: How does Android uninstall an app?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Strategy
+  words:
+  - word: sustainable
+    meaning: can continue
+  - word: trade-off (strategic)
+    meaning: strategic give-and-take
+  grammar: Tense consistency in written updates
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "Agent frameworks: LangChain, LangGraph and Koog (Kotlin)" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

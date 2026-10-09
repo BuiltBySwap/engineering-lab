@@ -1,0 +1,33 @@
+date: '2027-04-06'
+day: Tue
+week: 27
+session: AND-27
+session_title: Latest Android platform changes (stay current)
+track: Android Framework
+hours: 1.17
+mq:
+- id: MQ234
+  category: App Lifecycle
+  question: How does ProcessLifecycleOwner work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Executive communication
+  words:
+  - word: at a glance
+    meaning: quickly
+  - word: high-level
+    meaning: without details
+  grammar: Parallel structure in lists and slides
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: What one guideline or code-review rule would you give your team about "Latest Android platform changes (stay current)"?
+  status: todo
+  my_answer: ''
+  model_answer: ''

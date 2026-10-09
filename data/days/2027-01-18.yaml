@@ -1,0 +1,33 @@
+date: '2027-01-18'
+day: Mon
+week: 16
+session: DSA-16
+session_title: 'Dynamic Programming 1: 1D (states, transitions, base cases)'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ24
+  category: App Installation
+  question: How does Android install an App Bundle?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Negotiation
+  words:
+  - word: compromise
+    meaning: each side gives something
+  - word: leverage (negotiation)
+    meaning: power to influence
+  grammar: 'Common Indian-English errors: "do the needful", "revert back", "discuss about", "prepone", "kindly"'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Dynamic Programming 1: 1D (states, transitions, base cases)" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2027-04-15'
+day: Thu
+week: 28
+session: RN-19
+session_title: 'Brownfield: embedding RN inside a native Android app'
+track: React Native
+hours: 1.17
+mq:
+- id: MQ404
+  category: Cross-platform (RN / KMP / Flutter)
+  question: How does Kotlin Multiplatform compile shared code for iOS?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Career
+  words:
+  - word: network (v.)
+    meaning: build professional contacts
+  - word: referral
+    meaning: recommendation for a job
+  grammar: Signposting in presentations (first, next, to sum up)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Brownfield: embedding RN inside a native Android app" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

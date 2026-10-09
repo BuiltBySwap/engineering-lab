@@ -1,0 +1,33 @@
+date: '2026-12-09'
+day: Wed
+week: 10
+session: SD-10
+session_title: 'Design Google Maps (Android): tiles, offline maps, search'
+track: Android System Design
+hours: 1.17
+mq:
+- id: MQ251
+  category: Sync Engine
+  question: How does Android synchronize contacts?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Performance
+  words:
+  - word: profile (v.)
+    meaning: measure where time goes
+  - word: spike
+    meaning: sudden increase
+  grammar: Passive voice — when it helps and when it hides ownership
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Design Google Maps (Android): tiles, offline maps, search" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

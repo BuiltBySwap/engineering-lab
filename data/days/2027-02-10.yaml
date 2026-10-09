@@ -1,0 +1,33 @@
+date: '2027-02-10'
+day: Wed
+week: 19
+session: SD-19
+session_title: 'Coordination: distributed locks, leader election, Raft consensus'
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ113
+  category: Network
+  question: How does DNS resolution work on Android?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Strategy
+  words:
+  - word: competitive advantage
+    meaning: why you win
+  - word: long-term
+    meaning: far into the future
+  grammar: Tense consistency in written updates
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Coordination: distributed locks, leader election, Raft consensus" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

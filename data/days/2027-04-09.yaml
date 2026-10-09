@@ -1,0 +1,33 @@
+date: '2027-04-09'
+day: Fri
+week: 27
+session: AI-28
+session_title: 'AI coding tools, deeply: Claude Code, Cursor, Copilot, Aider'
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ63
+  category: Activity & Navigation
+  question: How does Android recreate Activities after rotation?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Executive communication
+  words:
+  - word: escalation path
+    meaning: who to go to
+  - word: status quo
+    meaning: current situation
+  grammar: Parallel structure in lists and slides
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "AI coding tools, deeply: Claude Code, Cursor, Copilot, Aider" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

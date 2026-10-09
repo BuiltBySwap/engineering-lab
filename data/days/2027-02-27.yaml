@@ -1,0 +1,47 @@
+date: '2027-02-27'
+day: Sat
+week: 21
+session: BE-07
+session_title: 'Postgres internals for app developers: MVCC, indexes, EXPLAIN ANALYZE'
+track: Backend
+hours: 4.33
+mq:
+- id: MQ38
+  category: App Launch
+  question: How does Android know app launch finished?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ39
+  category: App Launch
+  question: How does warm start work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Hiring & growth
+  words: []
+  grammar: 'Conciseness: cutting filler words ("basically", "actually", "like")'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - competency
+  - calibrate
+  - potential
+  - promotion
+  - trajectory
+  - upskill
+  - rubric
+  - bias
+  - onboarding
+  - retain
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelConway's law & team topologies
+  question: 'Model of the week: Conway''s law & team topologies. Systems mirror the teams that build them — design teams and architecture together. Drill: How would you split teams for Kaizen at 30 engineers?'
+  model: Conway's law & team topologies
+  status: todo
+  my_answer: ''
+  model_answer: ''

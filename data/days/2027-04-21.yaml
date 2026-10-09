@@ -1,0 +1,33 @@
+date: '2027-04-21'
+day: Wed
+week: 29
+session: SD-29
+session_title: Mock HLD interview (recorded)
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ78
+  category: UI Rendering
+  question: How does RecyclerView recycle views?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Reflection
+  words:
+  - word: setback
+    meaning: a problem that delays
+  - word: persevere
+    meaning: keep going
+  grammar: Emphasis & stress in spoken English
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "Mock HLD interview (recorded)" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

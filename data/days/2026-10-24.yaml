@@ -1,0 +1,47 @@
+date: '2026-10-24'
+day: Sat
+week: 3
+session: DD-04
+session_title: 'Binder IPC: AIDL, the driver, transactions, ServiceManager'
+track: Android Internals
+hours: 4.33
+mq:
+- id: MQ46
+  category: Process Management
+  question: How does Android create a process?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ47
+  category: Process Management
+  question: How does Android assign process priority?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Meetings
+  words: []
+  grammar: 'Prepositions of time & place: in / on / at'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - agenda
+  - align
+  - consensus
+  - facilitate
+  - stakeholder
+  - escalate
+  - defer
+  - recap
+  - tangent
+  - takeaway
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelSecond-order thinking
+  question: 'Model of the week: Second-order thinking. Ask "and then what?" — the effect of the effect. Drill: Name 2 second-order effects of adopting today''s technology.'
+  model: Second-order thinking
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2027-01-12'
+day: Tue
+week: 15
+session: AND-15
+session_title: 'Offline-first & sync: outbox, conflict resolution'
+track: Android Architecture
+hours: 1.17
+mq:
+- id: MQ256
+  category: Sync Engine
+  question: How does background synchronization work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Writing documents
+  words:
+  - word: proofread
+    meaning: check for errors
+  - word: concise (writing)
+    meaning: no extra words
+  grammar: 'Punctuation: commas, run-on sentences, full stops'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Offline-first & sync: outbox, conflict resolution"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

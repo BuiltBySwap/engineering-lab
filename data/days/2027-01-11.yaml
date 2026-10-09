@@ -1,0 +1,33 @@
+date: '2027-01-11'
+day: Mon
+week: 15
+session: DSA-15
+session_title: Trie (prefix tree)
+track: DSA
+hours: 1.17
+mq:
+- id: MQ19
+  category: Boot Process
+  question: How does seamless system update work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Writing documents
+  words:
+  - word: draft
+    meaning: first version
+  - word: outline
+    meaning: main structure
+  grammar: 'Punctuation: commas, run-on sentences, full stops'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Trie (prefix tree)" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

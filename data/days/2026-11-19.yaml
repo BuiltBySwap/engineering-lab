@@ -1,0 +1,33 @@
+date: '2026-11-19'
+day: Thu
+week: 7
+session: BE-15
+session_title: 'Push notifications from the backend: FCM HTTP v1'
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ144
+  category: Notifications
+  question: How does silent push notification work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Ownership & impact
+  words:
+  - word: overhaul
+    meaning: major redesign
+  - word: proactive
+    meaning: acting early
+  grammar: 'Modal verbs for suggestions: should / could / would / might'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Push notifications from the backend: FCM HTTP v1" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

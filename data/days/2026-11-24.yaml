@@ -1,0 +1,33 @@
+date: '2026-11-24'
+day: Tue
+week: 8
+session: AND-08
+session_title: 'Compose runtime: Snapshot system + SlotTable/Composer/Recomposer/Applier'
+track: Compose Internals
+hours: 1.17
+mq:
+- id: MQ348
+  category: Compose & UI Toolkit
+  question: How does remember survive recomposition but not configuration change?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Quality & reliability
+  words:
+  - word: intermittent
+    meaning: happens on and off
+  - word: reproducible
+    meaning: can happen again on demand
+  grammar: Conditionals 0 & 1 (if the cache misses, we fetch…)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Compose runtime: Snapshot system + SlotTable/Composer/Recomposer/Appli"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

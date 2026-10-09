@@ -1,0 +1,33 @@
+date: '2026-10-05'
+day: Mon
+week: 1
+session: DSA-01
+session_title: 'Binary Search: exact match + boundaries (lower/upper bound)'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ3
+  category: Boot Process
+  question: How does Verified Boot verify Android before startup?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Problem solving
+  words:
+  - word: diagnose
+    meaning: identify the cause
+  - word: mitigate
+    meaning: reduce the impact
+  grammar: Present simple vs present continuous
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Binary Search: exact match + boundaries (lower/upper bound)" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

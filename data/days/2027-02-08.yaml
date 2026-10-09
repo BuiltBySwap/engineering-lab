@@ -1,0 +1,33 @@
+date: '2027-02-08'
+day: Mon
+week: 19
+session: DSA-19
+session_title: 'Dynamic Programming 4: LIS + palindromes (subsequence DP)'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ28
+  category: App Installation
+  question: How does Android update an app without losing data?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Strategy
+  words:
+  - word: vision
+    meaning: long-term picture
+  - word: objective
+    meaning: goal
+  grammar: Tense consistency in written updates
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Dynamic Programming 4: LIS + palindromes (subsequence DP)" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

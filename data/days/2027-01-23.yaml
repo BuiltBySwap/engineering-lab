@@ -1,0 +1,47 @@
+date: '2027-01-23'
+day: Sat
+week: 16
+session: DD-17
+session_title: 'Storage internals: SQLite B-trees, WAL, indexes, query planner; Room & DataStore'
+track: Storage Internals
+hours: 4.33
+mq:
+- id: MQ307
+  category: Device Restore
+  question: How does Android backup app data?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ308
+  category: Device Restore
+  question: How does Android restore app data?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Negotiation
+  words: []
+  grammar: 'Common Indian-English errors: "do the needful", "revert back", "discuss about", "prepone", "kindly"'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - compromise
+  - leverage (negotiation)
+  - concession
+  - mutually beneficial
+  - stance
+  - bargain
+  - flexible
+  - non-negotiable
+  - counter-offer
+  - common ground
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelSBI feedback
+  question: 'Model of the week: SBI feedback. Situation → Behaviour → Impact. Specific, not personal. Drill: Write one SBI feedback (positive) for a colleague.'
+  model: SBI feedback
+  status: todo
+  my_answer: ''
+  model_answer: ''

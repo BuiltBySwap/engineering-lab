@@ -1,0 +1,33 @@
+date: '2027-02-01'
+day: Mon
+week: 18
+session: DSA-18
+session_title: 'Dynamic Programming 3: Knapsack family (0/1 and unbounded)'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ26
+  category: App Installation
+  question: How does Android optimize apps after installation?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Product
+  words:
+  - word: user-centric
+    meaning: focused on users
+  - word: retention
+    meaning: keeping users
+  grammar: 'Phrasal verbs at work: roll out, follow up, set up, figure out, push back'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Dynamic Programming 3: Knapsack family (0/1 and unbounded)" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2026-12-02'
+day: Wed
+week: 9
+session: SD-09
+session_title: Design Uber rider app + geospatial indexing (geohash / H3)
+track: Android System Design
+hours: 1.17
+mq:
+- id: MQ325
+  category: Production Questions
+  question: How does Amazon update order status in the background?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Change & migration
+  words:
+  - word: transition
+    meaning: change from one state
+  - word: rollback
+    meaning: return to previous version
+  grammar: Conditionals 2 & 3 (if we had…, we would have…)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "Design Uber rider app + geospatial indexing (geohash / H3)" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

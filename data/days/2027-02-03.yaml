@@ -1,0 +1,33 @@
+date: '2027-02-03'
+day: Wed
+week: 18
+session: SD-18
+session_title: Typeahead / search system
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ112
+  category: Network
+  question: How does captive portal detection work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Product
+  words:
+  - word: funnel
+    meaning: steps users go through
+  - word: hypothesis
+    meaning: idea to test
+  grammar: 'Phrasal verbs at work: roll out, follow up, set up, figure out, push back'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "Typeahead / search system" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

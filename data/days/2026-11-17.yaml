@@ -1,0 +1,33 @@
+date: '2026-11-17'
+day: Tue
+week: 7
+session: AND-07
+session_title: 'Compose mental model: composition, recomposition, positional memoization'
+track: Compose Internals
+hours: 1.17
+mq:
+- id: MQ347
+  category: Compose & UI Toolkit
+  question: How does Compose know which composables to recompose after a state change?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Ownership & impact
+  words:
+  - word: streamline
+    meaning: make simpler and faster
+  - word: quantify
+    meaning: measure with numbers
+  grammar: 'Modal verbs for suggestions: should / could / would / might'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Compose mental model: composition, recomposition, positional memoizati"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

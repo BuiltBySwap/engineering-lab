@@ -1,0 +1,47 @@
+date: '2026-12-19'
+day: Sat
+week: 11
+session: DD-12
+session_title: 'Performance 2: Perfetto deep dive, ANRs, jank, JankStats'
+track: Performance Engineering
+hours: 4.33
+mq:
+- id: MQ366
+  category: Mobile Performance & Memory
+  question: How does JankStats know a frame was janky?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ367
+  category: Mobile Performance & Memory
+  question: How does LeakCanary detect a leaked Activity?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Collaboration
+  words: []
+  grammar: 'Relative clauses: which / that / who'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - liaise
+  - synergy
+  - cross-functional
+  - hand-off
+  - rapport
+  - delegate
+  - empower
+  - inclusive
+  - onboard
+  - mentor
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelTechnical-debt quadrant
+  question: 'Model of the week: Technical-debt quadrant. Debt is reckless/prudent × deliberate/inadvertent — not all debt is bad. Drill: Place 3 shortcuts you have taken into the quadrant.'
+  model: Technical-debt quadrant
+  status: todo
+  my_answer: ''
+  model_answer: ''

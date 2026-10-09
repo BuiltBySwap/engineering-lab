@@ -1,0 +1,33 @@
+date: '2027-02-25'
+day: Thu
+week: 21
+session: RN-12
+session_title: Expo Modules API & config plugins (native code in Kotlin)
+track: React Native
+hours: 1.17
+mq:
+- id: MQ401
+  category: Cross-platform (RN / KMP / Flutter)
+  question: How does Fabric render on multiple threads?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Hiring & growth
+  words:
+  - word: rubric
+    meaning: scoring guide
+  - word: bias
+    meaning: unfair preference
+  grammar: 'Conciseness: cutting filler words ("basically", "actually", "like")'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "Expo Modules API & config plugins (native code in Kotlin)" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

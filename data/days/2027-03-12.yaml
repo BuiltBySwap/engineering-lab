@@ -1,0 +1,33 @@
+date: '2027-03-12'
+day: Fri
+week: 23
+session: AI-24
+session_title: 'Local LLMs & serving: Ollama, llama.cpp, vLLM'
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ44
+  category: App Launch
+  question: How does Android preserve navigation history?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Incidents
+  words:
+  - word: recurrence
+    meaning: happening again
+  - word: root cause
+    meaning: deepest cause
+  grammar: Hedging & diplomatic language (it seems, I would suggest)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "Local LLMs & serving: Ollama, llama.cpp, vLLM" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,47 @@
+date: '2027-02-21'
+day: Sun
+week: 20
+session: PRJ-17
+session_title: 'Kaizen RN: TurboModule ''battery-insights'' in rn-companion/modules (+ optional npm publish)'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ164
+  category: Notifications
+  question: How does media notification work?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ165
+  category: Notifications
+  question: How does lock screen notification work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Leadership
+  words: []
+  grammar: since / for / ago / already / yet
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - inspire
+  - accountability
+  - autonomy
+  - trust
+  - transparency
+  - coach
+  - recognise
+  - empathy
+  - integrity
+  - humble
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'Review this week''s build as a CTO: what would you approve, question, or cut — and why? Apply "OKRs".'
+  model: OKRs
+  status: todo
+  my_answer: ''
+  model_answer: ''

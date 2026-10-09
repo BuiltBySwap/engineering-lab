@@ -1,0 +1,47 @@
+date: '2027-04-18'
+day: Sun
+week: 28
+session: PRJ-23
+session_title: 'Portfolio showcase: case studies, diagrams, demo videos, profile README'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ176
+  category: Notifications
+  question: How does Android Auto receive notifications?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ177
+  category: Notifications
+  question: How does notification ranking work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Career
+  words: []
+  grammar: Signposting in presentations (first, next, to sum up)
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - aspire
+  - milestone (career)
+  - versatile
+  - niche
+  - credibility
+  - portfolio
+  - network (v.)
+  - referral
+  - negotiate (offer)
+  - pivot
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'Review this week''s build as a Team Lead: what would you approve, question, or cut — and why? Apply "Vision → strategy → execution".'
+  model: Vision → strategy → execution
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,47 @@
+date: '2027-02-06'
+day: Sat
+week: 18
+session: DD-19
+session_title: 'Power & background execution: Doze, App Standby Buckets, JobScheduler, alarms'
+track: Android Internals
+hours: 4.33
+mq:
+- id: MQ86
+  category: Power & Battery
+  question: How does Android know the charger was connected?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ87
+  category: Power & Battery
+  question: How does Android know charging stopped?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Product
+  words: []
+  grammar: 'Phrasal verbs at work: roll out, follow up, set up, figure out, push back'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - user-centric
+  - retention
+  - churn
+  - engagement
+  - funnel
+  - hypothesis
+  - iterate on
+  - viable
+  - friction
+  - adoption
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelBLUF status updates
+  question: 'Model of the week: BLUF status updates. Bottom Line Up Front: conclusion, then detail. Managers read the first line. Drill: Rewrite your last status update in BLUF.'
+  model: BLUF status updates
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,47 @@
+date: '2026-12-05'
+day: Sat
+week: 9
+session: DD-10
+session_title: 'Memory 2: leaks — LeakCanary internals, heap dumps, Ashmem/Gralloc'
+track: Memory Engineering
+hours: 4.33
+mq:
+- id: MQ364
+  category: Mobile Performance & Memory
+  question: How does Play Console measure 'slow cold start'?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ365
+  category: Mobile Performance & Memory
+  question: How does the system detect an ANR?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Change & migration
+  words: []
+  grammar: Conditionals 2 & 3 (if we had…, we would have…)
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - deprecate
+  - legacy
+  - incremental
+  - backward-compatible
+  - transition
+  - rollback
+  - adopt
+  - phase out
+  - disruption
+  - seamless
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelRICE prioritisation
+  question: 'Model of the week: RICE prioritisation. Reach × Impact × Confidence ÷ Effort — compare features objectively. Drill: Score 4 Kaizen features with RICE.'
+  model: RICE prioritisation
+  status: todo
+  my_answer: ''
+  model_answer: ''

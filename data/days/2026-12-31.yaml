@@ -1,0 +1,33 @@
+date: '2026-12-31'
+day: Thu
+week: 13
+session: RN-05
+session_title: 'Navigation (Expo Router) + state: Redux Toolkit, Zustand, TanStack Query'
+track: React Native
+hours: 1.17
+mq:
+- id: MQ58
+  category: Activity & Navigation
+  question: How does task affinity work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Risk
+  words:
+  - word: fallback
+    meaning: backup option
+  - word: unforeseen
+    meaning: not expected
+  grammar: Gerunds vs infinitives (avoid doing / decide to do)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Navigation (Expo Router) + state: Redux Toolkit, Zustand, TanStack Que" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

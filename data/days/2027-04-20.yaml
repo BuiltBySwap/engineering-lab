@@ -1,0 +1,33 @@
+date: '2027-04-20'
+day: Tue
+week: 29
+session: AND-29
+session_title: 'Low-level design (LLD) for mobile interviews: design an image loader / cache / event bus'
+track: Interview
+hours: 1.17
+mq:
+- id: MQ290
+  category: Caching
+  question: How does audio caching work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Reflection
+  words:
+  - word: growth mindset
+    meaning: belief you can improve
+  - word: self-aware
+    meaning: knowing yourself
+  grammar: Emphasis & stress in spoken English
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Low-level design (LLD) for mobile interviews: design an image loader /"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,47 @@
+date: '2027-03-13'
+day: Sat
+week: 23
+session: DD-24
+session_title: 'CI/CD for mobile: GitHub Actions, signing, Gradle Play Publisher, staged rollout'
+track: Release Engineering
+hours: 4.33
+mq:
+- id: MQ397
+  category: Build & Release
+  question: How does Firebase Remote Config deliver values without an app update?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ298
+  category: App Updates
+  question: How does in-app updates work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Incidents
+  words: []
+  grammar: Hedging & diplomatic language (it seems, I would suggest)
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - outage
+  - mitigation
+  - postmortem
+  - blameless
+  - timeline
+  - impact
+  - remediate
+  - on-call
+  - recurrence
+  - root cause
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelUnit economics
+  question: 'Model of the week: Unit economics. Cost and value per user decide if a product is sustainable. Drill: Estimate Kaizen''s cost per 1,000 users.'
+  model: Unit economics
+  status: todo
+  my_answer: ''
+  model_answer: ''

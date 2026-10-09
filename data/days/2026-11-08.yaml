@@ -1,0 +1,47 @@
+date: '2026-11-08'
+day: Sun
+week: 5
+session: PRJ-05
+session_title: 'Kaizen auth: JWT login/refresh (Ktor) + Encrypted DataStore (Android)'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ140
+  category: Notifications
+  question: How does Android maintain a persistent connection to FCM without draining the battery?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ141
+  category: Notifications
+  question: How does a notification travel from the backend to the notification shade?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Planning & estimation
+  words: []
+  grammar: 'Uncountable nouns: information, feedback, advice, equipment (no "s")'
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - milestone
+  - scope
+  - dependency
+  - contingency
+  - deliverable
+  - allocate
+  - slippage
+  - baseline
+  - phased
+  - realistic
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'Review this week''s build as a CTO: what would you approve, question, or cut — and why? Apply "Inversion".'
+  model: Inversion
+  status: todo
+  my_answer: ''
+  model_answer: ''

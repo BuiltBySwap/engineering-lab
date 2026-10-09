@@ -1,0 +1,33 @@
+date: '2027-03-01'
+day: Mon
+week: 22
+session: DSA-22
+session_title: Bit Manipulation
+track: DSA
+hours: 1.17
+mq:
+- id: MQ40
+  category: App Launch
+  question: How does cold start work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Finance basics
+  words:
+  - word: budget
+    meaning: planned spending
+  - word: forecast
+    meaning: prediction
+  grammar: Formal vs informal register (Slack vs email vs RFC)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Bit Manipulation" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

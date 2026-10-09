@@ -1,0 +1,444 @@
+# Question bank: static. Answers and status live in data/days/*.yaml.
+- {id: "MQ1", category: "Boot Process", question: "How does Android boot after pressing the power button?", session: "DD-01"}
+- {id: "MQ2", category: "Boot Process", question: "How does the bootloader decide which partition to boot?", session: "DD-01"}
+- {id: "MQ3", category: "Boot Process", question: "How does Verified Boot verify Android before startup?", session: "DSA-01"}
+- {id: "MQ4", category: "Boot Process", question: "How does the Linux kernel initialize Android?", session: "DD-02"}
+- {id: "MQ5", category: "Boot Process", question: "How does init start Android services?", session: "DD-02"}
+- {id: "MQ6", category: "Boot Process", question: "How does Zygote start?", session: "DSA-02"}
+- {id: "MQ7", category: "Boot Process", question: "How does Zygote preload classes and resources?", session: "DSA-03"}
+- {id: "MQ8", category: "Boot Process", question: "How does Zygote fork a new app process?", session: "DSA-04"}
+- {id: "MQ9", category: "Boot Process", question: "How does System Server start?", session: "DSA-05"}
+- {id: "MQ10", category: "Boot Process", question: "How does System Server start Android services?", session: "DSA-06"}
+- {id: "MQ11", category: "Boot Process", question: "How does Android know boot has completed?", session: "DSA-07"}
+- {id: "MQ12", category: "Boot Process", question: "How does Launcher start after boot?", session: "DSA-08"}
+- {id: "MQ13", category: "Boot Process", question: "How does Android restore apps after reboot?", session: "DSA-09"}
+- {id: "MQ14", category: "Boot Process", question: "How does Android restore alarms after reboot?", session: "DSA-10"}
+- {id: "MQ15", category: "Boot Process", question: "How does Android restore notifications after reboot?", session: "DSA-11"}
+- {id: "MQ16", category: "Boot Process", question: "How does Android restore widgets after reboot?", session: "DSA-12"}
+- {id: "MQ17", category: "Boot Process", question: "How does Android optimize boot time?", session: "DSA-13"}
+- {id: "MQ18", category: "Boot Process", question: "How does A/B partition update work?", session: "DSA-14"}
+- {id: "MQ19", category: "Boot Process", question: "How does seamless system update work?", session: "DSA-15"}
+- {id: "MQ20", category: "Boot Process", question: "How does Android recover after a failed OTA?", session: "DD-16"}
+- {id: "MQ21", category: "App Installation", question: "How does Play Store download an app?", session: "DD-13"}
+- {id: "MQ22", category: "App Installation", question: "How does Android verify APK signatures?", session: "DD-13"}
+- {id: "MQ23", category: "App Installation", question: "How does Android install an APK?", session: "DD-16"}
+- {id: "MQ24", category: "App Installation", question: "How does Android install an App Bundle?", session: "DSA-16"}
+- {id: "MQ25", category: "App Installation", question: "How does Play Store install split APKs?", session: "DSA-17"}
+- {id: "MQ26", category: "App Installation", question: "How does Android optimize apps after installation?", session: "DSA-18"}
+- {id: "MQ27", category: "App Installation", question: "How does ART compile app code?", session: "AI-19"}
+- {id: "MQ28", category: "App Installation", question: "How does Android update an app without losing data?", session: "DSA-19"}
+- {id: "MQ29", category: "App Installation", question: "How does Android uninstall an app?", session: "AI-20"}
+- {id: "MQ30", category: "App Installation", question: "How does Android keep app data after reinstall (backup restore)?", session: "DSA-20"}
+- {id: "MQ31", category: "App Launch", question: "How does tapping an app icon launch the app?", session: "DD-03"}
+- {id: "MQ32", category: "App Launch", question: "How does Launcher know installed apps?", session: "DD-03"}
+- {id: "MQ33", category: "App Launch", question: "How does Android determine the launcher Activity?", session: "AND-10"}
+- {id: "MQ34", category: "App Launch", question: "How does Android create an application process?", session: "DD-11"}
+- {id: "MQ35", category: "App Launch", question: "How does ActivityThread start?", session: "DD-11"}
+- {id: "MQ36", category: "App Launch", question: "How does Application.onCreate() get called?", session: "DSA-21"}
+- {id: "MQ37", category: "App Launch", question: "How does Android show the splash screen?", session: "AI-22"}
+- {id: "MQ38", category: "App Launch", question: "How does Android know app launch finished?", session: "BE-07"}
+- {id: "MQ39", category: "App Launch", question: "How does warm start work?", session: "BE-07"}
+- {id: "MQ40", category: "App Launch", question: "How does cold start work?", session: "DSA-22"}
+- {id: "MQ41", category: "App Launch", question: "How does hot start work?", session: "BE-19"}
+- {id: "MQ42", category: "App Launch", question: "Why are some apps slower to launch?", session: "DSA-23"}
+- {id: "MQ43", category: "App Launch", question: "How does Android restore an Activity after process death?", session: "BE-21"}
+- {id: "MQ44", category: "App Launch", question: "How does Android preserve navigation history?", session: "AI-24"}
+- {id: "MQ45", category: "App Launch", question: "How does Android restore saved state?", session: "DSA-24"}
+- {id: "MQ46", category: "Process Management", question: "How does Android create a process?", session: "DD-04"}
+- {id: "MQ47", category: "Process Management", question: "How does Android assign process priority?", session: "DD-04"}
+- {id: "MQ48", category: "Process Management", question: "How does Android decide which process to kill?", session: "GRW-LNX"}
+- {id: "MQ49", category: "Process Management", question: "How does Low Memory Killer work?", session: "AI-25"}
+- {id: "MQ50", category: "Process Management", question: "How does Android detect low memory?", session: "DD-25"}
+- {id: "MQ51", category: "Process Management", question: "Why does Android kill background apps?", session: "DD-25"}
+- {id: "MQ52", category: "Process Management", question: "How does Android restart killed apps?", session: "DSA-25"}
+- {id: "MQ53", category: "Process Management", question: "How does Android know an app crashed?", session: "DSA-26"}
+- {id: "MQ54", category: "Process Management", question: "How does Android show \"App keeps stopping\"?", session: "AI-27"}
+- {id: "MQ55", category: "Process Management", question: "How does Android generate crash reports?", session: "DD-27"}
+- {id: "MQ56", category: "Activity & Navigation", question: "How does Activity launching work?", session: "DD-05"}
+- {id: "MQ57", category: "Activity & Navigation", question: "How does Activity switching work?", session: "DD-05"}
+- {id: "MQ58", category: "Activity & Navigation", question: "How does task affinity work?", session: "RN-05"}
+- {id: "MQ59", category: "Activity & Navigation", question: "How does Back work internally?", session: "AND-19"}
+- {id: "MQ60", category: "Activity & Navigation", question: "How does Predictive Back work?", session: "DD-27"}
+- {id: "MQ61", category: "Activity & Navigation", question: "How does Home work?", session: "DSA-27"}
+- {id: "MQ62", category: "Activity & Navigation", question: "How does Recent Apps work?", session: "BE-26"}
+- {id: "MQ63", category: "Activity & Navigation", question: "How does Android recreate Activities after rotation?", session: "AI-28"}
+- {id: "MQ64", category: "Activity & Navigation", question: "How does Android restore Fragments?", session: "DD-28"}
+- {id: "MQ65", category: "Activity & Navigation", question: "How does Android preserve ViewModel state?", session: "DD-28"}
+- {id: "MQ66", category: "Activity & Navigation", question: "How does multi-window work?", session: "DSA-28"}
+- {id: "MQ67", category: "Activity & Navigation", question: "How does freeform window mode work?", session: "AI-29"}
+- {id: "MQ68", category: "Activity & Navigation", question: "How does split screen work?", session: "DD-29"}
+- {id: "MQ69", category: "Activity & Navigation", question: "How does Picture-in-Picture work?", session: "DD-29"}
+- {id: "MQ70", category: "Activity & Navigation", question: "How does deep linking work?", session: "DSA-29"}
+- {id: "MQ71", category: "UI Rendering", question: "How does Android receive touch input?", session: "DD-07"}
+- {id: "MQ72", category: "UI Rendering", question: "How does MotionEvent travel through the framework?", session: "DD-07"}
+- {id: "MQ73", category: "UI Rendering", question: "How does Android know which View received the touch?", session: "DD-08"}
+- {id: "MQ74", category: "UI Rendering", question: "How does gesture detection work?", session: "DD-08"}
+- {id: "MQ75", category: "UI Rendering", question: "How does scrolling stay smooth?", session: "RN-03"}
+- {id: "MQ76", category: "UI Rendering", question: "How does fling work?", session: "PRJ-11"}
+- {id: "MQ77", category: "UI Rendering", question: "How does overscroll work?", session: "PRJ-11"}
+- {id: "MQ78", category: "UI Rendering", question: "How does RecyclerView recycle views?", session: "SD-29"}
+- {id: "MQ79", category: "UI Rendering", question: "How does Compose render UI?", session: "AI-30"}
+- {id: "MQ80", category: "UI Rendering", question: "How does SurfaceFlinger compose frames?", session: "DD-30"}
+- {id: "MQ81", category: "UI Rendering", question: "How does Choreographer schedule rendering?", session: "DD-30"}
+- {id: "MQ82", category: "UI Rendering", question: "How does VSYNC work?", session: "DSA-30"}
+- {id: "MQ83", category: "UI Rendering", question: "How does Android detect frame drops?", session: "SD-30"}
+- {id: "MQ84", category: "UI Rendering", question: "Why does jank happen?", session: "AI-31"}
+- {id: "MQ85", category: "UI Rendering", question: "How does GPU rendering work?", session: null}
+- {id: "MQ86", category: "Power & Battery", question: "How does Android know the charger was connected?", session: "DD-19"}
+- {id: "MQ87", category: "Power & Battery", question: "How does Android know charging stopped?", session: "DD-19"}
+- {id: "MQ88", category: "Power & Battery", question: "How does Android calculate battery percentage?", session: null}
+- {id: "MQ89", category: "Power & Battery", question: "How does Android estimate remaining battery?", session: null}
+- {id: "MQ90", category: "Power & Battery", question: "How does Battery Saver work?", session: null}
+- {id: "MQ91", category: "Power & Battery", question: "How does Adaptive Battery work?", session: null}
+- {id: "MQ92", category: "Power & Battery", question: "How does Doze Mode work?", session: null}
+- {id: "MQ93", category: "Power & Battery", question: "How does App Standby work?", session: null}
+- {id: "MQ94", category: "Power & Battery", question: "How does Android suspend apps?", session: null}
+- {id: "MQ95", category: "Power & Battery", question: "How does Android wake sleeping apps?", session: null}
+- {id: "MQ96", category: "Sensors", question: "How does Android know the phone rotated?", session: null}
+- {id: "MQ97", category: "Sensors", question: "How does auto-rotate work?", session: null}
+- {id: "MQ98", category: "Sensors", question: "How does Android detect shaking?", session: null}
+- {id: "MQ99", category: "Sensors", question: "How does Android detect walking?", session: null}
+- {id: "MQ100", category: "Sensors", question: "How does Android count steps?", session: null}
+- {id: "MQ101", category: "Sensors", question: "How does Android detect proximity?", session: null}
+- {id: "MQ102", category: "Sensors", question: "How does adaptive brightness work?", session: null}
+- {id: "MQ103", category: "Sensors", question: "How does Android detect ambient light?", session: null}
+- {id: "MQ104", category: "Sensors", question: "How does Android know headphones were plugged in?", session: null}
+- {id: "MQ105", category: "Sensors", question: "How does Android know Bluetooth connected?", session: null}
+- {id: "MQ106", category: "Network", question: "How does Android know Wi-Fi connected?", session: "AI-04"}
+- {id: "MQ107", category: "Network", question: "How does Android know Wi-Fi disconnected?", session: "BE-09"}
+- {id: "MQ108", category: "Network", question: "How does Android switch from Wi-Fi to mobile data?", session: "BE-12"}
+- {id: "MQ109", category: "Network", question: "How does Android know Airplane Mode changed?", session: "BE-18"}
+- {id: "MQ110", category: "Network", question: "How does Android know VPN connected?", session: "DD-18"}
+- {id: "MQ111", category: "Network", question: "How does Android reconnect after network loss?", session: "DD-18"}
+- {id: "MQ112", category: "Network", question: "How does captive portal detection work?", session: "SD-18"}
+- {id: "MQ113", category: "Network", question: "How does DNS resolution work on Android?", session: "SD-19"}
+- {id: "MQ114", category: "Network", question: "How does Android cache DNS?", session: "SD-20"}
+- {id: "MQ115", category: "Network", question: "How does Android detect internet availability?", session: "SD-21"}
+- {id: "MQ116", category: "Notifications", question: "How does Android receive push notifications?", session: "PRJ-01"}
+- {id: "MQ117", category: "Notifications", question: "Why do notifications arrive instantly?", session: "PRJ-01"}
+- {id: "MQ118", category: "Notifications", question: "Why do notifications sometimes arrive late?", session: "PRJ-02"}
+- {id: "MQ119", category: "Telephony", question: "How does Android know someone is calling?", session: null}
+- {id: "MQ120", category: "Telephony", question: "How does the incoming call screen appear?", session: null}
+- {id: "MQ121", category: "Telephony", question: "Why does the call screen appear above every app?", session: null}
+- {id: "MQ122", category: "Telephony", question: "Why does the call screen appear over the lock screen?", session: null}
+- {id: "MQ123", category: "Telephony", question: "How does VoLTE receive calls?", session: null}
+- {id: "MQ124", category: "Telephony", question: "How does VoWiFi work?", session: null}
+- {id: "MQ125", category: "Telephony", question: "How does Android receive SMS?", session: null}
+- {id: "MQ126", category: "Telephony", question: "How does OTP auto-fill work?", session: null}
+- {id: "MQ127", category: "Telephony", question: "How does Android detect spam calls?", session: null}
+- {id: "MQ128", category: "Telephony", question: "How does conference calling work?", session: null}
+- {id: "MQ129", category: "Bluetooth", question: "How does Bluetooth pairing work?", session: null}
+- {id: "MQ130", category: "Bluetooth", question: "How does Bluetooth discover nearby devices?", session: null}
+- {id: "MQ131", category: "Bluetooth", question: "How does Fast Pair work?", session: null}
+- {id: "MQ132", category: "Bluetooth", question: "How does BLE scanning work?", session: null}
+- {id: "MQ133", category: "Bluetooth", question: "How does Android reconnect Bluetooth devices automatically?", session: null}
+- {id: "MQ134", category: "Bluetooth", question: "How does Android stream audio over Bluetooth?", session: null}
+- {id: "MQ135", category: "Bluetooth", question: "How does Android switch audio output devices?", session: null}
+- {id: "MQ136", category: "Bluetooth", question: "How does Nearby Share discover nearby devices?", session: null}
+- {id: "MQ137", category: "Bluetooth", question: "How does file transfer over Bluetooth work?", session: null}
+- {id: "MQ138", category: "Bluetooth", question: "How does Android manage multiple Bluetooth connections?", session: null}
+- {id: "MQ139", category: "Notifications", question: "How does Firebase Cloud Messaging (FCM) know which device to send a notification to?", session: "PRJ-02"}
+- {id: "MQ140", category: "Notifications", question: "How does Android maintain a persistent connection to FCM without draining the battery?", session: "PRJ-05"}
+- {id: "MQ141", category: "Notifications", question: "How does a notification travel from the backend to the notification shade?", session: "PRJ-05"}
+- {id: "MQ142", category: "Notifications", question: "How does Android wake an app after receiving a push notification?", session: "PRJ-06"}
+- {id: "MQ143", category: "Notifications", question: "How do data notifications differ from notification messages?", session: "PRJ-06"}
+- {id: "MQ144", category: "Notifications", question: "How does silent push notification work?", session: "BE-15"}
+- {id: "MQ145", category: "Notifications", question: "How does Android prevent notification spam?", session: "PRJ-07"}
+- {id: "MQ146", category: "Notifications", question: "Why do notifications arrive instantly on Wi-Fi but slowly on mobile data?", session: "PRJ-07"}
+- {id: "MQ147", category: "Notifications", question: "Why do notifications stop when battery optimization is enabled?", session: "PRJ-08"}
+- {id: "MQ148", category: "Notifications", question: "How does Doze affect notifications?", session: "PRJ-08"}
+- {id: "MQ149", category: "Notifications", question: "How does App Standby affect notifications?", session: "PRJ-09"}
+- {id: "MQ150", category: "Notifications", question: "Why do notifications still work after force closing an app?", session: "PRJ-09"}
+- {id: "MQ151", category: "Notifications", question: "Why do notifications stop after Force Stop?", session: "PRJ-10"}
+- {id: "MQ152", category: "Notifications", question: "How does Android decide whether to wake the CPU for a notification?", session: "PRJ-10"}
+- {id: "MQ153", category: "Notifications", question: "How does Android decide whether to wake the screen?", session: "SD-12"}
+- {id: "MQ154", category: "Notifications", question: "How does Android show Heads-up Notifications?", session: "PRJ-12"}
+- {id: "MQ155", category: "Notifications", question: "How does Android decide Full Screen Intent vs Heads-up Notification?", session: "PRJ-12"}
+- {id: "MQ156", category: "Notifications", question: "How does incoming call notification differ from a normal notification?", session: "PRJ-13"}
+- {id: "MQ157", category: "Notifications", question: "How do alarm notifications bypass Do Not Disturb?", session: "PRJ-13"}
+- {id: "MQ158", category: "Notifications", question: "How do emergency alerts bypass notification restrictions?", session: "PRJ-14"}
+- {id: "MQ159", category: "Notifications", question: "How do notification channels work internally?", session: "PRJ-14"}
+- {id: "MQ160", category: "Notifications", question: "How do notification groups work?", session: "PRJ-15"}
+- {id: "MQ161", category: "Notifications", question: "How do bundled notifications work?", session: "PRJ-15"}
+- {id: "MQ162", category: "Notifications", question: "How does Android update an existing notification?", session: "PRJ-16"}
+- {id: "MQ163", category: "Notifications", question: "How does progress notification work?", session: "PRJ-16"}
+- {id: "MQ164", category: "Notifications", question: "How does media notification work?", session: "PRJ-17"}
+- {id: "MQ165", category: "Notifications", question: "How does lock screen notification work?", session: "PRJ-17"}
+- {id: "MQ166", category: "Notifications", question: "How does notification privacy work?", session: "SD-22"}
+- {id: "MQ167", category: "Notifications", question: "How does notification history work?", session: "PRJ-18"}
+- {id: "MQ168", category: "Notifications", question: "How does notification snooze work?", session: "PRJ-18"}
+- {id: "MQ169", category: "Notifications", question: "How do notification bubbles work?", session: "SD-23"}
+- {id: "MQ170", category: "Notifications", question: "How do inline replies work without opening the app?", session: "SD-24"}
+- {id: "MQ171", category: "Notifications", question: "How do notification actions execute while the app is closed?", session: "PRJ-20"}
+- {id: "MQ172", category: "Notifications", question: "How does tapping a notification open the correct screen?", session: "PRJ-20"}
+- {id: "MQ173", category: "Notifications", question: "How do badge counts update?", session: "SD-26"}
+- {id: "MQ174", category: "Notifications", question: "How do launcher badges stay synchronized?", session: "PRJ-21"}
+- {id: "MQ175", category: "Notifications", question: "How does Wear OS receive phone notifications?", session: "PRJ-21"}
+- {id: "MQ176", category: "Notifications", question: "How does Android Auto receive notifications?", session: "PRJ-23"}
+- {id: "MQ177", category: "Notifications", question: "How does notification ranking work?", session: "PRJ-23"}
+- {id: "MQ178", category: "Background Execution", question: "How does Android allow background execution?", session: "SD-14"}
+- {id: "MQ179", category: "Background Execution", question: "Why did Android introduce background execution limits?", session: "AND-18"}
+- {id: "MQ180", category: "Background Execution", question: "How does Android determine whether an app is in the foreground?", session: "BE-13"}
+- {id: "MQ181", category: "Background Execution", question: "How does Android determine whether an app is in the background?", session: null}
+- {id: "MQ182", category: "Background Execution", question: "How does Android suspend background apps?", session: null}
+- {id: "MQ183", category: "Background Execution", question: "How does Android resume suspended apps?", session: null}
+- {id: "MQ184", category: "Background Execution", question: "How does Android freeze cached processes?", session: null}
+- {id: "MQ185", category: "Background Execution", question: "Why does Android kill idle apps?", session: null}
+- {id: "MQ186", category: "Background Execution", question: "How does Android schedule deferred background work?", session: null}
+- {id: "MQ187", category: "Background Execution", question: "How does Android batch background work to save battery?", session: null}
+- {id: "MQ188", category: "Foreground Services", question: "Why do music apps use Foreground Services?", session: null}
+- {id: "MQ189", category: "Foreground Services", question: "Why do navigation apps use Foreground Services?", session: null}
+- {id: "MQ190", category: "Foreground Services", question: "Why do fitness apps use Foreground Services?", session: null}
+- {id: "MQ191", category: "Foreground Services", question: "How does Android decide whether a Foreground Service is allowed?", session: null}
+- {id: "MQ192", category: "Foreground Services", question: "Why must Foreground Services show notifications?", session: null}
+- {id: "MQ193", category: "Foreground Services", question: "How does Android stop abusive Foreground Services?", session: null}
+- {id: "MQ194", category: "Foreground Services", question: "How does Foreground Service timeout work?", session: null}
+- {id: "MQ195", category: "Foreground Services", question: "How do media playback services survive app closure?", session: null}
+- {id: "MQ196", category: "Foreground Services", question: "How do navigation services survive screen lock?", session: null}
+- {id: "MQ197", category: "Foreground Services", question: "How do download services survive Activity destruction?", session: null}
+- {id: "MQ198", category: "WorkManager", question: "How does WorkManager persist work after app restart?", session: null}
+- {id: "MQ199", category: "WorkManager", question: "How does WorkManager survive device reboot?", session: null}
+- {id: "MQ200", category: "WorkManager", question: "How does WorkManager guarantee execution?", session: null}
+- {id: "MQ201", category: "WorkManager", question: "How does WorkManager retry failed work?", session: null}
+- {id: "MQ202", category: "WorkManager", question: "How does exponential backoff work?", session: null}
+- {id: "MQ203", category: "WorkManager", question: "How does WorkManager chain multiple jobs?", session: null}
+- {id: "MQ204", category: "WorkManager", question: "How does WorkManager execute unique work?", session: null}
+- {id: "MQ205", category: "WorkManager", question: "How does WorkManager prevent duplicate execution?", session: null}
+- {id: "MQ206", category: "WorkManager", question: "How does WorkManager honor network constraints?", session: null}
+- {id: "MQ207", category: "WorkManager", question: "How does WorkManager honor charging constraints?", session: null}
+- {id: "MQ208", category: "WorkManager", question: "How does WorkManager honor battery constraints?", session: null}
+- {id: "MQ209", category: "WorkManager", question: "How does WorkManager choose between JobScheduler and AlarmManager?", session: null}
+- {id: "MQ210", category: "WorkManager", question: "How does WorkManager resume unfinished work?", session: null}
+- {id: "MQ211", category: "WorkManager", question: "How does periodic work execute?", session: null}
+- {id: "MQ212", category: "WorkManager", question: "How accurate is periodic scheduling?", session: null}
+- {id: "MQ213", category: "AlarmManager", question: "How does AlarmManager wake a sleeping device?", session: null}
+- {id: "MQ214", category: "AlarmManager", question: "How do exact alarms work?", session: null}
+- {id: "MQ215", category: "AlarmManager", question: "Why are exact alarms restricted?", session: null}
+- {id: "MQ216", category: "AlarmManager", question: "How does AlarmManager behave during Doze?", session: null}
+- {id: "MQ217", category: "AlarmManager", question: "How does repeating alarm work?", session: null}
+- {id: "MQ218", category: "AlarmManager", question: "Why are alarms delayed?", session: null}
+- {id: "MQ219", category: "AlarmManager", question: "How do alarm clocks bypass battery optimizations?", session: null}
+- {id: "MQ220", category: "AlarmManager", question: "How does AlarmManager interact with WorkManager?", session: null}
+- {id: "MQ221", category: "AlarmManager", question: "How does Android batch alarms?", session: null}
+- {id: "MQ222", category: "JobScheduler", question: "How does JobScheduler schedule background work?", session: null}
+- {id: "MQ223", category: "JobScheduler", question: "How does JobScheduler persist jobs?", session: null}
+- {id: "MQ224", category: "JobScheduler", question: "How does JobScheduler optimize battery?", session: null}
+- {id: "MQ225", category: "JobScheduler", question: "How does JobScheduler batch jobs?", session: null}
+- {id: "MQ226", category: "JobScheduler", question: "How does JobScheduler retry jobs?", session: null}
+- {id: "MQ227", category: "JobScheduler", question: "How does JobScheduler apply constraints?", session: null}
+- {id: "MQ228", category: "JobScheduler", question: "How does JobScheduler determine execution time?", session: null}
+- {id: "MQ229", category: "JobScheduler", question: "How does JobScheduler survive reboot?", session: null}
+- {id: "MQ230", category: "JobScheduler", question: "How does JobScheduler handle idle mode?", session: null}
+- {id: "MQ231", category: "JobScheduler", question: "How does JobScheduler prioritize jobs?", session: null}
+- {id: "MQ232", category: "App Lifecycle", question: "How does Android know an app entered the background?", session: "AND-16"}
+- {id: "MQ233", category: "App Lifecycle", question: "How does Android know an app entered the foreground?", session: "AND-26"}
+- {id: "MQ234", category: "App Lifecycle", question: "How does ProcessLifecycleOwner work?", session: "AND-27"}
+- {id: "MQ235", category: "App Lifecycle", question: "How does Android pause Activities?", session: "AND-30"}
+- {id: "MQ236", category: "App Lifecycle", question: "How does Android stop Activities?", session: null}
+- {id: "MQ237", category: "App Lifecycle", question: "How does Android destroy Activities?", session: null}
+- {id: "MQ238", category: "App Lifecycle", question: "How does Android recreate Activities?", session: null}
+- {id: "MQ239", category: "App Lifecycle", question: "How does Android preserve ViewModels?", session: null}
+- {id: "MQ240", category: "App Lifecycle", question: "How does SavedStateHandle survive configuration changes?", session: null}
+- {id: "MQ241", category: "App Lifecycle", question: "How does SavedStateRegistry work?", session: null}
+- {id: "MQ242", category: "App Lifecycle", question: "How does process death differ from configuration change?", session: null}
+- {id: "MQ243", category: "App Lifecycle", question: "How does Android restore process state?", session: null}
+- {id: "MQ244", category: "App Lifecycle", question: "How does Android restore navigation state?", session: null}
+- {id: "MQ245", category: "App Lifecycle", question: "How does Android restore Fragment back stack?", session: null}
+- {id: "MQ246", category: "App Lifecycle", question: "How does Android recreate Compose state?", session: null}
+- {id: "MQ247", category: "Sync Engine", question: "How does Gmail synchronize emails instantly?", session: "PRJ-04"}
+- {id: "MQ248", category: "Sync Engine", question: "How does Google Photos synchronize uploads?", session: "PRJ-04"}
+- {id: "MQ249", category: "Sync Engine", question: "How does Drive synchronize files?", session: "SD-07"}
+- {id: "MQ250", category: "Sync Engine", question: "How does Chrome synchronize tabs?", session: "SD-08"}
+- {id: "MQ251", category: "Sync Engine", question: "How does Android synchronize contacts?", session: "SD-10"}
+- {id: "MQ252", category: "Sync Engine", question: "How does Android synchronize calendars?", session: "SD-11"}
+- {id: "MQ253", category: "Sync Engine", question: "How does Android determine what changed?", session: "AND-12"}
+- {id: "MQ254", category: "Sync Engine", question: "How does delta synchronization work?", session: "AND-13"}
+- {id: "MQ255", category: "Sync Engine", question: "How does incremental synchronization work?", session: "AND-14"}
+- {id: "MQ256", category: "Sync Engine", question: "How does background synchronization work?", session: "AND-15"}
+- {id: "MQ257", category: "Sync Engine", question: "How does sync resume after reconnecting?", session: "SD-27"}
+- {id: "MQ258", category: "Sync Engine", question: "How does sync recover from failures?", session: "AND-28"}
+- {id: "MQ259", category: "Sync Engine", question: "How does sync avoid duplicate uploads?", session: null}
+- {id: "MQ260", category: "Sync Engine", question: "How does sync resolve conflicts?", session: null}
+- {id: "MQ261", category: "Sync Engine", question: "How does sync preserve ordering?", session: null}
+- {id: "MQ262", category: "Sync Engine", question: "How does sync detect deleted records?", session: null}
+- {id: "MQ263", category: "Sync Engine", question: "How does sync detect modified records?", session: null}
+- {id: "MQ264", category: "Sync Engine", question: "How does sync detect renamed records?", session: null}
+- {id: "MQ265", category: "Sync Engine", question: "How does sync recover from app reinstall?", session: null}
+- {id: "MQ266", category: "Sync Engine", question: "How does sync work across multiple devices?", session: null}
+- {id: "MQ267", category: "Downloads", question: "How does DownloadManager work?", session: "AND-22"}
+- {id: "MQ268", category: "Downloads", question: "How do downloads continue after app closure?", session: "AI-23"}
+- {id: "MQ269", category: "Downloads", question: "How do downloads survive reboot?", session: null}
+- {id: "MQ270", category: "Downloads", question: "How does download resume work?", session: null}
+- {id: "MQ271", category: "Downloads", question: "How does Android detect partial downloads?", session: null}
+- {id: "MQ272", category: "Downloads", question: "How does Android verify downloaded files?", session: null}
+- {id: "MQ273", category: "Downloads", question: "How does Android retry downloads?", session: null}
+- {id: "MQ274", category: "Downloads", question: "How does Android queue downloads?", session: null}
+- {id: "MQ275", category: "Downloads", question: "How does Android prioritize downloads?", session: null}
+- {id: "MQ276", category: "Downloads", question: "How does Android download multiple files simultaneously?", session: null}
+- {id: "MQ277", category: "Uploads", question: "How do uploads continue after leaving the app?", session: "SD-05"}
+- {id: "MQ278", category: "Uploads", question: "How do uploads continue after screen lock?", session: null}
+- {id: "MQ279", category: "Uploads", question: "How do uploads survive process death?", session: null}
+- {id: "MQ280", category: "Uploads", question: "How do uploads survive reboot?", session: null}
+- {id: "MQ281", category: "Uploads", question: "How does resumable upload work?", session: null}
+- {id: "MQ282", category: "Uploads", question: "How does chunked upload work?", session: null}
+- {id: "MQ283", category: "Uploads", question: "How does multipart upload work?", session: null}
+- {id: "MQ284", category: "Uploads", question: "How does upload retry work?", session: null}
+- {id: "MQ285", category: "Uploads", question: "How does upload deduplication work?", session: null}
+- {id: "MQ286", category: "Uploads", question: "How does upload progress update in real time?", session: null}
+- {id: "MQ287", category: "Caching", question: "How does Android cache network responses?", session: "SD-06"}
+- {id: "MQ288", category: "Caching", question: "How does image caching work?", session: "BE-16"}
+- {id: "MQ289", category: "Caching", question: "How does video caching work?", session: "AND-24"}
+- {id: "MQ290", category: "Caching", question: "How does audio caching work?", session: "AND-29"}
+- {id: "MQ291", category: "Caching", question: "How does disk cache work?", session: null}
+- {id: "MQ292", category: "Caching", question: "How does memory cache work?", session: null}
+- {id: "MQ293", category: "Caching", question: "How does cache invalidation work?", session: null}
+- {id: "MQ294", category: "Caching", question: "How does cache eviction work?", session: null}
+- {id: "MQ295", category: "Caching", question: "How does LRU cache work?", session: null}
+- {id: "MQ296", category: "Caching", question: "How does stale cache refresh work?", session: null}
+- {id: "MQ297", category: "App Updates", question: "How does Play Store update apps in the background?", session: "SD-13"}
+- {id: "MQ298", category: "App Updates", question: "How does in-app updates work?", session: "DD-24"}
+- {id: "MQ299", category: "App Updates", question: "How does Play Store install updates without rebooting?", session: null}
+- {id: "MQ300", category: "App Updates", question: "How does Play Store verify updates?", session: null}
+- {id: "MQ301", category: "App Updates", question: "How does Play Store rollback failed updates?", session: null}
+- {id: "MQ302", category: "App Updates", question: "How does staged rollout work?", session: null}
+- {id: "MQ303", category: "App Updates", question: "How does Play Store know an update is available?", session: null}
+- {id: "MQ304", category: "App Updates", question: "How does Android migrate app databases during updates?", session: null}
+- {id: "MQ305", category: "App Updates", question: "How does SharedPreferences survive updates?", session: null}
+- {id: "MQ306", category: "App Updates", question: "How does Room migration work?", session: null}
+- {id: "MQ307", category: "Device Restore", question: "How does Android backup app data?", session: "DD-17"}
+- {id: "MQ308", category: "Device Restore", question: "How does Android restore app data?", session: "DD-17"}
+- {id: "MQ309", category: "Device Restore", question: "How does automatic backup work?", session: "BE-14"}
+- {id: "MQ310", category: "Device Restore", question: "How does device-to-device migration work?", session: "CHK-06"}
+- {id: "MQ311", category: "Device Restore", question: "How does Nearby device transfer work?", session: "CHK-06"}
+- {id: "MQ312", category: "Device Restore", question: "How does Android restore Wi-Fi passwords?", session: "CHK-07"}
+- {id: "MQ313", category: "Device Restore", question: "How does Android restore notifications after migration?", session: "CHK-07"}
+- {id: "MQ314", category: "Device Restore", question: "How does Android restore launcher layout?", session: null}
+- {id: "MQ315", category: "Device Restore", question: "How does Android restore widgets?", session: null}
+- {id: "MQ316", category: "Device Restore", question: "How does Android restore app permissions?", session: null}
+- {id: "MQ317", category: "Production Questions", question: "How does WhatsApp retry sending messages after reconnecting?", session: "SD-01"}
+- {id: "MQ318", category: "Production Questions", question: "How does Instagram continue uploading Reels in the background?", session: "SD-03"}
+- {id: "MQ319", category: "Production Questions", question: "How does Spotify continue downloading playlists after locking the phone?", session: "CHK-01"}
+- {id: "MQ320", category: "Production Questions", question: "How does Netflix resume interrupted downloads?", session: "CHK-01"}
+- {id: "MQ321", category: "Production Questions", question: "How does YouTube resume uploads after connectivity loss?", session: "DD-06"}
+- {id: "MQ322", category: "Production Questions", question: "How does Google Photos upload thousands of images without draining the battery?", session: "DD-06"}
+- {id: "MQ323", category: "Production Questions", question: "How does Gmail synchronize emails while respecting battery restrictions?", session: "CHK-02"}
+- {id: "MQ324", category: "Production Questions", question: "How does Google Drive upload large files reliably?", session: "CHK-02"}
+- {id: "MQ325", category: "Production Questions", question: "How does Amazon update order status in the background?", session: "SD-09"}
+- {id: "MQ326", category: "Production Questions", question: "How does Blinkit update delivery progress even when the app is closed?", session: "CHK-03"}
+- {id: "MQ327", category: "Production Questions", question: "How does Uber continue location tracking after the screen turns off?", session: "CHK-03"}
+- {id: "MQ328", category: "Production Questions", question: "How does Google Maps continue navigation when another app is opened?", session: "SD-16"}
+- {id: "MQ329", category: "Production Questions", question: "How does Discord update unread counts instantly?", session: "AND-17"}
+- {id: "MQ330", category: "Production Questions", question: "How does Slack synchronize channels in the background?", session: "SD-17"}
+- {id: "MQ331", category: "Production Questions", question: "How does Telegram recover from network interruptions?", session: "CHK-04"}
+- {id: "MQ332", category: "Production Questions", question: "How does Signal deliver messages when the recipient comes online?", session: "CHK-04"}
+- {id: "MQ333", category: "Production Questions", question: "How does Instagram notify followers immediately when someone starts a Live stream?", session: "CHK-05"}
+- {id: "MQ334", category: "Production Questions", question: "How does YouTube notify subscribers when a channel goes live?", session: "CHK-05"}
+- {id: "MQ335", category: "Production Questions", question: "How does Android ensure all of this works while minimizing battery usage?", session: "DEV-01"}
+- {id: "MQ336", category: "Production Questions", question: "How do production apps combine push notifications, background work, local storage, retries, and synchronization into a reliable end-to-end system?", session: "DEV-01"}
+- {id: "MQ337", category: "Kotlin & Coroutines Runtime", question: "How does a suspend function pause without blocking a thread?", session: "AND-01"}
+- {id: "MQ338", category: "Kotlin & Coroutines Runtime", question: "How does viewModelScope cancel work when a screen closes?", session: "AND-02"}
+- {id: "MQ339", category: "Kotlin & Coroutines Runtime", question: "How does Dispatchers.Main post work to the Android main Looper?", session: "AND-03"}
+- {id: "MQ340", category: "Kotlin & Coroutines Runtime", question: "How does Handler/Looper/MessageQueue keep the main thread alive?", session: "AND-04"}
+- {id: "MQ341", category: "Kotlin & Coroutines Runtime", question: "How does Flow apply backpressure without extra buffers?", session: "AND-05"}
+- {id: "MQ342", category: "Kotlin & Coroutines Runtime", question: "How does StateFlow avoid re-emitting equal values?", session: "AND-06"}
+- {id: "MQ343", category: "Kotlin & Coroutines Runtime", question: "How does Kotlin compile a lambda on Android (invokedynamic vs classes)?", session: "AND-20"}
+- {id: "MQ344", category: "Kotlin & Coroutines Runtime", question: "How does R8 shrink Kotlin metadata and still keep reflection working?", session: "AND-25"}
+- {id: "MQ345", category: "Kotlin & Coroutines Runtime", question: "How does a data class generate equals/hashCode/copy?", session: null}
+- {id: "MQ346", category: "Kotlin & Coroutines Runtime", question: "How does Kotlin's null-safety survive when calling Java code?", session: null}
+- {id: "MQ347", category: "Compose & UI Toolkit", question: "How does Compose know which composables to recompose after a state change?", session: "AND-07"}
+- {id: "MQ348", category: "Compose & UI Toolkit", question: "How does remember survive recomposition but not configuration change?", session: "AND-08"}
+- {id: "MQ349", category: "Compose & UI Toolkit", question: "How does rememberSaveable survive process death?", session: "AND-09"}
+- {id: "MQ350", category: "Compose & UI Toolkit", question: "How does LazyColumn decide which items to compose?", session: "AND-11"}
+- {id: "MQ351", category: "Compose & UI Toolkit", question: "How does Compose draw on the same Canvas/RenderThread as Views?", session: "PRJ-19"}
+- {id: "MQ352", category: "Compose & UI Toolkit", question: "How does ComposeView embed Compose inside an XML layout?", session: "PRJ-19"}
+- {id: "MQ353", category: "Compose & UI Toolkit", question: "How does Compose handle touch input and gesture conflicts?", session: null}
+- {id: "MQ354", category: "Compose & UI Toolkit", question: "How does Compose implement animations frame by frame?", session: null}
+- {id: "MQ355", category: "Compose & UI Toolkit", question: "How does Compose support TalkBack via the semantics tree?", session: null}
+- {id: "MQ356", category: "Compose & UI Toolkit", question: "How does Material You pick dynamic colours from the wallpaper?", session: null}
+- {id: "MQ357", category: "Compose & UI Toolkit", question: "How does edge-to-edge drawing work with system bar insets?", session: null}
+- {id: "MQ358", category: "Compose & UI Toolkit", question: "How does predictive back show the previous screen before you release?", session: null}
+- {id: "MQ359", category: "Compose & UI Toolkit", question: "How does Glance turn composables into RemoteViews for widgets?", session: null}
+- {id: "MQ360", category: "Compose & UI Toolkit", question: "How does a home-screen widget update when the app isn't running?", session: null}
+- {id: "MQ361", category: "Compose & UI Toolkit", question: "How does SwiftUI's diffing compare with Compose's recomposition?", session: null}
+- {id: "MQ362", category: "Mobile Performance & Memory", question: "How does Android decide which app to kill when memory is low?", session: "DD-09"}
+- {id: "MQ363", category: "Mobile Performance & Memory", question: "How does a Baseline Profile make the first launch faster?", session: "DD-09"}
+- {id: "MQ364", category: "Mobile Performance & Memory", question: "How does Play Console measure 'slow cold start'?", session: "DD-10"}
+- {id: "MQ365", category: "Mobile Performance & Memory", question: "How does the system detect an ANR?", session: "DD-10"}
+- {id: "MQ366", category: "Mobile Performance & Memory", question: "How does JankStats know a frame was janky?", session: "DD-12"}
+- {id: "MQ367", category: "Mobile Performance & Memory", question: "How does LeakCanary detect a leaked Activity?", session: "DD-12"}
+- {id: "MQ368", category: "Mobile Performance & Memory", question: "How does a hardware Bitmap save memory?", session: "AI-18"}
+- {id: "MQ369", category: "Mobile Performance & Memory", question: "How does thermal throttling affect app performance?", session: "AI-21"}
+- {id: "MQ370", category: "Mobile Performance & Memory", question: "How does Android measure an app's battery usage?", session: "SD-25"}
+- {id: "MQ371", category: "Mobile Performance & Memory", question: "How does app size affect install conversion and startup?", session: "DD-26"}
+- {id: "MQ372", category: "Mobile Performance & Memory", question: "How does iOS's memory-warning model differ from Android's LMKD?", session: "DD-26"}
+- {id: "MQ373", category: "Mobile Performance & Memory", question: "How does Perfetto record traces from every process at once?", session: null}
+- {id: "MQ374", category: "Mobile Security", question: "How does Android Keystore keep keys out of reach of the app process?", session: "SD-15"}
+- {id: "MQ375", category: "Mobile Security", question: "How does StrongBox differ from TEE-backed keys?", session: "DD-21"}
+- {id: "MQ376", category: "Mobile Security", question: "How does BiometricPrompt tie a fingerprint to a crypto key?", session: "DD-21"}
+- {id: "MQ377", category: "Mobile Security", question: "How do passkeys sign in without sending a password?", session: "AND-23"}
+- {id: "MQ378", category: "Mobile Security", question: "How does Play Integrity tell a genuine device from a tampered one?", session: "BE-22"}
+- {id: "MQ379", category: "Mobile Security", question: "How does certificate pinning block a man-in-the-middle proxy?", session: "AI-26"}
+- {id: "MQ380", category: "Mobile Security", question: "How does the app sandbox stop apps reading each other's files?", session: "PRJ-22"}
+- {id: "MQ381", category: "Mobile Security", question: "How do runtime permissions get granted and revoked?", session: "PRJ-22"}
+- {id: "MQ382", category: "Mobile Security", question: "How does scoped storage limit file access?", session: "SD-28"}
+- {id: "MQ383", category: "Mobile Security", question: "How does Android prevent tapjacking and overlay attacks?", session: null}
+- {id: "MQ384", category: "Mobile Security", question: "How does iOS Keychain compare with Android Keystore?", session: null}
+- {id: "MQ385", category: "Mobile Security", question: "How does an app detect it is running on a rooted/jailbroken device?", session: null}
+- {id: "MQ386", category: "Build & Release", question: "How does Gradle decide a task is UP-TO-DATE?", session: "AI-03"}
+- {id: "MQ387", category: "Build & Release", question: "How does the configuration cache skip the configuration phase?", session: "AI-07"}
+- {id: "MQ388", category: "Build & Release", question: "How does R8 decide which code to remove?", session: "AI-10"}
+- {id: "MQ389", category: "Build & Release", question: "How does Play generate device-specific APKs from an AAB?", session: "AI-14"}
+- {id: "MQ390", category: "Build & Release", question: "How does Play App Signing let Google re-sign your app?", session: "DD-14"}
+- {id: "MQ391", category: "Build & Release", question: "How does an in-app update (flexible vs immediate) work?", session: "DD-14"}
+- {id: "MQ392", category: "Build & Release", question: "How does Play's staged rollout pick which users get the update?", session: "DD-15"}
+- {id: "MQ393", category: "Build & Release", question: "How does a crash reporter capture a native crash?", session: "DD-15"}
+- {id: "MQ394", category: "Build & Release", question: "How does de-obfuscation turn an R8 stack trace readable again?", session: "RN-13a"}
+- {id: "MQ395", category: "Build & Release", question: "How does an OTA JS update (EAS Update) change an RN app without a store release?", session: "RN-13a"}
+- {id: "MQ396", category: "Build & Release", question: "How does TestFlight distribution differ from Play internal testing?", session: "AND-21"}
+- {id: "MQ397", category: "Build & Release", question: "How does Firebase Remote Config deliver values without an app update?", session: "DD-24"}
+- {id: "MQ398", category: "Cross-platform (RN / KMP / Flutter)", question: "How does React Native render a <View> as a real Android View?", session: "RN-01"}
+- {id: "MQ399", category: "Cross-platform (RN / KMP / Flutter)", question: "How does JSI let JavaScript call Kotlin synchronously?", session: "RN-10"}
+- {id: "MQ400", category: "Cross-platform (RN / KMP / Flutter)", question: "How does Hermes start an RN app faster than JavaScriptCore?", session: "RN-11"}
+- {id: "MQ401", category: "Cross-platform (RN / KMP / Flutter)", question: "How does Fabric render on multiple threads?", session: "RN-12"}
+- {id: "MQ402", category: "Cross-platform (RN / KMP / Flutter)", question: "How does Metro bundle JavaScript for release builds?", session: "RN-18"}
+- {id: "MQ403", category: "Cross-platform (RN / KMP / Flutter)", question: "How does Fast Refresh keep state while replacing code?", session: "RN-14"}
+- {id: "MQ404", category: "Cross-platform (RN / KMP / Flutter)", question: "How does Kotlin Multiplatform compile shared code for iOS?", session: "RN-19"}
+- {id: "MQ405", category: "Cross-platform (RN / KMP / Flutter)", question: "How does Compose Multiplatform draw UI on iOS?", session: "RN-17"}
+- {id: "MQ406", category: "Cross-platform (RN / KMP / Flutter)", question: "How does Flutter draw every pixel itself (Skia/Impeller)?", session: "RN-20"}
+- {id: "MQ407", category: "Cross-platform (RN / KMP / Flutter)", question: "How does an RN app handle deep links on Android and iOS?", session: null}
+- {id: "MQ408", category: "Cross-platform (RN / KMP / Flutter)", question: "How does an RN screen get embedded inside a native Android app?", session: null}
+- {id: "MQ409", category: "Cross-platform (RN / KMP / Flutter)", question: "How does Reanimated run animations on the UI thread?", session: null}
+- {id: "MQ410", category: "iOS Counterpart", question: "How does iOS launch an app compared with Android's Zygote fork?", session: null}
+- {id: "MQ411", category: "iOS Counterpart", question: "How does APNs deliver a push compared with FCM?", session: null}
+- {id: "MQ412", category: "iOS Counterpart", question: "How does iOS background app refresh compare with WorkManager?", session: null}
+- {id: "MQ413", category: "iOS Counterpart", question: "How does iOS suspend apps compared with Android's cached processes?", session: null}
+- {id: "MQ414", category: "iOS Counterpart", question: "How do iOS widgets (WidgetKit) update compared with Glance widgets?", session: null}
+- {id: "MQ415", category: "iOS Counterpart", question: "How do universal links compare with Android App Links?", session: null}
+- {id: "MQ416", category: "iOS Counterpart", question: "How does App Store review compare with Play review?", session: null}
+- {id: "MQ417", category: "iOS Counterpart", question: "How does iOS handle in-app purchases compared with Play Billing?", session: null}
+- {id: "MQ418", category: "iOS Counterpart", question: "How does iOS restore app data from iCloud backup?", session: null}
+- {id: "MQ419", category: "iOS Counterpart", question: "How does iOS decide when a background download can run?", session: null}
+- {id: "MQ420", category: "Mobile Backend & Sync", question: "How does a backend know which devices belong to a user for push?", session: "BE-01"}
+- {id: "MQ421", category: "Mobile Backend & Sync", question: "How does a server stream AI tokens to a phone (SSE)?", session: "BE-02"}
+- {id: "MQ422", category: "Mobile Backend & Sync", question: "How does a WebSocket server scale to a million phones?", session: "SD-02"}
+- {id: "MQ423", category: "Mobile Backend & Sync", question: "How does an API stay backward compatible with 2-year-old app versions?", session: "BE-03"}
+- {id: "MQ424", category: "Mobile Backend & Sync", question: "How does cursor pagination avoid duplicates while new items arrive?", session: "PRJ-03"}
+- {id: "MQ425", category: "Mobile Backend & Sync", question: "How does an idempotency key stop double payments when the app retries?", session: "PRJ-03"}
+- {id: "MQ426", category: "Mobile Backend & Sync", question: "How does a signed URL let a phone upload directly to storage?", session: "BE-05"}
+- {id: "MQ427", category: "Mobile Backend & Sync", question: "How does a server rate-limit a misbehaving app version?", session: "SD-04"}
+- {id: "MQ428", category: "Mobile Backend & Sync", question: "How does a backend force-logout a user on all devices?", session: "BE-06"}
+- {id: "MQ429", category: "Mobile Backend & Sync", question: "How does an offline edit get merged when two devices changed the same note?", session: "BE-08"}
+- {id: "MQ430", category: "Mobile Backend & Sync", question: "How does a CDN serve images faster to users in Mumbai vs New York?", session: "BE-11"}
+- {id: "MQ431", category: "Mobile Backend & Sync", question: "How does a JWT get verified without calling the auth server?", session: "BE-10"}
+- {id: "MQ432", category: "On-device AI", question: "How does Gemini Nano run inside AICore without the app bundling the model?", session: "AI-01"}
+- {id: "MQ433", category: "On-device AI", question: "How does an on-device model fit in phone memory (quantization)?", session: "AI-02"}
+- {id: "MQ434", category: "On-device AI", question: "How does the NPU/GPU delegate speed up inference?", session: "AI-05"}
+- {id: "MQ435", category: "On-device AI", question: "How does Gboard suggest replies without sending your messages to a server?", session: "AI-06"}
+- {id: "MQ436", category: "On-device AI", question: "How does Google Lens recognise text in real time?", session: "AI-08"}
+- {id: "MQ437", category: "On-device AI", question: "How does on-device speech recognition work offline?", session: "AI-09"}
+- {id: "MQ438", category: "On-device AI", question: "How does an app decide between on-device and cloud AI?", session: "AI-11"}
+- {id: "MQ439", category: "On-device AI", question: "How does a phone run semantic search over notes locally?", session: "AI-12"}
+- {id: "MQ440", category: "On-device AI", question: "How does thermal throttling limit long AI sessions?", session: "AI-13"}
+- {id: "MQ441", category: "On-device AI", question: "How does Apple Intelligence split work between device and Private Cloud Compute?", session: "AI-15"}
+- {id: "MQ442", category: "On-device AI", question: "How does an AI assistant call your app's functions (App Actions / App Intents / MCP)?", session: "AI-16"}
+- {id: "MQ443", category: "On-device AI", question: "How does prompt injection reach an AI feature through user content?", session: "AI-17"}

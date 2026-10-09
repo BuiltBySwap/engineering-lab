@@ -1,0 +1,33 @@
+date: '2027-04-02'
+day: Fri
+week: 26
+session: AI-27
+session_title: Cost & latency engineering for AI features
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ54
+  category: Process Management
+  question: How does Android show "App keeps stopping"?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: AI discussions
+  words:
+  - word: augment
+    meaning: add to
+  - word: deterministic
+    meaning: same input, same output
+  grammar: Apostrophes & its / it's, your / you're
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "Cost & latency engineering for AI features" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

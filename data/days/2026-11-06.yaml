@@ -1,0 +1,33 @@
+date: '2026-11-06'
+day: Fri
+week: 5
+session: AI-06
+session_title: Attention from scratch (self-attention in NumPy)
+track: AI Foundations (from scratch)
+hours: 1.17
+mq:
+- id: MQ435
+  category: On-device AI
+  question: How does Gboard suggest replies without sending your messages to a server?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Planning & estimation
+  words:
+  - word: phased
+    meaning: done in stages
+  - word: realistic
+    meaning: achievable
+  grammar: 'Uncountable nouns: information, feedback, advice, equipment (no "s")'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "Attention from scratch (self-attention in NumPy)" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

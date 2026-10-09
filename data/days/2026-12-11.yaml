@@ -1,0 +1,33 @@
+date: '2026-12-11'
+day: Fri
+week: 10
+session: AI-11
+session_title: Vector databases & ANN indexes (HNSW, IVF, pgvector)
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ438
+  category: On-device AI
+  question: How does an app decide between on-device and cloud AI?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Performance
+  words:
+  - word: lean
+    meaning: efficient, no waste
+  - word: responsive
+    meaning: reacts quickly
+  grammar: Passive voice — when it helps and when it hides ownership
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "Vector databases & ANN indexes (HNSW, IVF, pgvector)" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

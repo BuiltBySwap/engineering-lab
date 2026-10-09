@@ -1,0 +1,33 @@
+date: '2027-02-17'
+day: Wed
+week: 20
+session: SD-20
+session_title: 'Resilience: timeouts, retries with backoff, circuit breakers, idempotency'
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ114
+  category: Network
+  question: How does Android cache DNS?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Leadership
+  words:
+  - word: transparency
+    meaning: openness
+  - word: coach
+    meaning: help someone improve
+  grammar: since / for / ago / already / yet
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Resilience: timeouts, retries with backoff, circuit breakers, idempote" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

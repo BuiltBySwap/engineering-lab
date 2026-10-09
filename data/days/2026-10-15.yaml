@@ -1,0 +1,33 @@
+date: '2026-10-15'
+day: Thu
+week: 2
+session: BE-03
+session_title: Requests, responses, serialization, validation, status codes
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ423
+  category: Mobile Backend & Sync
+  question: How does an API stay backward compatible with 2-year-old app versions?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Architecture talk
+  words:
+  - word: latency
+    meaning: delay before response
+  - word: throughput
+    meaning: work done per second
+  grammar: Past simple vs present perfect ("I built" vs "I have built")
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "Requests, responses, serialization, validation, status codes" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

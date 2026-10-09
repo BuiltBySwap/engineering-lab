@@ -1,0 +1,47 @@
+date: '2027-04-24'
+day: Sat
+week: 29
+session: DD-30
+session_title: 'Final mock loop: coding + Android internals + system design'
+track: Interview
+hours: 4.33
+mq:
+- id: MQ80
+  category: UI Rendering
+  question: How does SurfaceFlinger compose frames?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ81
+  category: UI Rendering
+  question: How does Choreographer schedule rendering?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Reflection
+  words: []
+  grammar: Emphasis & stress in spoken English
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - introspect
+  - lesson learned
+  - growth mindset
+  - self-aware
+  - setback
+  - persevere
+  - milestone (personal)
+  - recalibrate
+  - momentum
+  - gratitude
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelSaying no & focus
+  question: 'Model of the week: Saying no & focus. Every yes is a no to something else; protect the few things that matter. Drill: List 3 things you will say no to this month.'
+  model: Saying no & focus
+  status: todo
+  my_answer: ''
+  model_answer: ''

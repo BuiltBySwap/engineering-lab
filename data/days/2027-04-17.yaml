@@ -1,0 +1,47 @@
+date: '2027-04-17'
+day: Sat
+week: 28
+session: DD-29
+session_title: 'AI engineering deep: evals + guardrails + cost dashboard for Kaizen'
+track: AI Engineering
+hours: 4.33
+mq:
+- id: MQ68
+  category: Activity & Navigation
+  question: How does split screen work?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ69
+  category: Activity & Navigation
+  question: How does Picture-in-Picture work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Career
+  words: []
+  grammar: Signposting in presentations (first, next, to sum up)
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - aspire
+  - milestone (career)
+  - versatile
+  - niche
+  - credibility
+  - portfolio
+  - network (v.)
+  - referral
+  - negotiate (offer)
+  - pivot
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelVision → strategy → execution
+  question: 'Model of the week: Vision → strategy → execution. Vision (where), strategy (how we win), execution (what we do this quarter). Drill: Write a 3-line vision + strategy for a mobile team.'
+  model: Vision → strategy → execution
+  status: todo
+  my_answer: ''
+  model_answer: ''

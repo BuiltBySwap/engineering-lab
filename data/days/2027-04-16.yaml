@@ -1,0 +1,33 @@
+date: '2027-04-16'
+day: Fri
+week: 28
+session: AI-29
+session_title: AI product thinking + recommendation basics
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ67
+  category: Activity & Navigation
+  question: How does freeform window mode work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Career
+  words:
+  - word: negotiate (offer)
+    meaning: discuss salary/terms
+  - word: pivot
+    meaning: change direction
+  grammar: Signposting in presentations (first, next, to sum up)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "AI product thinking + recommendation basics" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

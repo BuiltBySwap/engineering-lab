@@ -1,0 +1,47 @@
+date: '2027-04-11'
+day: Sun
+week: 27
+session: PRJ-22
+session_title: 'Security + release pass: OWASP MASVS audit, API Top 10, Play internal track'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ380
+  category: Mobile Security
+  question: How does the app sandbox stop apps reading each other's files?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ381
+  category: Mobile Security
+  question: How do runtime permissions get granted and revoked?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Executive communication
+  words: []
+  grammar: Parallel structure in lists and slides
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - bottom line
+  - headline
+  - at a glance
+  - high-level
+  - drill down
+  - bandwidth
+  - traction
+  - visibility
+  - escalation path
+  - status quo
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'Review this week''s build as a Mobile Lead: what would you approve, question, or cut — and why? Apply "Growing people (1:1s, ladders)".'
+  model: Growing people (1:1s, ladders)
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2027-03-29'
+day: Mon
+week: 26
+session: DSA-26
+session_title: Segment Tree + Fenwick Tree (range queries with updates)
+track: DSA
+hours: 1.17
+mq:
+- id: MQ53
+  category: Process Management
+  question: How does Android know an app crashed?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: AI discussions
+  words:
+  - word: inference
+    meaning: running a model
+  - word: hallucination
+    meaning: confident wrong answer
+  grammar: Apostrophes & its / it's, your / you're
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Segment Tree + Fenwick Tree (range queries with updates)" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

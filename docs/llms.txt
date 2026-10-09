@@ -1,0 +1,10 @@
+# Engineering Lab (BuiltBySwap): a learning book. Read in this order to save tokens.
+
+1. /status.json : one small file. Today's session, today's question IDs, today's words, and every open item. Read this first.
+2. /days/YYYY-MM-DD/ : one page per day: session, Mobile Exploration Q&A, English, Role lens.
+3. /topics/<ID>/ : one notebook per session (notes + examples + code). Open only the ID you need.
+4. /progress.json : all sessions with status, score and a one-line takeaway.
+5. /mobile-exploration/<category>/ : every question in a category with its answer.
+
+Raw data (public repo): https://raw.githubusercontent.com/BuiltBySwap/engineering-lab/main/data/days/YYYY-MM-DD.yaml
+Rules: do not ask for the whole site. Fetch status.json, then only the day or session needed.

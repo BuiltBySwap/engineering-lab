@@ -1,0 +1,33 @@
+date: '2026-10-20'
+day: Tue
+week: 3
+session: AND-03
+session_title: Dispatchers & threading model
+track: Kotlin Deep
+hours: 1.17
+mq:
+- id: MQ339
+  category: Kotlin & Coroutines Runtime
+  question: How does Dispatchers.Main post work to the Android main Looper?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Meetings
+  words:
+  - word: consensus
+    meaning: general agreement
+  - word: facilitate
+    meaning: make a process easier
+  grammar: 'Prepositions of time & place: in / on / at'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: What one guideline or code-review rule would you give your team about "Dispatchers & threading model"?
+  status: todo
+  my_answer: ''
+  model_answer: ''

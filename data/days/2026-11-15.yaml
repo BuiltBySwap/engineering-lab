@@ -1,0 +1,47 @@
+date: '2026-11-15'
+day: Sun
+week: 6
+session: PRJ-06
+session_title: 'Kaizen notes: write ''origin story'' notes per day + markdown + sync'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ142
+  category: Notifications
+  question: How does Android wake an app after receiving a push notification?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ143
+  category: Notifications
+  question: How do data notifications differ from notification messages?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Persuasion
+  words: []
+  grammar: Comparatives & superlatives (faster, more reliable, the most scalable)
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - rationale
+  - compelling
+  - justify
+  - advocate
+  - concede
+  - counterpoint
+  - substantiate
+  - leverage
+  - premise
+  - persuasive
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'Review this week''s build as a Mobile Lead: what would you approve, question, or cut — and why? Apply "Pre-mortem".'
+  model: Pre-mortem
+  status: todo
+  my_answer: ''
+  model_answer: ''

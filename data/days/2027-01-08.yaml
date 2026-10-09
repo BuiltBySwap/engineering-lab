@@ -1,0 +1,33 @@
+date: '2027-01-08'
+day: Fri
+week: 14
+session: AI-15
+session_title: 'Advanced RAG: hybrid search (BM25 + vectors), reranking, query rewriting'
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ441
+  category: On-device AI
+  question: How does Apple Intelligence split work between device and Private Cloud Compute?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Data & metrics
+  words:
+  - word: insight
+    meaning: deep understanding
+  - word: attribute (v.)
+    meaning: say something caused it
+  grammar: 'Linking words: however, therefore, although, whereas'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "Advanced RAG: hybrid search (BM25 + vectors), reranking, query rewriti" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

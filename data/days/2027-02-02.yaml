@@ -1,0 +1,33 @@
+date: '2027-02-02'
+day: Tue
+week: 18
+session: AND-18
+session_title: 'Background work internals: WorkManager, Room invalidation, services & FGS rules'
+track: Android Framework
+hours: 1.17
+mq:
+- id: MQ179
+  category: Background Execution
+  question: Why did Android introduce background execution limits?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Product
+  words:
+  - word: churn
+    meaning: users leaving
+  - word: engagement
+    meaning: how much users interact
+  grammar: 'Phrasal verbs at work: roll out, follow up, set up, figure out, push back'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Background work internals: WorkManager, Room invalidation, services & "?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2027-02-11'
+day: Thu
+week: 19
+session: BE-13
+session_title: Background jobs, scheduling & queues
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ180
+  category: Background Execution
+  question: How does Android determine whether an app is in the foreground?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Strategy
+  words:
+  - word: prioritise
+    meaning: decide what comes first
+  - word: allocate (budget)
+    meaning: assign money
+  grammar: Tense consistency in written updates
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "Background jobs, scheduling & queues" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

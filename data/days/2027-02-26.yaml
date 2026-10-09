@@ -1,0 +1,33 @@
+date: '2027-02-26'
+day: Fri
+week: 21
+session: AI-22
+session_title: 'On-device AI 1: Gemini Nano, AICore, ML Kit GenAI APIs'
+track: AI-native Android
+hours: 1.17
+mq:
+- id: MQ37
+  category: App Launch
+  question: How does Android show the splash screen?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Hiring & growth
+  words:
+  - word: onboarding
+    meaning: getting new hires started
+  - word: retain
+    meaning: keep (people)
+  grammar: 'Conciseness: cutting filler words ("basically", "actually", "like")'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "On-device AI 1: Gemini Nano, AICore, ML Kit GenAI APIs" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

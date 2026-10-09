@@ -1,0 +1,47 @@
+date: '2026-12-26'
+day: Sat
+week: 12
+session: DD-13
+session_title: 'APK install + ART: signatures, PackageManager, dex2oat, JIT/AOT, profiles'
+track: Android Internals
+hours: 4.33
+mq:
+- id: MQ21
+  category: App Installation
+  question: How does Play Store download an app?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ22
+  category: App Installation
+  question: How does Android verify APK signatures?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Decision making
+  words: []
+  grammar: Reported speech ("She said the build was failing")
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - deliberate
+  - trade-off
+  - criteria
+  - weigh (options)
+  - reversible
+  - consequential
+  - arbitrary
+  - informed
+  - decisive
+  - hindsight
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelWriting to think (1-pager / RFC)
+  question: 'Model of the week: Writing to think (1-pager / RFC). Writing exposes gaps in thinking; a 1-page doc beats a long meeting. Drill: Write a 5-line 1-pager for a decision you face.'
+  model: Writing to think (1-pager / RFC)
+  status: todo
+  my_answer: ''
+  model_answer: ''

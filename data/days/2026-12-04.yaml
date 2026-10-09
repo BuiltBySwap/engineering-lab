@@ -1,0 +1,33 @@
+date: '2026-12-04'
+day: Fri
+week: 9
+session: AI-10
+session_title: 'Function / tool calling: build a tool-using assistant'
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ388
+  category: Build & Release
+  question: How does R8 decide which code to remove?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Change & migration
+  words:
+  - word: disruption
+    meaning: interruption
+  - word: seamless
+    meaning: smooth, without breaks
+  grammar: Conditionals 2 & 3 (if we had…, we would have…)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "Function / tool calling: build a tool-using assistant" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

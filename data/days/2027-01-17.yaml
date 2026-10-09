@@ -1,0 +1,47 @@
+date: '2027-01-17'
+day: Sun
+week: 15
+session: PRJ-13
+session_title: 'Kaizen AI 1: embeddings + pgvector semantic search over notes & questions'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ156
+  category: Notifications
+  question: How does incoming call notification differ from a normal notification?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ157
+  category: Notifications
+  question: How do alarm notifications bypass Do Not Disturb?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Writing documents
+  words: []
+  grammar: 'Punctuation: commas, run-on sentences, full stops'
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - draft
+  - outline
+  - proofread
+  - concise (writing)
+  - revise
+  - appendix
+  - summary
+  - audience
+  - tone
+  - structure
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'Review this week''s build as a Mobile Lead: what would you approve, question, or cut — and why? Apply "Delegation levels".'
+  model: Delegation levels
+  status: todo
+  my_answer: ''
+  model_answer: ''

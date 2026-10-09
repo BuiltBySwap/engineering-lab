@@ -1,0 +1,33 @@
+date: '2027-01-29'
+day: Fri
+week: 17
+session: AI-18
+session_title: 'Agents: the ReAct loop, planning, memory — and when not to use them'
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ368
+  category: Mobile Performance & Memory
+  question: How does a hardware Bitmap save memory?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Conflict
+  words:
+  - word: defensive
+    meaning: reacting to criticism
+  - word: resolve
+    meaning: find a solution
+  grammar: Question forms & polite questions in meetings
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "Agents: the ReAct loop, planning, memory — and when not to use them" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

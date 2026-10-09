@@ -1,0 +1,47 @@
+date: '2027-01-30'
+day: Sat
+week: 17
+session: DD-18
+session_title: 'Network deep dive: TCP/TLS/DNS, HTTP/2 & HTTP/3 (QUIC), OkHttp internals'
+track: Network Stack
+hours: 4.33
+mq:
+- id: MQ110
+  category: Network
+  question: How does Android know VPN connected?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ111
+  category: Network
+  question: How does Android reconnect after network loss?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Conflict
+  words: []
+  grammar: Question forms & polite questions in meetings
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - disagree respectfully
+  - de-escalate
+  - empathise
+  - grievance
+  - mediate
+  - misunderstanding
+  - reconcile
+  - assertive
+  - defensive
+  - resolve
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelInterests vs positions
+  question: 'Model of the week: Interests vs positions. In conflict, look for the interest behind each position. Drill: Recall a disagreement: what did each side really need?'
+  model: Interests vs positions
+  status: todo
+  my_answer: ''
+  model_answer: ''

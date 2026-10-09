@@ -1,0 +1,47 @@
+date: '2027-03-21'
+day: Sun
+week: 24
+session: PRJ-20
+session_title: Kaizen modularization + convention plugins; Phase 2 portfolio polish
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ171
+  category: Notifications
+  question: How do notification actions execute while the app is closed?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ172
+  category: Notifications
+  question: How does tapping a notification open the correct screen?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Presenting
+  words: []
+  grammar: Storytelling in the past (STAR answers)
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - engaging
+  - articulate (adj.)
+  - pause
+  - emphasise
+  - rehearse
+  - visual
+  - anecdote
+  - Q&A
+  - wrap up
+  - call to action
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'Review this week''s build as a Mobile Lead: what would you approve, question, or cut — and why? Apply "Risk register".'
+  model: Risk register
+  status: todo
+  my_answer: ''
+  model_answer: ''

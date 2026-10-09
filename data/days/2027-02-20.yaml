@@ -1,0 +1,47 @@
+date: '2027-02-20'
+day: Sat
+week: 20
+session: DD-21
+session_title: 'Security deep: OAuth2 + PKCE + JWT end-to-end (Android ↔ Ktor)'
+track: Security
+hours: 4.33
+mq:
+- id: MQ375
+  category: Mobile Security
+  question: How does StrongBox differ from TEE-backed keys?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ376
+  category: Mobile Security
+  question: How does BiometricPrompt tie a fingerprint to a crypto key?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Leadership
+  words: []
+  grammar: since / for / ago / already / yet
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - inspire
+  - accountability
+  - autonomy
+  - trust
+  - transparency
+  - coach
+  - recognise
+  - empathy
+  - integrity
+  - humble
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelOKRs
+  question: 'Model of the week: OKRs. Objective (qualitative) + 3 measurable key results; outcomes, not tasks. Drill: Write 1 OKR for your next quarter.'
+  model: OKRs
+  status: todo
+  my_answer: ''
+  model_answer: ''

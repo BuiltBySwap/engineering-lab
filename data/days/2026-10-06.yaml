@@ -1,0 +1,34 @@
+date: '2026-10-06'
+day: Tue
+week: 1
+session: AND-01
+session_title: 'Coroutines under the hood: suspend → CPS + state machine'
+track: Kotlin Deep
+hours: 1.17
+mq:
+- id: MQ337
+  category: Kotlin & Coroutines Runtime
+  question: How does a suspend function pause without blocking a thread?
+  status: done
+  guess: Each suspended task is stored as a label; when the work completes the matching coroutine is found and returns to the same dispatcher.
+  answer: Before suspending, the coroutine saves its progress (label + local variables) in a continuation object on the heap, and the function returns COROUTINE_SUSPENDED so the thread is free. When the awaited work finishes it calls continuation.resume(); the dispatcher picks a thread and the function re-enters at the saved label.
+english:
+  kind: words
+  theme: Problem solving
+  words:
+  - word: workaround
+    meaning: temporary solution
+  - word: bottleneck
+    meaning: point that slows everything
+  grammar: Present simple vs present continuous
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: partial
+  sentences: []
+  feedback:
+  - Warm-up 1/3. Present simple for general facts ('holds'); present continuous for 'right now' ('is assigning'). bottleneck = the slow part everything waits for; workaround = a temporary fix. Own sentences still to write.
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Coroutines under the hood: suspend → CPS + state machine"?'
+  status: partial
+  my_answer: ''
+  model_answer: Never block Main or Default; suspend functions are main-safe (the function chooses its own dispatcher).

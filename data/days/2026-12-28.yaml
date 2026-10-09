@@ -1,0 +1,33 @@
+date: '2026-12-28'
+day: Mon
+week: 13
+session: DSA-13
+session_title: 'Mixed Review #1 (Binary Search → Greedy) + mistake-log repair'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ17
+  category: Boot Process
+  question: How does Android optimize boot time?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Risk
+  words:
+  - word: vulnerability
+    meaning: weakness that can be attacked
+  - word: exposure
+    meaning: being at risk
+  grammar: Gerunds vs infinitives (avoid doing / decide to do)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Mixed Review #1 (Binary Search → Greedy) + mistake-log repair" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

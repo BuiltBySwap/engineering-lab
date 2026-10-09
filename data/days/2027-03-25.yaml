@@ -1,0 +1,33 @@
+date: '2027-03-25'
+day: Thu
+week: 25
+session: RN-18
+session_title: 'Release: EAS Build, Submit, Update (OTA) & store policy'
+track: React Native
+hours: 1.17
+mq:
+- id: MQ402
+  category: Cross-platform (RN / KMP / Flutter)
+  question: How does Metro bundle JavaScript for release builds?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Security & privacy
+  words:
+  - word: audit
+    meaning: official check
+  - word: least privilege
+    meaning: minimum access
+  grammar: 'Dependent prepositions: depend on, responsible for, interested in'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Release: EAS Build, Submit, Update (OTA) & store policy" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

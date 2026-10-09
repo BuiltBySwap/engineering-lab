@@ -1,0 +1,33 @@
+date: '2027-03-11'
+day: Thu
+week: 23
+session: BE-21
+session_title: 'Spring Data JPA & Hibernate: entities, N+1, lazy loading, transactions'
+track: Backend (Spring Boot)
+hours: 1.17
+mq:
+- id: MQ43
+  category: App Launch
+  question: How does Android restore an Activity after process death?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Incidents
+  words:
+  - word: remediate
+    meaning: fix the problem
+  - word: on-call
+    meaning: responsible for responding
+  grammar: Hedging & diplomatic language (it seems, I would suggest)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Spring Data JPA & Hibernate: entities, N+1, lazy loading, transactions" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

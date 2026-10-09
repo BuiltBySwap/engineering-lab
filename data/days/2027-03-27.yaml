@@ -1,0 +1,47 @@
+date: '2027-03-27'
+day: Sat
+week: 25
+session: DD-26
+session_title: 'Observability end-to-end: OpenTelemetry mobile → backend, crash & ANR SLOs'
+track: Observability
+hours: 4.33
+mq:
+- id: MQ371
+  category: Mobile Performance & Memory
+  question: How does app size affect install conversion and startup?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ372
+  category: Mobile Performance & Memory
+  question: How does iOS's memory-warning model differ from Android's LMKD?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Security & privacy
+  words: []
+  grammar: 'Dependent prepositions: depend on, responsible for, interested in'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - encrypt
+  - consent
+  - compliance
+  - breach
+  - safeguard (v.)
+  - anonymise
+  - audit
+  - least privilege
+  - confidential
+  - regulation
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelBlameless postmortem
+  question: 'Model of the week: Blameless postmortem. Timeline, contributing factors, fixes — focus on systems, not blame. Drill: Write a postmortem for a past incident.'
+  model: Blameless postmortem
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2027-03-22'
+day: Mon
+week: 25
+session: DSA-25
+session_title: 'Mock #4 (Meta-style: 2 mediums in 35 min)'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ52
+  category: Process Management
+  question: How does Android restart killed apps?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Security & privacy
+  words:
+  - word: encrypt
+    meaning: make unreadable without a key
+  - word: consent
+    meaning: permission
+  grammar: 'Dependent prepositions: depend on, responsible for, interested in'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Mock #4 (Meta-style: 2 mediums in 35 min)" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

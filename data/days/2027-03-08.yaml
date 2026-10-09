@@ -1,0 +1,33 @@
+date: '2027-03-08'
+day: Mon
+week: 23
+session: DSA-23
+session_title: 'DP 5: Tree DP + Interval DP'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ42
+  category: App Launch
+  question: Why are some apps slower to launch?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Incidents
+  words:
+  - word: outage
+    meaning: service unavailable
+  - word: mitigation
+    meaning: action to reduce impact
+  grammar: Hedging & diplomatic language (it seems, I would suggest)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "DP 5: Tree DP + Interval DP" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

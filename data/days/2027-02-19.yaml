@@ -1,0 +1,33 @@
+date: '2027-02-19'
+day: Fri
+week: 20
+session: AI-21
+session_title: Context engineering, agent memory & multi-agent/A2A patterns
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ369
+  category: Mobile Performance & Memory
+  question: How does thermal throttling affect app performance?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Leadership
+  words:
+  - word: integrity
+    meaning: honesty and strong principles
+  - word: humble
+    meaning: modest
+  grammar: since / for / ago / already / yet
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "Context engineering, agent memory & multi-agent/A2A patterns" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

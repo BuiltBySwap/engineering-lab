@@ -1,0 +1,33 @@
+date: '2027-01-25'
+day: Mon
+week: 17
+session: DSA-17
+session_title: 'Dynamic Programming 2: 2D grids + two-string DP'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ25
+  category: App Installation
+  question: How does Play Store install split APKs?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Conflict
+  words:
+  - word: disagree respectfully
+    meaning: differ politely
+  - word: de-escalate
+    meaning: reduce tension
+  grammar: Question forms & polite questions in meetings
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Dynamic Programming 2: 2D grids + two-string DP" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

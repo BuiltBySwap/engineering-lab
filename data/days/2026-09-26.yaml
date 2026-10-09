@@ -1,0 +1,35 @@
+date: '2026-09-26'
+day: Sat
+week: 0
+session: W0-1
+session_title: Week 0 · Dev environment for every track (install once, use for 7 months)
+track: Setup
+hours: 4.33
+mq: []
+english:
+  kind: practice
+  theme: Explaining clearly
+  words: []
+  grammar: 'Articles: a / an / the (and when to use none)'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - articulate
+  - concise
+  - elaborate
+  - clarify
+  - convey
+  - nuance
+  - coherent
+  - succinct
+  - illustrate
+  - gist
+  status: skipped
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelThe four hats
+  question: 'Model of the week: The four hats. Mobile Dev optimises code; Mobile Lead optimises the team''s code & standards; Team Lead optimises delivery & people; CTO optimises business outcome, risk & cost. Drill: Write one sentence per hat about this week''s topic.'
+  model: The four hats
+  status: skipped
+  my_answer: ''
+  model_answer: ''

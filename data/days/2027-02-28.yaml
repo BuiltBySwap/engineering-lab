@@ -1,0 +1,47 @@
+date: '2027-02-28'
+day: Sun
+week: 21
+session: CHK-05
+session_title: Month 5 checkpoint
+track: Checkpoint
+hours: 4.33
+mq:
+- id: MQ333
+  category: Production Questions
+  question: How does Instagram notify followers immediately when someone starts a Live stream?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ334
+  category: Production Questions
+  question: How does YouTube notify subscribers when a channel goes live?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Hiring & growth
+  words: []
+  grammar: 'Conciseness: cutting filler words ("basically", "actually", "like")'
+  task: 'Record a 5-minute talk ''What I learned this month'' and compare with last month: pace, filler words, vocabulary.'
+  week_words:
+  - competency
+  - calibrate
+  - potential
+  - promotion
+  - trajectory
+  - upskill
+  - rubric
+  - bias
+  - onboarding
+  - retain
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'Role ladder self-check (Personality tab): score yourself 1–5 as Mobile Dev / Mobile Lead / Team Lead / CTO and pick one habit to practise next month.'
+  model: Conway's law & team topologies
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,35 @@
+date: '2026-09-27'
+day: Sun
+week: 0
+session: W0-2
+session_title: Week 0 · Python for Kotlin devs + your Gemini learning setup
+track: Setup
+hours: 4.33
+mq: []
+english:
+  kind: practice
+  theme: Explaining clearly
+  words: []
+  grammar: 'Articles: a / an / the (and when to use none)'
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - articulate
+  - concise
+  - elaborate
+  - clarify
+  - convey
+  - nuance
+  - coherent
+  - succinct
+  - illustrate
+  - gist
+  status: skipped
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'Review this week''s build as a Mobile Lead: what would you approve, question, or cut — and why? Apply "The four hats".'
+  model: The four hats
+  status: skipped
+  my_answer: ''
+  model_answer: ''

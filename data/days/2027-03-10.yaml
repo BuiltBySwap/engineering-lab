@@ -1,0 +1,33 @@
+date: '2027-03-10'
+day: Wed
+week: 23
+session: SD-23
+session_title: Rate limiter deep dive + implement & load test
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ169
+  category: Notifications
+  question: How do notification bubbles work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Incidents
+  words:
+  - word: timeline
+    meaning: order of events
+  - word: impact
+    meaning: effect
+  grammar: Hedging & diplomatic language (it seems, I would suggest)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "Rate limiter deep dive + implement & load test" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

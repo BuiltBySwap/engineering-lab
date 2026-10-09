@@ -1,0 +1,47 @@
+date: '2026-10-17'
+day: Sat
+week: 2
+session: DD-03
+session_title: 'App process launch: Zygote fork → ActivityThread → Looper → Application'
+track: Android Internals
+hours: 4.33
+mq:
+- id: MQ31
+  category: App Launch
+  question: How does tapping an app icon launch the app?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ32
+  category: App Launch
+  question: How does Launcher know installed apps?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Architecture talk
+  words: []
+  grammar: Past simple vs present perfect ("I built" vs "I have built")
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - scalable
+  - robust
+  - decouple
+  - cohesive
+  - extensible
+  - resilient
+  - latency
+  - throughput
+  - overhead
+  - redundant
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelTrade-off matrix
+  question: 'Model of the week: Trade-off matrix. List options × criteria, weight criteria, score honestly. Makes choices explainable. Drill: Build a 3×4 matrix for one decision in today''s topic.'
+  model: Trade-off matrix
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2026-11-20'
+day: Fri
+week: 7
+session: AI-08
+session_title: 'How frontier LLMs are trained: pretraining, SFT, RLHF, scaling laws'
+track: AI Foundations (from scratch)
+hours: 1.17
+mq:
+- id: MQ436
+  category: On-device AI
+  question: How does Google Lens recognise text in real time?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Ownership & impact
+  words:
+  - word: outcome
+    meaning: final result
+  - word: leverage (n.)
+    meaning: advantage you can use
+  grammar: 'Modal verbs for suggestions: should / could / would / might'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "How frontier LLMs are trained: pretraining, SFT, RLHF, scaling laws" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

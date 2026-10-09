@@ -1,0 +1,47 @@
+date: '2027-03-14'
+day: Sun
+week: 23
+session: PRJ-19
+session_title: Kaizen Glance widget + Baseline Profile + Macrobenchmark results
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ351
+  category: Compose & UI Toolkit
+  question: How does Compose draw on the same Canvas/RenderThread as Views?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ352
+  category: Compose & UI Toolkit
+  question: How does ComposeView embed Compose inside an XML layout?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Incidents
+  words: []
+  grammar: Hedging & diplomatic language (it seems, I would suggest)
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - outage
+  - mitigation
+  - postmortem
+  - blameless
+  - timeline
+  - impact
+  - remediate
+  - on-call
+  - recurrence
+  - root cause
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'Review this week''s build as a CTO: what would you approve, question, or cut — and why? Apply "Unit economics".'
+  model: Unit economics
+  status: todo
+  my_answer: ''
+  model_answer: ''

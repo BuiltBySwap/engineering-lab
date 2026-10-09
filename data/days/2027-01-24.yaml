@@ -1,0 +1,47 @@
+date: '2027-01-24'
+day: Sun
+week: 16
+session: PRJ-14
+session_title: 'Kaizen AI 2: ''Ask my notes'' RAG endpoint with SSE streaming'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ158
+  category: Notifications
+  question: How do emergency alerts bypass notification restrictions?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ159
+  category: Notifications
+  question: How do notification channels work internally?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Negotiation
+  words: []
+  grammar: 'Common Indian-English errors: "do the needful", "revert back", "discuss about", "prepone", "kindly"'
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - compromise
+  - leverage (negotiation)
+  - concession
+  - mutually beneficial
+  - stance
+  - bargain
+  - flexible
+  - non-negotiable
+  - counter-offer
+  - common ground
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'Review this week''s build as a Team Lead: what would you approve, question, or cut — and why? Apply "SBI feedback".'
+  model: SBI feedback
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2026-10-29'
+day: Thu
+week: 4
+session: BE-06
+session_title: Exposed ORM, Flyway migrations, HikariCP connection pool
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ428
+  category: Mobile Backend & Sync
+  question: How does a backend force-logout a user on all devices?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Feedback
+  words:
+  - word: recurring
+    meaning: happening again
+  - word: perspective
+    meaning: point of view
+  grammar: Subject–verb agreement (the team is / the data are)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "Exposed ORM, Flyway migrations, HikariCP connection pool" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2027-01-27'
+day: Wed
+week: 17
+session: SD-17
+session_title: 'Gate 2 mock: Android system design interview (recorded)'
+track: Android System Design
+hours: 1.17
+mq:
+- id: MQ330
+  category: Production Questions
+  question: How does Slack synchronize channels in the background?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Conflict
+  words:
+  - word: mediate
+    meaning: help two sides agree
+  - word: misunderstanding
+    meaning: wrong interpretation
+  grammar: Question forms & polite questions in meetings
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Gate 2 mock: Android system design interview (recorded)" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

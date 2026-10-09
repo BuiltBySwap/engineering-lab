@@ -1,0 +1,33 @@
+date: '2026-11-09'
+day: Mon
+week: 6
+session: DSA-06
+session_title: Heaps / Priority Queues + Top-K
+track: DSA
+hours: 1.17
+mq:
+- id: MQ10
+  category: Boot Process
+  question: How does System Server start Android services?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Persuasion
+  words:
+  - word: rationale
+    meaning: reasons behind a decision
+  - word: compelling
+    meaning: convincing
+  grammar: Comparatives & superlatives (faster, more reliable, the most scalable)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Heaps / Priority Queues + Top-K" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

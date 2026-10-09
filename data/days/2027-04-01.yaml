@@ -1,0 +1,33 @@
+date: '2027-04-01'
+day: Thu
+week: 26
+session: RN-14
+session_title: 'Animations & gestures: Reanimated worklets, Gesture Handler'
+track: React Native
+hours: 1.17
+mq:
+- id: MQ403
+  category: Cross-platform (RN / KMP / Flutter)
+  question: How does Fast Refresh keep state while replacing code?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: AI discussions
+  words:
+  - word: guardrail
+    meaning: safety limit
+  - word: emergent
+    meaning: appearing unexpectedly
+  grammar: Apostrophes & its / it's, your / you're
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Animations & gestures: Reanimated worklets, Gesture Handler" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

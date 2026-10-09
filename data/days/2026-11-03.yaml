@@ -1,0 +1,33 @@
+date: '2026-11-03'
+day: Tue
+week: 5
+session: AND-05
+session_title: StateFlow vs SharedFlow vs Channel (hot streams)
+track: Kotlin Deep
+hours: 1.17
+mq:
+- id: MQ341
+  category: Kotlin & Coroutines Runtime
+  question: How does Flow apply backpressure without extra buffers?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Planning & estimation
+  words:
+  - word: dependency
+    meaning: thing you rely on
+  - word: contingency
+    meaning: backup plan
+  grammar: 'Uncountable nouns: information, feedback, advice, equipment (no "s")'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: What one guideline or code-review rule would you give your team about "StateFlow vs SharedFlow vs Channel (hot streams)"?
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2027-01-22'
+day: Fri
+week: 16
+session: AI-17
+session_title: 'Streaming & mobile AI UX: SSE, time-to-first-token, cancellation'
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ443
+  category: On-device AI
+  question: How does prompt injection reach an AI feature through user content?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Negotiation
+  words:
+  - word: counter-offer
+    meaning: reply offer
+  - word: common ground
+    meaning: shared interests
+  grammar: 'Common Indian-English errors: "do the needful", "revert back", "discuss about", "prepone", "kindly"'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "Streaming & mobile AI UX: SSE, time-to-first-token, cancellation" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

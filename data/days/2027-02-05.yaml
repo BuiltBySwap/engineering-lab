@@ -1,0 +1,33 @@
+date: '2027-02-05'
+day: Fri
+week: 18
+session: AI-19
+session_title: 'MCP deep dive: protocol and a tiny MCP server'
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ27
+  category: App Installation
+  question: How does ART compile app code?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Product
+  words:
+  - word: friction
+    meaning: thing that slows users
+  - word: adoption
+    meaning: users starting to use it
+  grammar: 'Phrasal verbs at work: roll out, follow up, set up, figure out, push back'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "MCP deep dive: protocol and a tiny MCP server" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

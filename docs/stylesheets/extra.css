@@ -1,0 +1,12 @@
+.home-search { margin: 1rem 0 2rem; }
+.home-search input {
+  width: 100%;
+  padding: 0.9rem 1.1rem;
+  font-size: 1rem;
+  border: 2px solid var(--md-primary-fg-color);
+  border-radius: 0.6rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  cursor: text;
+}
+.home-search small { display: block; margin-top: 0.4rem; opacity: 0.7; }

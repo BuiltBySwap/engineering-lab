@@ -1,0 +1,33 @@
+date: '2027-03-16'
+day: Tue
+week: 24
+session: AND-24
+session_title: 'Security 2: network security, pinning, Play Integrity, obfuscation'
+track: Security
+hours: 1.17
+mq:
+- id: MQ289
+  category: Caching
+  question: How does video caching work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Presenting
+  words:
+  - word: pause
+    meaning: short stop
+  - word: emphasise
+    meaning: give importance
+  grammar: Storytelling in the past (STAR answers)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Security 2: network security, pinning, Play Integrity, obfuscation"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

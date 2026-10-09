@@ -1,0 +1,33 @@
+date: '2027-03-23'
+day: Tue
+week: 25
+session: AND-25
+session_title: 'Kotlin Multiplatform (KMP) vs React Native: strategy'
+track: Kotlin Deep
+hours: 1.17
+mq:
+- id: MQ344
+  category: Kotlin & Coroutines Runtime
+  question: How does R8 shrink Kotlin metadata and still keep reflection working?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Security & privacy
+  words:
+  - word: compliance
+    meaning: following rules
+  - word: breach
+    meaning: break-in, data leak
+  grammar: 'Dependent prepositions: depend on, responsible for, interested in'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Kotlin Multiplatform (KMP) vs React Native: strategy"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

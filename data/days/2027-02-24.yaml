@@ -1,0 +1,33 @@
+date: '2027-02-24'
+day: Wed
+week: 21
+session: SD-21
+session_title: CQRS + Event Sourcing
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ115
+  category: Network
+  question: How does Android detect internet availability?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Hiring & growth
+  words:
+  - word: trajectory
+    meaning: path of progress
+  - word: upskill
+    meaning: learn new skills
+  grammar: 'Conciseness: cutting filler words ("basically", "actually", "like")'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "CQRS + Event Sourcing" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

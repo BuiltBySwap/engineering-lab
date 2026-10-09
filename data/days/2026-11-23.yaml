@@ -1,0 +1,33 @@
+date: '2026-11-23'
+day: Mon
+week: 8
+session: DSA-08
+session_title: Intervals + Greedy
+track: DSA
+hours: 1.17
+mq:
+- id: MQ12
+  category: Boot Process
+  question: How does Launcher start after boot?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Quality & reliability
+  words:
+  - word: regression
+    meaning: something that worked now broken
+  - word: flaky
+    meaning: unreliable, fails randomly
+  grammar: Conditionals 0 & 1 (if the cache misses, we fetch…)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Intervals + Greedy" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

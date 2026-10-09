@@ -1,0 +1,33 @@
+date: '2027-03-19'
+day: Fri
+week: 24
+session: AI-25
+session_title: Fine-tuning vs RAG vs prompting + a hands-on LoRA run
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ49
+  category: Process Management
+  question: How does Low Memory Killer work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Presenting
+  words:
+  - word: wrap up
+    meaning: finish
+  - word: call to action
+    meaning: what you want listeners to do
+  grammar: Storytelling in the past (STAR answers)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "Fine-tuning vs RAG vs prompting + a hands-on LoRA run" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

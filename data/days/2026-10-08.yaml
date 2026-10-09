@@ -1,0 +1,34 @@
+date: '2026-10-08'
+day: Thu
+week: 1
+session: BE-02
+session_title: 'Ktor fundamentals: engines, application module, plugins, routing'
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ421
+  category: Mobile Backend & Sync
+  question: How does a server stream AI tokens to a phone (SSE)?
+  status: partial
+  guess: ''
+  answer: 'Keep the HTTP response open and send pieces as they are produced: Server-Sent Events (Content-Type: text/event-stream, no Content-Length, `data: ...` events each ending with a blank line). The phone reads the stream incrementally (OkHttp SSE or Ktor client, exposed as a Flow). SSE fits one-way token flow better than a WebSocket; cancelling the Flow closes the connection so the server stops paying for tokens. (Answer from the tutor: write your own version.)'
+english:
+  kind: words
+  theme: Problem solving
+  words:
+  - word: pragmatic
+    meaning: practical, not ideal
+  - word: iterate
+    meaning: improve in repeated steps
+  grammar: Present simple vs present continuous
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: partial
+  sentences: []
+  feedback:
+  - 'Model sentences: ''A pragmatic first version returns hardcoded JSON, because it lets us test the whole path today.'' / ''We iterate on the API in small steps instead of designing everything first.'' / ''This week we are iterating on the API, so the endpoints are changing quickly.'' Own sentences still to write.'
+lens:
+  role: CTO
+  question: 'What is the business impact of "Ktor fundamentals: engines, application module, plugins, routing" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: partial
+  my_answer: ''
+  model_answer: 'Decision: use Ktor for Kaizen''s backend now. Because: one language for app and server, a cheap small start with coroutines; the hiring pool and ecosystem are smaller than Spring Boot''s. Review when: the backend team passes about 5 engineers, hiring slows, or enterprise features are needed.'

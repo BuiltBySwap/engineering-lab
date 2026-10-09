@@ -1,0 +1,33 @@
+date: '2026-12-18'
+day: Fri
+week: 11
+session: AI-12
+session_title: RAG pipeline end-to-end
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ439
+  category: On-device AI
+  question: How does a phone run semantic search over notes locally?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Collaboration
+  words:
+  - word: onboard
+    meaning: help a new person start
+  - word: mentor
+    meaning: guide and advise
+  grammar: 'Relative clauses: which / that / who'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "RAG pipeline end-to-end" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

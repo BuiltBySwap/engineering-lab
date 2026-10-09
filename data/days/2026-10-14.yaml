@@ -1,0 +1,33 @@
+date: '2026-10-14'
+day: Wed
+week: 2
+session: SD-02
+session_title: Back-of-envelope estimation + API styles (REST, GraphQL, gRPC)
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ422
+  category: Mobile Backend & Sync
+  question: How does a WebSocket server scale to a million phones?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Architecture talk
+  words:
+  - word: extensible
+    meaning: easy to add to
+  - word: resilient
+    meaning: recovers from failure
+  grammar: Past simple vs present perfect ("I built" vs "I have built")
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: How would you split work on "Back-of-envelope estimation + API styles (REST, GraphQL, gRPC)" across 3 engineers, and what is the biggest delivery risk?
+  status: todo
+  my_answer: ''
+  model_answer: ''

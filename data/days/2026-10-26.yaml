@@ -1,0 +1,33 @@
+date: '2026-10-26'
+day: Mon
+week: 4
+session: DSA-04
+session_title: 'Binary Trees: DFS (pre/in/post-order) + recursion return values'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ8
+  category: Boot Process
+  question: How does Zygote fork a new app process?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Feedback
+  words:
+  - word: constructive
+    meaning: helpful, aimed at improving
+  - word: candid
+    meaning: honest and direct
+  grammar: Subject–verb agreement (the team is / the data are)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Binary Trees: DFS (pre/in/post-order) + recursion return values" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

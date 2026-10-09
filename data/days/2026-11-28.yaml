@@ -1,0 +1,47 @@
+date: '2026-11-28'
+day: Sat
+week: 8
+session: DD-09
+session_title: 'Memory 1: Java heap vs native heap, Bitmaps, LMKD, OOM, onTrimMemory'
+track: Memory Engineering
+hours: 4.33
+mq:
+- id: MQ362
+  category: Mobile Performance & Memory
+  question: How does Android decide which app to kill when memory is low?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ363
+  category: Mobile Performance & Memory
+  question: How does a Baseline Profile make the first launch faster?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Quality & reliability
+  words: []
+  grammar: Conditionals 0 & 1 (if the cache misses, we fetch…)
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - regression
+  - flaky
+  - intermittent
+  - reproducible
+  - safeguard
+  - rigorous
+  - degrade
+  - graceful
+  - verify
+  - thorough
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelEstimation with ranges
+  question: 'Model of the week: Estimation with ranges. Give best/likely/worst and confidence; uncertainty shrinks as you learn (cone of uncertainty). Drill: Estimate next Sunday''s build as a range.'
+  model: Estimation with ranges
+  status: todo
+  my_answer: ''
+  model_answer: ''

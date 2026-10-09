@@ -1,0 +1,33 @@
+date: '2026-11-16'
+day: Mon
+week: 7
+session: DSA-07
+session_title: Monotonic Stack + Monotonic Queue
+track: DSA
+hours: 1.17
+mq:
+- id: MQ11
+  category: Boot Process
+  question: How does Android know boot has completed?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Ownership & impact
+  words:
+  - word: spearhead
+    meaning: lead an effort
+  - word: initiative
+    meaning: acting without being told
+  grammar: 'Modal verbs for suggestions: should / could / would / might'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Monotonic Stack + Monotonic Queue" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

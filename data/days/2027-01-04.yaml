@@ -1,0 +1,33 @@
+date: '2027-01-04'
+day: Mon
+week: 14
+session: DSA-14
+session_title: Dijkstra's shortest path (weighted, non-negative)
+track: DSA
+hours: 1.17
+mq:
+- id: MQ18
+  category: Boot Process
+  question: How does A/B partition update work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Data & metrics
+  words:
+  - word: metric
+    meaning: a measurement
+  - word: trend
+    meaning: general direction
+  grammar: 'Linking words: however, therefore, although, whereas'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Dijkstra's shortest path (weighted, non-negative)" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

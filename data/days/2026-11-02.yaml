@@ -1,0 +1,33 @@
+date: '2026-11-02'
+day: Mon
+week: 5
+session: DSA-05
+session_title: 'Trees: BFS level order + Binary Search Trees'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ9
+  category: Boot Process
+  question: How does System Server start?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Planning & estimation
+  words:
+  - word: milestone
+    meaning: important checkpoint
+  - word: scope
+    meaning: what is included
+  grammar: 'Uncountable nouns: information, feedback, advice, equipment (no "s")'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Trees: BFS level order + Binary Search Trees" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

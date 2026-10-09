@@ -1,0 +1,33 @@
+date: '2027-03-02'
+day: Tue
+week: 22
+session: AND-22
+session_title: 'Image & media pipelines: Bitmap decode/caches (Coil) + Media3, MediaCodec, HLS/DASH, DRM'
+track: Media & Images
+hours: 1.17
+mq:
+- id: MQ267
+  category: Downloads
+  question: How does DownloadManager work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Finance basics
+  words:
+  - word: revenue
+    meaning: money earned
+  - word: margin
+    meaning: profit percentage
+  grammar: Formal vs informal register (Slack vs email vs RFC)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Image & media pipelines: Bitmap decode/caches (Coil) + Media3, MediaCo"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

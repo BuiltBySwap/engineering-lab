@@ -1,0 +1,33 @@
+date: '2026-10-28'
+day: Wed
+week: 4
+session: SD-04
+session_title: 'Real-time backend: WebSockets, SSE, long polling, pub/sub fan-out'
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ427
+  category: Mobile Backend & Sync
+  question: How does a server rate-limit a misbehaving app version?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Feedback
+  words:
+  - word: actionable
+    meaning: can be acted on
+  - word: tactful
+    meaning: sensitive in what you say
+  grammar: Subject–verb agreement (the team is / the data are)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Real-time backend: WebSockets, SSE, long polling, pub/sub fan-out" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

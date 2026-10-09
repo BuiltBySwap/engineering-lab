@@ -1,0 +1,33 @@
+date: '2027-02-16'
+day: Tue
+week: 20
+session: AND-20
+session_title: 'Kotlin compilation & codegen: bytecode costs, value classes, KSP vs KAPT'
+track: Kotlin Deep
+hours: 1.17
+mq:
+- id: MQ343
+  category: Kotlin & Coroutines Runtime
+  question: How does Kotlin compile a lambda on Android (invokedynamic vs classes)?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Leadership
+  words:
+  - word: autonomy
+    meaning: freedom to decide
+  - word: trust
+    meaning: belief in reliability
+  grammar: since / for / ago / already / yet
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Kotlin compilation & codegen: bytecode costs, value classes, KSP vs KA"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

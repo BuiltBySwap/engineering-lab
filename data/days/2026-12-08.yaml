@@ -1,0 +1,33 @@
+date: '2026-12-08'
+day: Tue
+week: 10
+session: AND-10
+session_title: 'Compose side effects: LaunchedEffect, DisposableEffect, derivedStateOf, snapshotFlow'
+track: Compose Internals
+hours: 1.17
+mq:
+- id: MQ33
+  category: App Launch
+  question: How does Android determine the launcher Activity?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Performance
+  words:
+  - word: sluggish
+    meaning: slow
+  - word: negligible
+    meaning: too small to matter
+  grammar: Passive voice — when it helps and when it hides ownership
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Compose side effects: LaunchedEffect, DisposableEffect, derivedStateOf"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,47 @@
+date: '2027-04-25'
+day: Sun
+week: 29
+session: CHK-07
+session_title: Final checkpoint · 7-month retrospective
+track: Checkpoint
+hours: 4.33
+mq:
+- id: MQ312
+  category: Device Restore
+  question: How does Android restore Wi-Fi passwords?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ313
+  category: Device Restore
+  question: How does Android restore notifications after migration?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Reflection
+  words: []
+  grammar: Emphasis & stress in spoken English
+  task: 'Record a 5-minute talk ''What I learned this month'' and compare with last month: pace, filler words, vocabulary.'
+  week_words:
+  - introspect
+  - lesson learned
+  - growth mindset
+  - self-aware
+  - setback
+  - persevere
+  - milestone (personal)
+  - recalibrate
+  - momentum
+  - gratitude
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'Role ladder self-check (Personality tab): score yourself 1–5 as Mobile Dev / Mobile Lead / Team Lead / CTO and pick one habit to practise next month.'
+  model: Saying no & focus
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,33 @@
+date: '2027-03-24'
+day: Wed
+week: 25
+session: SD-25
+session_title: 'Observability: logs, metrics, traces, SLOs'
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ370
+  category: Mobile Performance & Memory
+  question: How does Android measure an app's battery usage?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Security & privacy
+  words:
+  - word: safeguard (v.)
+    meaning: protect
+  - word: anonymise
+    meaning: remove identity
+  grammar: 'Dependent prepositions: depend on, responsible for, interested in'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Observability: logs, metrics, traces, SLOs" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

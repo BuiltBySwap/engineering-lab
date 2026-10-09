@@ -1,0 +1,47 @@
+date: '2026-11-29'
+day: Sun
+week: 8
+session: CHK-02
+session_title: GATE 1 checkpoint · product-company ready
+track: Checkpoint
+hours: 4.33
+mq:
+- id: MQ323
+  category: Production Questions
+  question: How does Gmail synchronize emails while respecting battery restrictions?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ324
+  category: Production Questions
+  question: How does Google Drive upload large files reliably?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Quality & reliability
+  words: []
+  grammar: Conditionals 0 & 1 (if the cache misses, we fetch…)
+  task: 'Record a 5-minute talk ''What I learned this month'' and compare with last month: pace, filler words, vocabulary.'
+  week_words:
+  - regression
+  - flaky
+  - intermittent
+  - reproducible
+  - safeguard
+  - rigorous
+  - degrade
+  - graceful
+  - verify
+  - thorough
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'Role ladder self-check (Personality tab): score yourself 1–5 as Mobile Dev / Mobile Lead / Team Lead / CTO and pick one habit to practise next month.'
+  model: Estimation with ranges
+  status: todo
+  my_answer: ''
+  model_answer: ''

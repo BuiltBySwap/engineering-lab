@@ -1,0 +1,33 @@
+date: '2027-03-04'
+day: Thu
+week: 22
+session: BE-19
+session_title: Why Spring exists + Spring Boot essentials (IoC, beans, auto-config) in Kotlin
+track: Backend (Spring Boot)
+hours: 1.17
+mq:
+- id: MQ41
+  category: App Launch
+  question: How does hot start work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Finance basics
+  words:
+  - word: ROI
+    meaning: return on investment
+  - word: overhead (cost)
+    meaning: running costs
+  grammar: Formal vs informal register (Slack vs email vs RFC)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "Why Spring exists + Spring Boot essentials (IoC, beans, auto-config) i" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

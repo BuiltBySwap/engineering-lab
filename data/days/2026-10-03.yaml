@@ -1,0 +1,47 @@
+date: '2026-10-03'
+day: Sat
+week: 0
+session: DD-01
+session_title: 'Restart day: set up your learning system + portfolio skeleton'
+track: Kickoff
+hours: 4.33
+mq:
+- id: MQ1
+  category: Boot Process
+  question: How does Android boot after pressing the power button?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ2
+  category: Boot Process
+  question: How does the bootloader decide which partition to boot?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Explaining clearly
+  words: []
+  grammar: 'Articles: a / an / the (and when to use none)'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - articulate
+  - concise
+  - elaborate
+  - clarify
+  - convey
+  - nuance
+  - coherent
+  - succinct
+  - illustrate
+  - gist
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelThe four hats
+  question: 'Model of the week: The four hats. Mobile Dev optimises code; Mobile Lead optimises the team''s code & standards; Team Lead optimises delivery & people; CTO optimises business outcome, risk & cost. Drill: Write one sentence per hat about this week''s topic.'
+  model: The four hats
+  status: todo
+  my_answer: ''
+  model_answer: ''

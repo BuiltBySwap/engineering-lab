@@ -1,0 +1,47 @@
+date: '2027-01-02'
+day: Sat
+week: 13
+session: DD-14
+session_title: 'Build 1: Gradle lifecycle, task graph, configuration cache, build cache'
+track: Build Systems
+hours: 4.33
+mq:
+- id: MQ390
+  category: Build & Release
+  question: How does Play App Signing let Google re-sign your app?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ391
+  category: Build & Release
+  question: How does an in-app update (flexible vs immediate) work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Risk
+  words: []
+  grammar: Gerunds vs infinitives (avoid doing / decide to do)
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - vulnerability
+  - exposure
+  - likelihood
+  - severity
+  - pre-emptive
+  - contain
+  - fallback
+  - unforeseen
+  - precaution
+  - resilience
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelDACI decision roles
+  question: 'Model of the week: DACI decision roles. Driver, Approver, Contributors, Informed — who decides is as important as what. Drill: Assign DACI for a feature at work.'
+  model: DACI decision roles
+  status: todo
+  my_answer: ''
+  model_answer: ''

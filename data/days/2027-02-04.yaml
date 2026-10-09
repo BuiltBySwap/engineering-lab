@@ -1,0 +1,33 @@
+date: '2027-02-04'
+day: Thu
+week: 18
+session: RN-11
+session_title: Hermes engine + RN performance profiling
+track: React Native
+hours: 1.17
+mq:
+- id: MQ400
+  category: Cross-platform (RN / KMP / Flutter)
+  question: How does Hermes start an RN app faster than JavaScriptCore?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Product
+  words:
+  - word: iterate on
+    meaning: improve step by step
+  - word: viable
+    meaning: able to succeed
+  grammar: 'Phrasal verbs at work: roll out, follow up, set up, figure out, push back'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "Hermes engine + RN performance profiling" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

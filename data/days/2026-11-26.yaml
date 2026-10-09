@@ -1,0 +1,33 @@
+date: '2026-11-26'
+day: Thu
+week: 8
+session: RN-03
+session_title: React rendering model & hooks vs Compose (re-render vs recomposition)
+track: React Native
+hours: 1.17
+mq:
+- id: MQ75
+  category: UI Rendering
+  question: How does scrolling stay smooth?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Quality & reliability
+  words:
+  - word: degrade
+    meaning: become worse
+  - word: graceful
+    meaning: smooth, even when failing
+  grammar: Conditionals 0 & 1 (if the cache misses, we fetch…)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "React rendering model & hooks vs Compose (re-render vs recomposition)" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

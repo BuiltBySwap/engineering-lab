@@ -1,0 +1,47 @@
+date: '2026-10-25'
+day: Sun
+week: 3
+session: CHK-01
+session_title: 'Month 1 checkpoint: habit restarted'
+track: Checkpoint
+hours: 4.33
+mq:
+- id: MQ319
+  category: Production Questions
+  question: How does Spotify continue downloading playlists after locking the phone?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ320
+  category: Production Questions
+  question: How does Netflix resume interrupted downloads?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Meetings
+  words: []
+  grammar: 'Prepositions of time & place: in / on / at'
+  task: 'Record a 5-minute talk ''What I learned this month'' and compare with last month: pace, filler words, vocabulary.'
+  week_words:
+  - agenda
+  - align
+  - consensus
+  - facilitate
+  - stakeholder
+  - escalate
+  - defer
+  - recap
+  - tangent
+  - takeaway
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'Role ladder self-check (Personality tab): score yourself 1–5 as Mobile Dev / Mobile Lead / Team Lead / CTO and pick one habit to practise next month.'
+  model: Second-order thinking
+  status: todo
+  my_answer: ''
+  model_answer: ''

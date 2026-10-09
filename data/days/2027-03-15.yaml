@@ -1,0 +1,33 @@
+date: '2027-03-15'
+day: Mon
+week: 24
+session: DSA-24
+session_title: 'Advanced graphs sampler: Bellman-Ford, Floyd-Warshall, MST (Prim/Kruskal)'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ45
+  category: App Launch
+  question: How does Android restore saved state?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Presenting
+  words:
+  - word: engaging
+    meaning: interesting
+  - word: articulate (adj.)
+    meaning: speaks clearly
+  grammar: Storytelling in the past (STAR answers)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Advanced graphs sampler: Bellman-Ford, Floyd-Warshall, MST (Prim/Krusk" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

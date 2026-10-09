@@ -1,0 +1,33 @@
+date: '2026-12-14'
+day: Mon
+week: 11
+session: DSA-11
+session_title: Topological Sort (Kahn's algorithm + DFS)
+track: DSA
+hours: 1.17
+mq:
+- id: MQ15
+  category: Boot Process
+  question: How does Android restore notifications after reboot?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Collaboration
+  words:
+  - word: liaise
+    meaning: work together, communicate
+  - word: synergy
+    meaning: combined effect is bigger
+  grammar: 'Relative clauses: which / that / who'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Topological Sort (Kahn's algorithm + DFS)" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

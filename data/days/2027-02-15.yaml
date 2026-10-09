@@ -1,0 +1,33 @@
+date: '2027-02-15'
+day: Mon
+week: 20
+session: DSA-20
+session_title: Design data structures (LRU / LFU / O(1) structures)
+track: DSA
+hours: 1.17
+mq:
+- id: MQ30
+  category: App Installation
+  question: How does Android keep app data after reinstall (backup restore)?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Leadership
+  words:
+  - word: inspire
+    meaning: motivate strongly
+  - word: accountability
+    meaning: taking responsibility
+  grammar: since / for / ago / already / yet
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Design data structures (LRU / LFU / O(1) structures)" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

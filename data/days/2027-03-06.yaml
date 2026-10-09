@@ -1,0 +1,47 @@
+date: '2027-03-06'
+day: Sat
+week: 22
+session: DEV-01
+session_title: 'Docker deep + Kubernetes hands-on (kind): pods, deployments, services, probes'
+track: DevOps
+hours: 4.33
+mq:
+- id: MQ335
+  category: Production Questions
+  question: How does Android ensure all of this works while minimizing battery usage?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ336
+  category: Production Questions
+  question: How do production apps combine push notifications, background work, local storage, retries, and synchronization into a reliable end-to-end system?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Finance basics
+  words: []
+  grammar: Formal vs informal register (Slack vs email vs RFC)
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - budget
+  - forecast
+  - revenue
+  - margin
+  - burn rate
+  - runway
+  - ROI
+  - overhead (cost)
+  - cost-effective
+  - headcount
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelBuild vs buy vs partner
+  question: 'Model of the week: Build vs buy vs partner. Build what differentiates you; buy commodities; partner for speed. Drill: Decide build/buy for auth, analytics, AI in Kaizen.'
+  model: Build vs buy vs partner
+  status: todo
+  my_answer: ''
+  model_answer: ''

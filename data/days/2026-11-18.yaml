@@ -1,0 +1,33 @@
+date: '2026-11-18'
+day: Wed
+week: 7
+session: SD-07
+session_title: 'Design YouTube (Android): streaming, adaptive bitrate, offline downloads'
+track: Android System Design
+hours: 1.17
+mq:
+- id: MQ249
+  category: Sync Engine
+  question: How does Drive synchronize files?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Ownership & impact
+  words:
+  - word: accountable
+    meaning: responsible for results
+  - word: instrumental
+    meaning: very important in making happen
+  grammar: 'Modal verbs for suggestions: should / could / would / might'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Design YouTube (Android): streaming, adaptive bitrate, offline downloa" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

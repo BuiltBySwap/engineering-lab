@@ -1,0 +1,33 @@
+date: '2027-04-23'
+day: Fri
+week: 29
+session: AI-30
+session_title: 'AI system design interview: design an AI assistant feature'
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ79
+  category: UI Rendering
+  question: How does Compose render UI?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Reflection
+  words:
+  - word: momentum
+    meaning: force of progress
+  - word: gratitude
+    meaning: thankfulness
+  grammar: Emphasis & stress in spoken English
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "AI system design interview: design an AI assistant feature" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

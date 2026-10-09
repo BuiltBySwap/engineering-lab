@@ -1,0 +1,47 @@
+date: '2027-03-20'
+day: Sat
+week: 24
+session: DD-25
+session_title: 'AI-native Android deep: on-device RAG over your notes'
+track: AI-native Android
+hours: 4.33
+mq:
+- id: MQ50
+  category: Process Management
+  question: How does Android detect low memory?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ51
+  category: Process Management
+  question: Why does Android kill background apps?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Presenting
+  words: []
+  grammar: Storytelling in the past (STAR answers)
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - engaging
+  - articulate (adj.)
+  - pause
+  - emphasise
+  - rehearse
+  - visual
+  - anecdote
+  - Q&A
+  - wrap up
+  - call to action
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelRisk register
+  question: 'Model of the week: Risk register. Likelihood × impact, owner, mitigation — reviewed regularly. Drill: Write 5 risks for your job search / plan.'
+  model: Risk register
+  status: todo
+  my_answer: ''
+  model_answer: ''

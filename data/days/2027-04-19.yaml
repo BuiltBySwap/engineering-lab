@@ -1,0 +1,33 @@
+date: '2027-04-19'
+day: Mon
+week: 29
+session: DSA-29
+session_title: 'Advanced sampler 2: Bitmask DP + A* + bridges (recognise, don''t master)'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ70
+  category: Activity & Navigation
+  question: How does deep linking work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Reflection
+  words:
+  - word: introspect
+    meaning: examine your own thoughts
+  - word: lesson learned
+    meaning: what experience taught
+  grammar: Emphasis & stress in spoken English
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Advanced sampler 2: Bitmask DP + A* + bridges (recognise, don''t master" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

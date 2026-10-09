@@ -1,0 +1,33 @@
+date: '2026-12-29'
+day: Tue
+week: 13
+session: AND-13
+session_title: Clean Architecture, Hexagonal (Ports & Adapters) and DDD
+track: Android Architecture
+hours: 1.17
+mq:
+- id: MQ254
+  category: Sync Engine
+  question: How does delta synchronization work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Risk
+  words:
+  - word: likelihood
+    meaning: probability
+  - word: severity
+    meaning: how serious
+  grammar: Gerunds vs infinitives (avoid doing / decide to do)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: What one guideline or code-review rule would you give your team about "Clean Architecture, Hexagonal (Ports & Adapters) and DDD"?
+  status: todo
+  my_answer: ''
+  model_answer: ''

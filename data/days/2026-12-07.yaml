@@ -1,0 +1,33 @@
+date: '2026-12-07'
+day: Mon
+week: 10
+session: DSA-10
+session_title: 'Graphs 2: adjacency lists + BFS shortest path (unweighted)'
+track: DSA
+hours: 1.17
+mq:
+- id: MQ14
+  category: Boot Process
+  question: How does Android restore alarms after reboot?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Performance
+  words:
+  - word: optimise
+    meaning: make as effective as possible
+  - word: overhead (perf)
+    meaning: extra processing cost
+  grammar: Passive voice — when it helps and when it hides ownership
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: 'Where would "Graphs 2: adjacency lists + BFS shortest path (unweighted)" show up in a production app, and what is the first bug you would hit?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

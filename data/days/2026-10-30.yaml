@@ -1,0 +1,33 @@
+date: '2026-10-30'
+day: Fri
+week: 4
+session: AI-05
+session_title: Embeddings deep dive + semantic search over your Mobile Explorations questions
+track: AI Foundations (from scratch)
+hours: 1.17
+mq:
+- id: MQ434
+  category: On-device AI
+  question: How does the NPU/GPU delegate speed up inference?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Feedback
+  words:
+  - word: appreciate
+    meaning: value
+  - word: address
+    meaning: deal with (an issue)
+  grammar: Subject–verb agreement (the team is / the data are)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "Embeddings deep dive + semantic search over your Mobile Explorations q" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

@@ -1,0 +1,47 @@
+date: '2026-10-10'
+day: Sat
+week: 1
+session: DD-02
+session_title: 'Android boot: bootloader → kernel → init → Zygote → SystemServer → Launcher'
+track: Android Internals
+hours: 4.33
+mq:
+- id: MQ4
+  category: Boot Process
+  question: How does the Linux kernel initialize Android?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ5
+  category: Boot Process
+  question: How does init start Android services?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Problem solving
+  words: []
+  grammar: Present simple vs present continuous
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - diagnose
+  - mitigate
+  - workaround
+  - bottleneck
+  - feasible
+  - constraint
+  - pragmatic
+  - iterate
+  - anomaly
+  - culprit
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelFirst principles
+  question: 'Model of the week: First principles. Break a problem down to facts you know are true, then rebuild the solution — not "what others do". Drill: What are the 3 undeniable facts behind today''s topic?'
+  model: First principles
+  status: todo
+  my_answer: ''
+  model_answer: ''

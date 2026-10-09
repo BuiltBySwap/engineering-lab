@@ -1,0 +1,33 @@
+date: '2026-10-27'
+day: Tue
+week: 4
+session: AND-04
+session_title: 'Flow internals: cold streams, operators, flowOn, backpressure'
+track: Kotlin Deep
+hours: 1.17
+mq:
+- id: MQ340
+  category: Kotlin & Coroutines Runtime
+  question: How does Handler/Looper/MessageQueue keep the main thread alive?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Feedback
+  words:
+  - word: acknowledge
+    meaning: accept or recognise
+  - word: commend
+    meaning: praise formally
+  grammar: Subject–verb agreement (the team is / the data are)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Flow internals: cold streams, operators, flowOn, backpressure"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

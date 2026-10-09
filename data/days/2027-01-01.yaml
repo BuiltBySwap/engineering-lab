@@ -1,0 +1,33 @@
+date: '2027-01-01'
+day: Fri
+week: 13
+session: AI-14
+session_title: 'AI tools tour 2 (holiday-light): build, create, automate, run locally'
+track: AI Tools
+hours: 1.17
+mq:
+- id: MQ389
+  category: Build & Release
+  question: How does Play generate device-specific APKs from an AAB?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Risk
+  words:
+  - word: precaution
+    meaning: action to avoid danger
+  - word: resilience
+    meaning: ability to recover
+  grammar: Gerunds vs infinitives (avoid doing / decide to do)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "AI tools tour 2 (holiday-light): build, create, automate, run locally" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

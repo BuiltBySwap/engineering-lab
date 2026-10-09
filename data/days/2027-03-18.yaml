@@ -1,0 +1,33 @@
+date: '2027-03-18'
+day: Thu
+week: 24
+session: BE-22
+session_title: 'Spring Security: filter chain, JWT resource server'
+track: Backend (Spring Boot)
+hours: 1.17
+mq:
+- id: MQ378
+  category: Mobile Security
+  question: How does Play Integrity tell a genuine device from a tampered one?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Presenting
+  words:
+  - word: anecdote
+    meaning: short story
+  - word: Q&A
+    meaning: questions and answers
+  grammar: Storytelling in the past (STAR answers)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Spring Security: filter chain, JWT resource server" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

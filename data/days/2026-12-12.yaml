@@ -1,0 +1,47 @@
+date: '2026-12-12'
+day: Sat
+week: 10
+session: DD-11
+session_title: 'Performance 1: startup — cold/warm/hot, App Startup, Baseline Profiles, Macrobenchmark'
+track: Performance Engineering
+hours: 4.33
+mq:
+- id: MQ34
+  category: App Launch
+  question: How does Android create an application process?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ35
+  category: App Launch
+  question: How does ActivityThread start?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Performance
+  words: []
+  grammar: Passive voice — when it helps and when it hides ownership
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - optimise
+  - overhead (perf)
+  - sluggish
+  - negligible
+  - profile (v.)
+  - spike
+  - saturate
+  - throttle
+  - lean
+  - responsive
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelCost of delay
+  question: 'Model of the week: Cost of delay. What does it cost per week NOT to ship this? Prioritise high cost-of-delay first. Drill: Which of your backlog items has the highest cost of delay?'
+  model: Cost of delay
+  status: todo
+  my_answer: ''
+  model_answer: ''

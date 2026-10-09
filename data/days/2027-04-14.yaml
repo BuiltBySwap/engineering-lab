@@ -1,0 +1,33 @@
+date: '2027-04-14'
+day: Wed
+week: 28
+session: SD-28
+session_title: 'Security architecture: OAuth2/OIDC, zero trust, secrets'
+track: System Design (HLD)
+hours: 1.17
+mq:
+- id: MQ382
+  category: Mobile Security
+  question: How does scoped storage limit file access?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Career
+  words:
+  - word: credibility
+    meaning: being trusted
+  - word: portfolio
+    meaning: collection of work
+  grammar: Signposting in presentations (first, next, to sum up)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Security architecture: OAuth2/OIDC, zero trust, secrets" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

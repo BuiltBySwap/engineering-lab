@@ -1,0 +1,33 @@
+date: '2027-03-26'
+day: Fri
+week: 25
+session: AI-26
+session_title: 'AI safety & security: prompt injection, guardrails'
+track: AI Engineering
+hours: 1.17
+mq:
+- id: MQ379
+  category: Mobile Security
+  question: How does certificate pinning block a man-in-the-middle proxy?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Security & privacy
+  words:
+  - word: confidential
+    meaning: secret
+  - word: regulation
+    meaning: official rule
+  grammar: 'Dependent prepositions: depend on, responsible for, interested in'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "AI safety & security: prompt injection, guardrails" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''

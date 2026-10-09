@@ -1,0 +1,47 @@
+date: '2027-02-13'
+day: Sat
+week: 19
+session: RN-13a
+session_title: 'RN deep: build a TurboModule in Kotlin (New Architecture)'
+track: React Native
+hours: 4.33
+mq:
+- id: MQ394
+  category: Build & Release
+  question: How does de-obfuscation turn an R8 stack trace readable again?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ395
+  category: Build & Release
+  question: How does an OTA JS update (EAS Update) change an RN app without a store release?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Strategy
+  words: []
+  grammar: Tense consistency in written updates
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - vision
+  - objective
+  - initiative (strategy)
+  - roadmap (strategy)
+  - competitive advantage
+  - long-term
+  - prioritise
+  - allocate (budget)
+  - sustainable
+  - trade-off (strategic)
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelNorth Star & guardrail metrics
+  question: 'Model of the week: North Star & guardrail metrics. One metric for value, plus metrics that must not get worse. Drill: Define a North Star + 2 guardrails for Kaizen.'
+  model: North Star & guardrail metrics
+  status: todo
+  my_answer: ''
+  model_answer: ''

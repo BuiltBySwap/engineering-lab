@@ -1,0 +1,47 @@
+date: '2026-11-22'
+day: Sun
+week: 7
+session: PRJ-07
+session_title: 'Kaizen daily question: scheduled FCM push + WorkManager fallback'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ145
+  category: Notifications
+  question: How does Android prevent notification spam?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ146
+  category: Notifications
+  question: Why do notifications arrive instantly on Wi-Fi but slowly on mobile data?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Ownership & impact
+  words: []
+  grammar: 'Modal verbs for suggestions: should / could / would / might'
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - spearhead
+  - initiative
+  - streamline
+  - quantify
+  - accountable
+  - instrumental
+  - overhaul
+  - proactive
+  - outcome
+  - leverage (n.)
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'Review this week''s build as a Team Lead: what would you approve, question, or cut — and why? Apply "One-way vs two-way doors".'
+  model: One-way vs two-way doors
+  status: todo
+  my_answer: ''
+  model_answer: ''

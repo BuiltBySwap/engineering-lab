@@ -1,0 +1,33 @@
+date: '2027-04-29'
+day: Thu
+week: 30
+session: RN-20
+session_title: 'Decision day: RN vs Flutter vs KMP vs Native · Ktor vs Spring vs Go'
+track: Strategy (CTO)
+hours: 1.17
+mq:
+- id: MQ406
+  category: Cross-platform (RN / KMP / Flutter)
+  question: How does Flutter draw every pixel itself (Skia/Impeller)?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Review month
+  words:
+  - word: precise
+    meaning: exact
+  - word: versatile (review)
+    meaning: adaptable
+  grammar: 'Review: your personal error log (top 10 mistakes)'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Decision day: RN vs Flutter vs KMP vs Native · Ktor vs Spring vs Go" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

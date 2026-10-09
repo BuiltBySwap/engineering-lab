@@ -1,0 +1,33 @@
+date: '2027-01-26'
+day: Tue
+week: 17
+session: AND-17
+session_title: Android internals interview drill
+track: Interview
+hours: 1.17
+mq:
+- id: MQ329
+  category: Production Questions
+  question: How does Discord update unread counts instantly?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Conflict
+  words:
+  - word: empathise
+    meaning: understand feelings
+  - word: grievance
+    meaning: complaint
+  grammar: Question forms & polite questions in meetings
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: What one guideline or code-review rule would you give your team about "Android internals interview drill"?
+  status: todo
+  my_answer: ''
+  model_answer: ''

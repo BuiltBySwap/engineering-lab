@@ -1,0 +1,33 @@
+date: '2027-02-23'
+day: Tue
+week: 21
+session: AND-21
+session_title: 'Testing toolkit: coroutines (runTest/Turbine), Compose UI, Robolectric/Espresso, screenshots'
+track: Testing
+hours: 1.17
+mq:
+- id: MQ396
+  category: Build & Release
+  question: How does TestFlight distribution differ from Play internal testing?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Hiring & growth
+  words:
+  - word: potential
+    meaning: future ability
+  - word: promotion
+    meaning: moving to a higher role
+  grammar: 'Conciseness: cutting filler words ("basically", "actually", "like")'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Testing toolkit: coroutines (runTest/Turbine), Compose UI, Robolectric"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

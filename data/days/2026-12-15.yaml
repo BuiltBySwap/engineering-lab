@@ -1,0 +1,33 @@
+date: '2026-12-15'
+day: Tue
+week: 11
+session: AND-11
+session_title: 'Compose layout & performance: measure policies, Modifier.Node, deferred reads, lazy keys'
+track: Compose Internals
+hours: 1.17
+mq:
+- id: MQ350
+  category: Compose & UI Toolkit
+  question: How does LazyColumn decide which items to compose?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Collaboration
+  words:
+  - word: cross-functional
+    meaning: across different teams
+  - word: hand-off
+    meaning: passing work to another
+  grammar: 'Relative clauses: which / that / who'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: 'What one guideline or code-review rule would you give your team about "Compose layout & performance: measure policies, Modifier.Node, deferre"?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

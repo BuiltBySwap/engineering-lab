@@ -1,0 +1,33 @@
+date: '2026-10-09'
+day: Fri
+week: 1
+session: AI-02
+session_title: Math you need + gradient descent from scratch
+track: AI Foundations (from scratch)
+hours: 1.17
+mq:
+- id: MQ433
+  category: On-device AI
+  question: How does an on-device model fit in phone memory (quantization)?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Problem solving
+  words:
+  - word: anomaly
+    meaning: something unusual
+  - word: culprit
+    meaning: the cause of a problem
+  grammar: Present simple vs present continuous
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: Explain "Math you need + gradient descent from scratch" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.
+  status: todo
+  my_answer: ''
+  model_answer: ''

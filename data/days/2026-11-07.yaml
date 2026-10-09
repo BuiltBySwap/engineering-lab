@@ -1,0 +1,47 @@
+date: '2026-11-07'
+day: Sat
+week: 5
+session: DD-06
+session_title: 'Behavioral interviews: turn the Story Bank into crisp STAR answers (Gate 1 prep)'
+track: Interview
+hours: 4.33
+mq:
+- id: MQ321
+  category: Production Questions
+  question: How does YouTube resume uploads after connectivity loss?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ322
+  category: Production Questions
+  question: How does Google Photos upload thousands of images without draining the battery?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Planning & estimation
+  words: []
+  grammar: 'Uncountable nouns: information, feedback, advice, equipment (no "s")'
+  task: Explain today's main topic aloud for 3 minutes (record yourself). List grammar slips and filler words. Use 2 of this week's words.
+  week_words:
+  - milestone
+  - scope
+  - dependency
+  - contingency
+  - deliverable
+  - allocate
+  - slippage
+  - baseline
+  - phased
+  - realistic
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Thinking modelInversion
+  question: 'Model of the week: Inversion. Ask how to guarantee failure, then avoid those things. Drill: List 5 ways to make today''s design fail.'
+  model: Inversion
+  status: todo
+  my_answer: ''
+  model_answer: ''

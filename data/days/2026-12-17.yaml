@@ -1,0 +1,33 @@
+date: '2026-12-17'
+day: Thu
+week: 11
+session: GRW-LNX
+session_title: Linux & OS essentials for backend/DevOps
+track: 'Growth: Linux & OS'
+hours: 1.17
+mq:
+- id: MQ48
+  category: Process Management
+  question: How does Android decide which process to kill?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Collaboration
+  words:
+  - word: empower
+    meaning: give authority
+  - word: inclusive
+    meaning: involving everyone
+  grammar: 'Relative clauses: which / that / who'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: What is the business impact of "Linux & OS essentials for backend/DevOps" (cost, hiring, build vs buy, risk)? Invest now or later?
+  status: todo
+  my_answer: ''
+  model_answer: ''

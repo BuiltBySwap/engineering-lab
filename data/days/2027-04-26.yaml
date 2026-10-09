@@ -1,0 +1,33 @@
+date: '2027-04-26'
+day: Mon
+week: 30
+session: DSA-30
+session_title: Final mock + DSA retrospective
+track: DSA
+hours: 1.17
+mq:
+- id: MQ82
+  category: UI Rendering
+  question: How does VSYNC work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Review month
+  words:
+  - word: fluent
+    meaning: speaks easily
+  - word: eloquent
+    meaning: speaks beautifully
+  grammar: 'Review: your personal error log (top 10 mistakes)'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Final mock + DSA retrospective" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

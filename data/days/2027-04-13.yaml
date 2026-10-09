@@ -1,0 +1,33 @@
+date: '2027-04-13'
+day: Tue
+week: 28
+session: AND-28
+session_title: Architecture review of your own app → ADRs
+track: Android Architecture
+hours: 1.17
+mq:
+- id: MQ258
+  category: Sync Engine
+  question: How does sync recover from failures?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Career
+  words:
+  - word: versatile
+    meaning: good at many things
+  - word: niche
+    meaning: specialised area
+  grammar: Signposting in presentations (first, next, to sum up)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: What one guideline or code-review rule would you give your team about "Architecture review of your own app → ADRs"?
+  status: todo
+  my_answer: ''
+  model_answer: ''

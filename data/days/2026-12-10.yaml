@@ -1,0 +1,33 @@
+date: '2026-12-10'
+day: Thu
+week: 10
+session: BE-10
+session_title: 'Testing Ktor: testApplication + Testcontainers'
+track: Backend (Ktor)
+hours: 1.17
+mq:
+- id: MQ431
+  category: Mobile Backend & Sync
+  question: How does a JWT get verified without calling the auth server?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Performance
+  words:
+  - word: saturate
+    meaning: fill to the limit
+  - word: throttle
+    meaning: limit the speed
+  grammar: Passive voice — when it helps and when it hides ownership
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: CTO
+  question: 'What is the business impact of "Testing Ktor: testApplication + Testcontainers" (cost, hiring, build vs buy, risk)? Invest now or later?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

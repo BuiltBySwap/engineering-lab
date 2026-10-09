@@ -1,0 +1,33 @@
+date: '2026-12-16'
+day: Wed
+week: 11
+session: SD-11
+session_title: 'Design Gmail (Android): sync engine, search, offline'
+track: Android System Design
+hours: 1.17
+mq:
+- id: MQ252
+  category: Sync Engine
+  question: How does Android synchronize calendars?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Collaboration
+  words:
+  - word: rapport
+    meaning: good relationship
+  - word: delegate
+    meaning: give a task to someone
+  grammar: 'Relative clauses: which / that / who'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Design Gmail (Android): sync engine, search, offline" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

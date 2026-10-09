@@ -1,0 +1,33 @@
+date: '2027-02-09'
+day: Tue
+week: 19
+session: AND-19
+session_title: Navigation 3 & back stack as state; deep links
+track: Android Architecture
+hours: 1.17
+mq:
+- id: MQ59
+  category: Activity & Navigation
+  question: How does Back work internally?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Strategy
+  words:
+  - word: initiative (strategy)
+    meaning: planned project
+  - word: roadmap (strategy)
+    meaning: plan over time
+  grammar: Tense consistency in written updates
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead
+  question: What one guideline or code-review rule would you give your team about "Navigation 3 & back stack as state; deep links"?
+  status: todo
+  my_answer: ''
+  model_answer: ''

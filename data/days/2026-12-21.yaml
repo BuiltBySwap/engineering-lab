@@ -1,0 +1,33 @@
+date: '2026-12-21'
+day: Mon
+week: 12
+session: DSA-12
+session_title: Union-Find (Disjoint Set Union)
+track: DSA
+hours: 1.17
+mq:
+- id: MQ16
+  category: Boot Process
+  question: How does Android restore widgets after reboot?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Decision making
+  words:
+  - word: deliberate
+    meaning: carefully considered
+  - word: trade-off
+    meaning: giving up one thing for another
+  grammar: Reported speech ("She said the build was failing")
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Dev
+  question: Where would "Union-Find (Disjoint Set Union)" show up in a production app, and what is the first bug you would hit?
+  status: todo
+  my_answer: ''
+  model_answer: ''

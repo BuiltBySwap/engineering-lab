@@ -1,0 +1,33 @@
+date: '2026-11-04'
+day: Wed
+week: 5
+session: SD-05
+session_title: 'Design Instagram feed (Android): pagination, caching, prefetch'
+track: Android System Design
+hours: 1.17
+mq:
+- id: MQ277
+  category: Uploads
+  question: How do uploads continue after leaving the app?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Planning & estimation
+  words:
+  - word: deliverable
+    meaning: thing you hand over
+  - word: allocate
+    meaning: assign resources
+  grammar: 'Uncountable nouns: information, feedback, advice, equipment (no "s")'
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'How would you split work on "Design Instagram feed (Android): pagination, caching, prefetch" across 3 engineers, and what is the biggest delivery risk?'
+  status: todo
+  my_answer: ''
+  model_answer: ''

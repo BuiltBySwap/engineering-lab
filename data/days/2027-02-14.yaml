@@ -1,0 +1,47 @@
+date: '2027-02-14'
+day: Sun
+week: 19
+session: PRJ-16
+session_title: 'Portfolio: mcp-android-devtools v0 (MCP server for Android debugging)'
+track: Portfolio Build
+hours: 4.33
+mq:
+- id: MQ162
+  category: Notifications
+  question: How does Android update an existing notification?
+  status: todo
+  guess: ''
+  answer: ''
+- id: MQ163
+  category: Notifications
+  question: How does progress notification work?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: practice
+  theme: Strategy
+  words: []
+  grammar: Tense consistency in written updates
+  task: Write this week's post or summary, proofread it, and log 3 corrections.
+  week_words:
+  - vision
+  - objective
+  - initiative (strategy)
+  - roadmap (strategy)
+  - competitive advantage
+  - long-term
+  - prioritise
+  - allocate (budget)
+  - sustainable
+  - trade-off (strategic)
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Team Lead
+  question: 'Review this week''s build as a Team Lead: what would you approve, question, or cut — and why? Apply "North Star & guardrail metrics".'
+  model: North Star & guardrail metrics
+  status: todo
+  my_answer: ''
+  model_answer: ''

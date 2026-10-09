@@ -1,0 +1,33 @@
+date: '2027-03-05'
+day: Fri
+week: 22
+session: AI-23
+session_title: 'On-device AI 2: LiteRT/MediaPipe LLM Inference + quantization (why small models fit)'
+track: AI-native Android
+hours: 1.17
+mq:
+- id: MQ268
+  category: Downloads
+  question: How do downloads continue after app closure?
+  status: todo
+  guess: ''
+  answer: ''
+english:
+  kind: words
+  theme: Finance basics
+  words:
+  - word: cost-effective
+    meaning: good value
+  - word: headcount
+    meaning: number of employees
+  grammar: Formal vs informal register (Slack vs email vs RFC)
+  task: Write 3 sentences about today's topic using both words and the week's grammar point.
+  status: todo
+  sentences: []
+  feedback: []
+lens:
+  role: Mobile Lead → CTO
+  question: 'Explain "On-device AI 2: LiteRT/MediaPipe LLM Inference + quantization (why sma" to a non-technical founder in 3 sentences, then say whether it matters for the company this year.'
+  status: todo
+  my_answer: ''
+  model_answer: ''
