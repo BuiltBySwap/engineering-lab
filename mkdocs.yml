@@ -7,9 +7,7 @@ repo_name: BuiltBySwap/engineering-lab
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
+    - navigation.indexes
     - navigation.top
     - content.code.copy
     - search.suggest
@@ -26,6 +24,7 @@ theme:
 
 plugins:
   - search
+  - literate-nav
   - mkdocs-jupyter:
       include_source: true
 
@@ -42,6 +41,9 @@ markdown_extensions:
   - toc:
       permalink: true
   - pymdownx.highlight
+  - pymdownx.snippets:
+      base_path: ["docs"]
+      check_paths: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -50,30 +52,3 @@ markdown_extensions:
 
 hooks:
   - hooks/kotlin_cells.py
-
-nav:
-  - Home: index.md
-  - Start here: start-here.md
-  - Status: status.md
-  - Sessions:
-      - Progress: progress.md
-      - Tags: tags.md
-  - Mobile Exploration:
-      - Overview: mobile-exploration/index.md
-  - English:
-      - Word of the day: english/index.md
-      - Vocabulary: english/vocabulary.md
-      - Error log: english/error-log.md
-  - Role lens:
-      - Overview: role-lens/index.md
-      - Thinking models: role-lens/models.md
-  - Reference:
-      - Code repositories: repos.md
-      - Android: android/index.md
-      - Production app architecture: android/architecture.md
-      - System design: system-design/index.md
-      - AI: ai/index.md
-      - Backend: backend/index.md
-      - DSA: dsa/index.md
-      - React Native: rn/index.md
-      - Origin-story note: note-templates/origin-story.md

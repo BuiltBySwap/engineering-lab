@@ -4,7 +4,6 @@ Every problem is solved test-first in Kotlin, by **pattern**, with the trigger p
 
 **Code:** [kotlin-dsa-kata](https://github.com/BuiltBySwap/kotlin-dsa-kata) · [pattern index](https://github.com/BuiltBySwap/kotlin-dsa-kata#pattern-index) · [mistake log](https://github.com/BuiltBySwap/kotlin-dsa-kata/blob/main/MISTAKES.md)
 
-**Sessions:** [DSA tag](../tags.md#dsa) · [binary search (DSA-01)](../topics/DSA-01.ipynb). Run Kotlin in a notebook: [LAB-01](../topics/LAB-01.ipynb).
 
 | Pattern | Trigger phrase | Problems | Status |
 |---|---|---|---|
@@ -12,3 +11,9 @@ Every problem is solved test-first in Kotlin, by **pattern**, with the trigger p
 | Binary search (closed) | "sorted, find the exact value" | LC 704, LC 35 | ✅ |
 | Sliding window | "longest substring with a condition" | LC 3 | ⬜ |
 | Two pointers | "sorted array, find pairs or triplets" | LC 15 | ⬜ |
+
+LC 560 (prefix sum) was solved on the restart day: see **Tools and setup**, DD-01. Run Kotlin in a notebook: LAB-01.
+
+## Sessions
+
+--8<-- ".generated/sessions-dsa.md"

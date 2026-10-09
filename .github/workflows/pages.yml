@@ -27,6 +27,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python tools/build_index.py
       - run: python tools/build_book.py
+      - run: python tools/build_nav.py
       - run: mkdocs build --strict
       - uses: actions/upload-pages-artifact@v3
         with:
