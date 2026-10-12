@@ -9,15 +9,15 @@ mq:
 - id: MQ4
   category: Boot Process
   question: How does the Linux kernel initialize Android?
-  status: todo
+  status: partial
   guess: ''
-  answer: ''
+  answer: 'Boot loader hands the kernel, a ramdisk (containing init), the device tree and the command line to memory and jumps to the kernel. The kernel sets up memory, CPUs, the scheduler and drivers (including Android''s Binder driver), mounts the ramdisk, then starts /init as PID 1. (Answer from the tutor: write your own version.)'
 - id: MQ5
   category: Boot Process
   question: How does init start Android services?
-  status: todo
+  status: partial
   guess: ''
-  answer: ''
+  answer: 'init (PID 1) reads the init.rc files, written in Android''s init language: actions (on <trigger>), commands (mount, mkdir, setprop) and services. To start a service it creates a process and runs the program; if the service dies it restarts it (unless oneshot), and a critical service that keeps crashing can make init reboot the device. The zygote service has --start-system-server, so after preloading Zygote forks system_server. (Answer from the tutor: write your own version.)'
 english:
   kind: practice
   theme: Problem solving
@@ -35,13 +35,14 @@ english:
   - iterate
   - anomaly
   - culprit
-  status: todo
+  status: partial
   sentences: []
-  feedback: []
+  feedback:
+  - 'Words taught: anomaly = something that does not match the normal pattern; culprit = the cause of a problem. Grammar: present simple for facts, present continuous for ''right now''. Own three sentences still to write.'
 lens:
   role: Thinking modelFirst principles
   question: 'Model of the week: First principles. Break a problem down to facts you know are true, then rebuild the solution — not "what others do". Drill: What are the 3 undeniable facts behind today''s topic?'
   model: First principles
-  status: todo
+  status: partial
   my_answer: ''
-  model_answer: ''
+  model_answer: 'From the tutor: (1) a program runs only on top of a kernel, so the kernel comes before init; (2) the kernel is a file in storage, so something (the bootloader) must load it; (3) trust must start in hardware that cannot be edited (the Boot ROM key). Write your own three.'
