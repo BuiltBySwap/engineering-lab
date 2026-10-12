@@ -37,11 +37,14 @@ def to_text(value):
 def load(path: Path) -> dict:
     nb = json.loads(path.read_text(encoding="utf-8"))
     cells = nb.get("cells", [])
-    if not cells or cells[0].get("cell_type") != "markdown":
-        sys.exit(f"ERROR {path.name}: the first cell must be a markdown cell with the status card")
-    match = CARD.search("".join(cells[0]["source"]))
+    match = None
+    for cell in cells[:3]:  # the status card is the first cell; Colab may add a badge cell above it
+        if cell.get("cell_type") == "markdown":
+            match = CARD.search("".join(cell["source"]))
+            if match:
+                break
     if not match:
-        sys.exit(f"ERROR {path.name}: the first cell needs a ```yaml status card")
+        sys.exit(f"ERROR {path.name}: one of the first 3 cells must be a markdown cell with the ```yaml status card")
     meta = yaml.safe_load(match.group(1)) or {}
     missing = [key for key in REQUIRED if not meta.get(key)]
     if missing:
