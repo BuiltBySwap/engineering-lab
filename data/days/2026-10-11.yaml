@@ -9,15 +9,15 @@ mq:
 - id: MQ118
   category: Notifications
   question: Why do notifications sometimes arrive late?
-  status: todo
-  guess: ''
-  answer: ''
+  status: partial
+  guess: Notifications travel through FCM to the device, and there can be delay or latency of the push token.
+  answer: 'Delivery is a chain, so lateness can come from any link: message priority (normal priority is deferred while the phone dozes), Doze and App Standby, manufacturer battery restrictions or a force-stopped app, a dropped connection until the device reconnects, TTL expiry (late becomes never; a collapse key keeps only the newest message), and my own server queue or FCM throttling (429). Use high priority only for urgent messages, set a sensible TTL, and monitor send-to-delivery time. (Answer from the tutor: write your own version.)'
 - id: MQ139
   category: Notifications
   question: How does Firebase Cloud Messaging (FCM) know which device to send a notification to?
-  status: todo
-  guess: ''
-  answer: ''
+  status: done
+  guess: Each device has registered an FCM token with the server; using that we can identify the device and send the message to it.
+  answer: The app asks FCM (through Google Play services) for a token that identifies that app installation, and sends it to my server, which stores it per user in a devices table. To notify a user the server tells FCM to send to that token, and FCM delivers over its shared connection. Tokens change (onNewToken), and a dead token returns UNREGISTERED, so the server deletes it.
 english:
   kind: practice
   theme: Problem solving
