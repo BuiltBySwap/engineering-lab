@@ -9,9 +9,9 @@ mq:
 - id: MQ422
   category: Mobile Backend & Sync
   question: How does a WebSocket server scale to a million phones?
-  status: todo
+  status: partial
   guess: ''
-  answer: ''
+  answer: 'A WebSocket server holds one open connection per phone. Assume 10 to 50 KB each, so 1,000,000 connections need 10 to 50 GB of memory; one machine holds tens to hundreds of thousands (file descriptors, memory), so about 10 servers, or 20 with headroom. A shared layer such as Redis pub/sub routes a message to the server that holds the user''s connection. When a server dies its phones reconnect together, so use random delay (jitter) to avoid a reconnect storm, and tune heartbeats for battery vs detecting dead connections. (Answer from the tutor: write your own version.)'
 english:
   kind: words
   theme: Architecture talk
@@ -22,9 +22,10 @@ english:
     meaning: recovers from failure
   grammar: Past simple vs present perfect ("I built" vs "I have built")
   task: Write 3 sentences about today's topic using both words and the week's grammar point.
-  status: todo
+  status: partial
   sentences: []
-  feedback: []
+  feedback:
+  - 'Words taught: extensible = easy to add to without rewriting; resilient = recovers quickly from failure. Grammar: past simple = a finished action at a specific past time (''I built the server yesterday''); present perfect = have/has + past participle for a past action connected to now (''I have built three endpoints this week''). Signals: yesterday, ago, last week, in 2024 -> past simple; already, yet, ever, never, just, so far, this week -> present perfect. Never ''I have built it yesterday''. Own three sentences still to write.'
 lens:
   role: Team Lead
   question: How would you split work on "Back-of-envelope estimation + API styles (REST, GraphQL, gRPC)" across 3 engineers, and what is the biggest delivery risk?
