@@ -9,9 +9,9 @@ mq:
 - id: MQ423
   category: Mobile Backend & Sync
   question: How does an API stay backward compatible with 2-year-old app versions?
-  status: todo
+  status: partial
   guess: ''
-  answer: ''
+  answer: 'Keep old apps working by only adding to the contract: never remove, rename or retype a field; give new request fields defaults so old apps that do not send them still work; make clients tolerant readers (ignoreUnknownKeys = true) so new response fields do not crash them; version (/v2) only as a last resort, and then run both for a long window; deprecate with notice and a minimum-supported-version gate that tells very old apps to update; protect the contract with tests. (Answer from the tutor: write your own version.)'
 english:
   kind: words
   theme: Architecture talk
@@ -24,7 +24,8 @@ english:
   task: Write 3 sentences about today's topic using both words and the week's grammar point.
   status: todo
   sentences: []
-  feedback: []
+  feedback:
+  - 'Words to use: latency = the delay before a response; throughput = the work done per second. Grammar: past simple vs present perfect (see 2026-10-14). Own three sentences still to write.'
 lens:
   role: CTO
   question: What is the business impact of "Requests, responses, serialization, validation, status codes" (cost, hiring, build vs buy, risk)? Invest now or later?
