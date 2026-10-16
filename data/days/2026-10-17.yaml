@@ -9,15 +9,15 @@ mq:
 - id: MQ31
   category: App Launch
   question: How does tapping an app icon launch the app?
-  status: todo
+  status: partial
   guess: ''
-  answer: ''
+  answer: 'The Launcher calls startActivity, which travels over Binder to system_server (ActivityManager). With no process, system_server shows a placeholder window at once and asks Zygote over its socket for a process; Zygote forks a warm copy, which changes to the app''s user ID and runs ActivityThread.main(): it creates the main Looper, calls attach, and loops forever. system_server then sends bindApplication, and the main thread creates the Application, starts every ContentProvider and runs Application.onCreate; next the Activity runs onCreate, onStart and onResume, and the first frame is drawn (Displayed +NNNms). (Answer from the tutor: write your own version.)'
 - id: MQ32
   category: App Launch
   question: How does Launcher know installed apps?
-  status: todo
+  status: partial
   guess: ''
-  answer: ''
+  answer: 'PackageManager in system_server scanned every APK at boot (the pms_* boot events) and keeps the list, updated on every install and removal. The Launcher asks for every activity that declares MAIN + LAUNCHER (through the LauncherApps service or queryIntentActivities) and gets a callback when an app is installed or removed. (Answer from the tutor: write your own version.)'
 english:
   kind: practice
   theme: Architecture talk
