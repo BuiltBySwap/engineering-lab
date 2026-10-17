@@ -9,9 +9,9 @@ mq:
 - id: MQ6
   category: Boot Process
   question: How does Zygote start?
-  status: todo
+  status: partial
   guess: ''
-  answer: ''
+  answer: '`init` reads init.zygote64.rc and starts the zygote service, which runs app_process64 with --zygote --start-system-server. app_process starts the ART runtime and calls ZygoteInit.main: it preloads classes and resources once, opens the Zygote socket, forks system_server, then waits on the socket to fork an app process on request. (Answer from the tutor: write your own version.)'
 english:
   kind: words
   theme: Architecture talk

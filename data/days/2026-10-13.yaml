@@ -9,9 +9,9 @@ mq:
 - id: MQ338
   category: Kotlin & Coroutines Runtime
   question: How does viewModelScope cancel work when a screen closes?
-  status: todo
+  status: partial
   guess: ''
-  answer: ''
+  answer: 'viewModelScope is built on a SupervisorJob. When the ViewModel is cleared (the screen is finished for good, not on rotation) its scope is cancelled, so every child coroutine gets a CancellationException at its next suspension point; suspend calls such as Retrofit''s cancel their work and finally blocks run. It is supervised so one failed request does not cancel the others, but expected failures still need a try/catch inside. (Answer from the tutor: write your own version.)'
 english:
   kind: words
   theme: Architecture talk
